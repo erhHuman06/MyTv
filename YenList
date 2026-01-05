@@ -1,0 +1,208 @@
+#EXTM3U
+#EXTINF:30,Sinema Aile
+https://ds.ayakkabiparti.lol/sinemaaile/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,SDM Tv1
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:30,A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+
+#EXTINF:30,Teve2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
+
+#EXTINF:30,360
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+
+#EXTINF:30,Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
+#EXTINF:30,Sözcü
+https://ds.ayakkabiparti.lol/sozcutv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+
+#EXTINF:30,Tele1
+https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+
+#EXTINF:30,BiR TV
+https://clvd26.socialsmart.tv/birtv/bant1/chunks.m3u8?nimblesessionid=198953932
+
+#EXTINF:30,BiR TV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8?nimblesessionid=1799049869
+
+#EXTINF:30,Çay TV
+https://clvd26.socialsmart.tv/caytv/bant1/chunks.m3u8?nimblesessionid=198960435
+
+#EXTINF:30,LiFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8?nimblesessionid=1799065177
+
+#EXTINF:30,Mavi Karadeniz
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8?nimblesessionid=1799074601
+
+#EXTINF:30,TiVi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8?nimblesessionid=1799084781
+
+#EXTINF:30,TvNET
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+
+#EXTINF:30,TYT Türk
+https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:30,NTV
+https://yayin2.canlitv.fun/live/ntv.stream/chunklist_w929470860.m3u8?hash=dd9050e5be9c479590d5f7e454de8df7
+
+#EXTINF:30,24
+https://ensonhaber-live.ercdn.net/tv24/tv24_1080p.m3u8
+
+#EXTINF:30,HaberTürk
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
+
+#EXTINF:30,Tgrt Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_480p.m3u8
+
+#EXTINF:30,TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:30,Flash Haber
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
+
+#EXTINF:30,Haber Global
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
+
+#EXTINF:30,TV100
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:30,DmaX
+https://trn03.tulix.tv/gt-dmax-tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:30,TLC
+https://trn03.tulix.tv/gt-tlc-tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:30,TRT Belgesel
+https://1508980f6c544f2db07e6f823b6473c8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/e7be2226-904c-449b-874a-e6707f7b15f7/0.m3u8
+
+#EXTINF:30,Ton TV
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
+
+#EXTINF:30,GRT1
+https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:30,TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:30,TRT 2
+https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:30,TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:30,TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master_1440.m3u8
+
+
+
+
+
+
+#EXTINF:30,Star
+https://mn-nl.mncdn.com/dogusdyg_star/live_1080p3000000kbps/index.m3u8?st=Xd8GGdkYgS1wuYDNnziM5w&e=1766024294
+
+#EXTINF:30,Kanal D
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
+
+#EXTINF:30,ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+
+#EXTINF:30,Show TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
+
+#EXTINF:30,NoW
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+
+#EXTINF:30,TV8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+
+#EXTINF:30,TV8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+
+#EXTINF:30,Kanal 7
+https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7_1080p.m3u8
+
+
+
+
+
+
+
+#EXTINF:30,EuroStar
+https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=5CqNj2k4ZffznhQuu4NUHg&e=1766023789
+
+#EXTINF:30,EuroD
+https://tatatam.trt1sultanfatihss.workers.dev/https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+
+#EXTINF:30,Show MaX
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
+
+#EXTINF:30,Euro Kanal 7
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:30,BeinS1
+https://one.b2a7fa109ef84a6f.click/live/sbeinsports-1/playlist.m3u8
+
+#EXTINF:30,BeinS2
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:30,BeinS3
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:30,BeinS4
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs4.m3u8
+
+
+
+
