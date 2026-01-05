@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:30,Sinema
+http://65.108.239.207/sinema/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Sinema2
+http://65.108.239.207/sinema2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Sinema1001
+http://65.108.239.207/sinema1001/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Sinema1002
+http://65.108.239.207/sinema1002/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Sinema Aile
+http://65.108.239.207/sinemaaile/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Sinema Aksiyon
+http://65.108.239.207/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Sinema Aksiyon2
+http://65.108.239.207/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Sinema Komedi
+http://65.108.239.207/sinemakomedi/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Sinema Yerli
+http://65.108.239.207/sinemayerli/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Sinema Yerli2
+http://65.108.239.207/sinemayerli2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Beinmovies Aile
+http://65.108.239.207/bsfamily/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Beinmovies Aksiyon1
+http://65.108.239.207/bsaction1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Beinmovies BoX1
+http://65.108.239.207/box1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Beinmovies BoX2
+http://65.108.239.207/box2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Beinmovies BoX3
+http://65.108.239.207/box3/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Beinmovies Premier1
+http://65.108.239.207/bspremier1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Beinmovies Stars
+http://65.108.239.207/bsstars/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Beinmovies Türk
+http://65.108.239.207/bsturk/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,MovieSmart Türk
+http://65.108.239.207/mvturk/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,A Haber
+http://65.108.239.207/ahaber/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,A Spor
+http://65.108.239.207/aspor/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,ATV
+http://65.108.239.207/atv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Star
+http://65.108.239.207/startv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Kanal D
+http://65.108.239.207/kanald/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Show TV
+http://65.108.239.207/showtv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Tv8
+http://176.123.10.77:8480/tv8/tracks-v1a1/mono.m3u8
+
+#EXTINF:30,Tv8,5
+http://176.123.10.77:8480/tv8bucuk/tracks-v1a1/mono.m3u8
+http://176.123.10.77:8480/tv8bucuk/index.m3u8
+
+#EXTINF:30,BBC EARTH
+http://65.108.239.207/bbc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,History
+http://65.108.239.207/history/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Bein1
+http://176.123.10.77:8480/b1/tracks-v1a1/mono.m3u8
+
+#EXTINF:30,KuzeyMax
+http://75.119.144.48/KUZEYMAXHD_STREAM/tracks-v1a1/mono.m3u8
+
+#EXTINF:30,SüperTürk
+http://75.119.144.48/SUPERTURK_TV_STREAM/tracks-v1a1/mono.m3u8
+
+#EXTINF:30,Kemal Sunal
+http://87.121.104.29:145/kemalsunal/stream.m3u8
+
+
+
+
+#EXTINF:30,Dmax
+http://87.121.104.29:145/dmax/stream.m3u8
+
+
+
+#EXTINF:30,HBB
+http://162.212.179.32/akamaissh101/ssh101/hbb_tv/chunks.m3u8
+
+#EXTINF:30,Düzgün TV
+http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/chunklist_w1290305097.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:30,A2
+http://95.174.71.114/TR-A2/tracks-v1a1/mono.m3u8
+
+#EXTINF:30,Tv8
+http://95.174.71.114/TR-TV8/tracks-v1a1/mono.m3u8
+
+#EXTINF:30,360
+http://95.174.71.114/TR-TV-360/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:30,Beyaz TV
+http://95.174.71.114/TR-BEYAZ/tracks-v1a1/mono.m3u8
+
+#EXTINF:30,Show TV
+http://95.174.71.114/TR-SHOW/tracks-v1a1/mono.m3u8
+
+#EXTINF:30,Star
+http://95.174.71.114/TR-STAR/tracks-v1a1/mono.m3u8
+
+#EXTINF:30,Kanal D
+http://95.174.71.114/TR-KANAL-D/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:30,Sözcü
+http://5.178.103.239:82/yt1/s/sozcutv.m3u8
+
+#EXTINF:30,HaberTürk
+http://5.178.103.239:82/yt1/s/haberturk.m3u8
+
+
+#EXTINF:30,Pofidix Sinema
+http://5.178.103.239:82/d/live/out.m3u8
+
+
+
+#EXTINF:30,TRT 1
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:30,Show TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8?hash=e6ca674bec2aa40f5fd1cded1cf9af3b
+
+#EXTINF:30,Star
+https://yayin2.canlitv.fun/live/startv.stream/chunklist_w2102105213.m3u8?hash=fd5bb8fabd13516e8c5e1891c0d4f8cf
+
+#EXTINF:30,Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+#EXTINF:30,ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+
+#EXTINF:30,CNN Türk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+
+#EXTINF:30,TV100
+https://ensonhaber-live.ercdn.net/tv100/tv100_360p.m3u8
+
+
+#EXTINF:30,TV100
+https://turkcanli.tv/alanyatv_tur
+
+
+
+
+
+
+
+
+
+
+
