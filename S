@@ -1,0 +1,242 @@
+#EXTM3U
+#EXTINF:30,Sinema
+http://65.108.239.207/sinema/index.m3u8
+
+#EXTINF:30,Sinema2
+http://65.108.239.207/sinema2/index.m3u8
+
+#EXTINF:30,Sinema1001
+http://65.108.239.207/sinema1001/index.m3u8
+
+#EXTINF:30,Sinema1002
+http://65.108.239.207/sinema1002/index.m3u8
+
+#EXTINF:30,Sinema Aksiyon
+http://65.108.239.207/sinemaaksiyon/index.m3u8
+
+#EXTINF:30,Sinema Aksiyon2
+http://65.108.239.207/sinemaaksiyon2/index.m3u8
+
+#EXTINF:30,Sinema Aile
+http://65.108.239.207/sinemaaile/index.m3u8
+
+#EXTINF:30,Sinema Komedi
+http://65.108.239.207/sinemakomedi/index.m3u8
+
+
+
+
+
+
+#EXTINF:30,BM Action
+http://65.108.239.207/bsaction1/index.m3u8
+
+#EXTINF:30,BM Aile
+http://65.108.239.207/bsfamily/index.m3u8
+
+#EXTINF:30,BM Premiere
+http://65.108.239.207/bspremier1/index.m3u8
+
+#EXTINF:30,BM Türk
+http://65.108.239.207/bsturk/index.m3u8
+
+#EXTINF:30,MS Türk
+http://65.108.239.207/mvturk/index.m3u8
+
+#EXTINF:30,BX1
+http://65.108.239.207/box1/index.m3u8
+
+#EXTINF:30,BX2
+http://65.108.239.207/box2/index.m3u8
+
+#EXTINF:30,BX3
+http://65.108.239.207/box3/index.m3u8
+
+#EXTINF:30,KuzeyMax
+http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
+
+#EXTINF:30,Yansıma TV
+http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
+
+
+
+#EXTINF:30,Kemal Sunal
+http://104.238.23.182/yt1/s/kemalsunal1.m3u8
+
+#EXTINF:30,Kemal Sunal1
+http://104.238.23.182/yt1/s/kemalsunal.m3u8
+
+#EXTINF:30,Kemal Sunal2
+http://104.238.23.182/yt1/s/kemalsunal2.m3u8
+
+#EXTINF:30,Sinema Yerli
+http://65.108.239.207/sinemayerli/index.m3u8
+
+#EXTINF:30,Sinema Yerli2
+http://65.108.239.207/sinemayerli2/index.m3u8
+
+
+
+#EXTINF:30,A2
+http://89.187.191.41/A2-HD-TR/video.m3u8
+
+#EXTINF:30,Teve2
+https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ppid=ca339af6d146970f06875d9f57047722
+
+#EXTINF:30,Beyaz TV
+http://95.174.71.114/TR-BEYAZ/index.m3u8
+
+#EXTINF:30,360
+http://95.174.71.114/TR-TV-360/index.m3u8
+
+#EXTINF:30,Dmax
+https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=aUFXSlJKaTFLUERQK3JoOUVva0lnYnVLc1JHSnVQNkNNcHJxVDR6eDdJcz0=
+
+#EXTINF:30,TLC
+https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=ZjB0c1VIMFcvcXg4bUdIcndDVW1GMEpYVTh4bVQxY0JGM2VOVGcrL1JGTT0=&sid=7y07wer3569i&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
+
+#EXTINF:30,Tele1
+https://cdn505.ecanlitvizle.org/tele1.m3u8?tkn=P0HoGJSqq85X9bdDPHNuPg&tms=1764090504&hst=tv.ecanlitvizle.org&ip=78.167.77.196&utkn=914e2b9530f23a900e25f5c75a43270b&ch=tele1-canli
+
+
+#EXTINF:30,Haber Global
+http://104.238.23.182/yt1/s/haberglobal.m3u8
+
+#EXTINF:30,A Haber
+http://65.108.239.207/ahaber/index.m3u8
+
+
+
+
+
+#EXTINF:30,A Spor
+http://65.108.239.207/aspor/index.m3u8
+
+#EXTINF:30,HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7y0a4cd6iwta&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
+
+
+
+
+#EXTINF:30,Discovery
+http://65.108.239.207/discovery/index.m3u8
+
+#EXTINF:30,Disco
+http://65.108.239.207/discs/index.m3u8
+
+#EXTINF:30,Docubox
+http://65.108.239.207/docubox/index.m3u8
+
+#EXTINF:30,History
+http://65.108.239.207/history/index.m3u8
+
+#EXTINF:30,Viasat History
+http://65.108.239.207/viasathistory/index.m3u8
+
+#EXTINF:30,T1
+http://65.108.239.207/t1/index.m3u8
+
+#EXTINF:30,T2
+http://65.108.239.207/t2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,T3
+http://65.108.239.207/t3/index.m3u8
+
+#EXTINF:30,T4
+http://65.108.239.207/t4/index.m3u8
+
+
+
+#EXTINF:30,Tarih TV
+http://65.108.239.207/tarihtv/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:30,ATV
+http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Star
+http://95.174.71.114/TR-STAR/index.m3u8
+
+#EXTINF:30,Kanal D
+http://95.174.71.114/TR-KANAL-D/index.m3u8
+
+#EXTINF:30,Show TV
+http://95.174.71.114/TR-SHOW/index.m3u8
+
+#EXTINF:30,TV8
+http://89.187.191.41/TV8-HD-TR/video.m3u8
+
+#EXTINF:30,TV8.5
+http://65.108.239.207/tv85/index.m3u8
+
+#EXTINF:30,NOW
+http://95.174.71.114/TR-FOX/index.m3u8
+
+#EXTINF:30,TRT 1
+https://cdn503.ecanlitvizle.org/trt1720.m3u8?tkn=Ecz-mt1Dr3vv6usdSHtKbw&tms=1764090066&hst=tv.ecanlitvizle.org&ip=78.167.77.196&utkn=914e2b9530f23a900e25f5c75a43270b&ch=trt1-canli
+
+#EXTINF:30,TRT Spor
+https://trt.daioncdn.net/trtspor/master_1440p.m3u8?platform=trtspor&sid=7y08rn3wpd1y&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
+
+#EXTINF:30,TRT Haber
+https://cdn503.ecanlitvizle.org/trthaber.m3u8?tkn=SUyDRXfvAqhkuKOlqVkJyQ&tms=1764090288&hst=tv.ecanlitvizle.org&ip=78.167.77.196&utkn=914e2b9530f23a900e25f5c75a43270b&ch=trt-haber-canli
+
+#EXTINF:30,TRT Müzik
+https://cdn900.ecanlitvizle.org/trtmuzik.m3u8?tkn=Bh6J7SGQmt5BfhmawaBWCQ&tms=1764090561&hst=tv.ecanlitvizle.org&ip=78.167.77.196&utkn=914e2b9530f23a900e25f5c75a43270b&ch=trt-muzik-hd-izle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:30,NTV
+https://cdn900.ecanlitvizle.org/tvnet.m3u8?tkn=AukZOnXauqx_y7V5YW4ngg&tms=1764090829&hst=tv.ecanlitvizle.org&ip=78.167.77.196&utkn=914e2b9530f23a900e25f5c75a43270b&ch=tvnet-canli-izle
+
+#EXTINF:30,HaberTürk
+https://cdn506.ecanlitvizle.org/haberturk.m3u8?tkn=MY_iN9ipPZPiQ8rhrJ93Qw&tms=1764090447&hst=tv.ecanlitvizle.org&ip=78.167.77.196&utkn=914e2b9530f23a900e25f5c75a43270b&ch=haberturk-canli
+
+#EXTINF:30,24
+https://cdn504.ecanlitvizle.org/24tv.m3u8?tkn=WJbymMgSSsRw5nV9NJMbfw&tms=1764090687&hst=tv.ecanlitvizle.org&ip=78.167.77.196&utkn=914e2b9530f23a900e25f5c75a43270b&ch=kanal-24-canli
+
+
+
+
+#EXTINF:30,Sözcü TV
+https://cdn900.ecanlitvizle.org/sozcutv.m3u8?tkn=vv01Z1TfChcr47NIol5x8w&tms=1764090405&hst=tv.ecanlitvizle.org&ip=78.167.77.196&utkn=914e2b9530f23a900e25f5c75a43270b&ch=sozcu-tv-canli-izle
+
+#EXTINF:30,Halk TV
+https://cdn501.ecanlitvizle.org/halktv360.m3u8?tkn=oL6lbIInptJjIzcqC8Gchg&tms=1764090337&hst=tv.ecanlitvizle.org&ip=78.167.77.196&utkn=914e2b9530f23a900e25f5c75a43270b&ch=halk-tv-canli-izle
+
+#EXTINF:30,Ulusal TV
+https://cdn900.ecanlitvizle.org/ulusal.m3u8?tkn=V7hO4fqofz0rgdxHmkVuQQ&tms=1764090954&hst=tv.ecanlitvizle.org&ip=78.167.77.196&utkn=914e2b9530f23a900e25f5c75a43270b&ch=ulusal-tv-canli-izle
+
+#EXTINF:30,TVNET
+https://cdn900.ecanlitvizle.org/tvnet.m3u8?tkn=AukZOnXauqx_y7V5YW4ngg&tms=1764090829&hst=tv.ecanlitvizle.org&ip=78.167.77.196&utkn=914e2b9530f23a900e25f5c75a43270b&ch=tvnet-canli-izle
+
+#EXTINF:30,Kanal 7
+http://89.187.191.41/Kanal-7-HD-TR/video.m3u8
+
+
+
+
+#EXTINF:30,Ülke TV
+https://cdn503.ecanlitvizle.org/ulketv.m3u8?tkn=Cgq6M2PE0dSLO8omm3iCRA&tms=1764090605&hst=tv.ecanlitvizle.org&ip=78.167.77.196&utkn=914e2b9530f23a900e25f5c75a43270b&ch=ulke-tv-canli
+
+#EXTINF:30,TV100
+https://cdn503.ecanlitvizle.org/tv100.m3u8?tkn=O0fFGhZTjCGD8PPkIFB27g&tms=1764090649&hst=tv.ecanlitvizle.org&ip=78.167.77.196&utkn=914e2b9530f23a900e25f5c75a43270b&ch=tv-100-canli
+
+#EXTINF:30,Çay TV
+https://cdn900.ecanlitvizle.org/caytv.m3u8?tkn=MbjvXimuE5tDUvH7rmCj-g&tms=1764091203&hst=tv.ecanlitvizle.org&ip=78.167.77.196&utkn=914e2b9530f23a900e25f5c75a43270b&ch=cay-tv
