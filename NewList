@@ -48,19 +48,12 @@ https://ds.ayakkabiparti.lol/box2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:30,Box3
 https://ds.ayakkabiparti.lol/box3/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:30,Artı TV
-https://cdn4.yayin.com.tr/arti/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:30,MoviesSmart Türk
 https://ds.ayakkabiparti.lol/mvturk/tracks-v1a1/mono.ts.m3u8
 
-
 #EXTINF:30,BM Türk
 https://ds.ayakkabiparti.lol/bsturk/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:30,LifeTV
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/l_1888_138025218_23004.ts?nimblesessionid=1973518881
 
 #EXTINF:30,SDM TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
