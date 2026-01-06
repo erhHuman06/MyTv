@@ -44,7 +44,7 @@ http://65.108.239.207/bspremier1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:30,Beinmovies Stars
 https://ds.ayakkabiparti.lol/bsstars/tracks-v1a1/mono.ts.m3u8
 
-SDM Sinema
+#EXTINF:30,SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:30,Beinmovies Türk
