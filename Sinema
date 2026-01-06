@@ -23,12 +23,6 @@ http://65.108.239.207/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:30,Sinema Komedi
 http://65.108.239.207/sinemakomedi/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:30,Sinema Yerli
-http://65.108.239.207/sinemayerli/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:30,Sinema Yerli2
-http://65.108.239.207/sinemayerli2/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:30,Beinmovies Aile
 http://65.108.239.207/bsfamily/tracks-v1a1/mono.ts.m3u8
 
@@ -50,11 +44,20 @@ http://65.108.239.207/bspremier1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:30,Beinmovies Stars
 https://ds.ayakkabiparti.lol/bsstars/tracks-v1a1/mono.ts.m3u8
 
+SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
 #EXTINF:30,Beinmovies Türk
 http://65.108.239.207/bsturk/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:30,MovieSmart Türk
 http://65.108.239.207/mvturk/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Sinema Yerli
+http://65.108.239.207/sinemayerli/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Sinema Yerli2
+http://65.108.239.207/sinemayerli2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:30,A Haber
 http://65.108.239.207/ahaber/tracks-v1a1/mono.ts.m3u8
