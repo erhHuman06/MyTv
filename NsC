@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:30,Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+
+#EXTINF:30,360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:30,TV100
+https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
+
+#EXTINF:30,HaberTürk
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_720p.m3u8
+
+#EXTINF:30,A Haber
+https://ds.ayakkabiparti.lol/ahaber/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Ülke TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+
+#EXTINF:30,TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:30,Sözcü TV
+https://ds.ayakkabiparti.lol/sozcutv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+
+#EXTINF:30,TV8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
+
+#EXTINF:30,TV8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_720p.m3u8
+
+#EXTINF:30,ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+
+#EXTINF:30,Star TV
+https://tatatam.trt1sultanfatihss.workers.dev/https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web
+https://mn-nl.mncdn.com/dogusdyg_star/live_720p1500000kbps/index.m3u8?st=SbYeGDSvRz9DRBtkwItByQ&e=1767839170
+
+#EXTINF:30,Show TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8
+https://ds.ayakkabiparti.lol/showtv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Kanal D
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_720p.m3u8
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
+
+#EXTINF:30,NTV
+https://mn-nl.mncdn.com/dogusdyg_ntv/live_720p1500000kbps/index.m3u8?st=SbYeGDSvRz9DRBtkwItByQ&e=1767839170
+https://mn-nl.mncdn.com/dogusdyg_ntv/live_720p1500000kbps/index.m3u8?st=sOffVq0XXUYciJkglYdYAg&e=1767878374
+
+#EXTINF:30,Tgrt Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+
+#EXTINF:30,Tele1
+https://tele1-live.ercdn.net/tele1/tele1_720p.m3u8
+
+#EXTINF:30,A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
+
+#EXTINF:30,Teve2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_720p.m3u8
+
+#EXTINF:30,TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:30,TYT Türk
+https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:30,CNN Türk
+https://www.canli.co/hls/cnn/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:30,Çay TV
+https://edge.socialsmart.tv:443/caytv/bant1/chunks.m3u8?nimblesessionid=1156003915
+
+
+
+
+
+
+
+
+
+
+#EXTINF:30,BeinS1
+https://andro.326503.xyz/checklist/receptestt.m3u8
+
+#EXTINF:30,BeinS2
+https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:30,BeinS3
+https://andro.1386503.xyz/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:30,BeinS4
+https://andro.1386503.xyz/checklist/androstreamlivebs4.m3u8
+
+#EXTINF:30,BeinS5
+https://andro.1386503.xyz/checklist/androstreamlivebs5.m3u8
+
