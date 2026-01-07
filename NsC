@@ -68,32 +68,13 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_720p.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:30,TYT Türk
-https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
+https://tytturk-live.ercdn.net/tytturk/tytturk_720p.m3u8
 
 
 
 
 #EXTINF:30,CNN Türk
 https://www.canli.co/hls/cnn/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:30,Çay TV
-https://edge.socialsmart.tv:443/caytv/bant1/chunks.m3u8?nimblesessionid=1156003915
-
-
 
 
 
