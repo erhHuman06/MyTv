@@ -67,6 +67,9 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_720p.m3u8
 #EXTINF:30,TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
+#EXTINF:30,Türk Haber
+https://clvd26.socialsmart.tv:443/turkhaber/bant1/chunks.m3u8?nimblesessionid=218614829
+
 #EXTINF:30,TYT Türk
 https://tytturk-live.ercdn.net/tytturk/tytturk_720p.m3u8
 
@@ -75,7 +78,7 @@ https://tytturk-live.ercdn.net/tytturk/tytturk_720p.m3u8
 
 #EXTINF:30,CNN Türk
 https://www.canli.co/hls/cnn/index.m3u8
-
+https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=http%3A%2F%2F95.174.71.114%3A80%2FTR-CNN-TURK%2Ftracks-v1a1%2Fmono.m3u8
 
 
 
