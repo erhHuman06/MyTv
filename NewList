@@ -82,3 +82,7 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:30,İsviçreTV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 
+#EXTINF:30,BmStarts
+http://65.108.239.207/bsstars/tracks-v1a1/2026/01/08/13/47/01-09640.ts
+
+
