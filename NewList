@@ -49,6 +49,10 @@ https://ds.ayakkabiparti.lol/box2/tracks-v1a1/mono.ts.m3u8
 https://ds.ayakkabiparti.lol/box3/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTINF:30,Boncuk TV
+http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
+
+
 #EXTINF:30,MoviesSmart Türk
 https://ds.ayakkabiparti.lol/mvturk/tracks-v1a1/mono.ts.m3u8
 
