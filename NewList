@@ -77,7 +77,7 @@ https://cdn4.yayin.com.tr/yansimasinematv/tracks-v1a1/mono.m3u8
 https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=http%3A%2F%2F75.119.144.48%2FSUPERTURK_TV_STREAM%2Ftracks-v1a1%2Fmono.m3u8
 
 #EXTINF:30,RizeTürk
-https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+https://yayin.rizeturk.com:3777/multi_web/play_1080.m3u8
 
 #EXTINF:30,İsviçreTV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
