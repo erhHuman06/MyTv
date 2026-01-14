@@ -23,56 +23,6 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:30,MvTürk
-http://89.187.191.41/ATV-HD-TR/video.m3u8
-
-
-#EXTINF:30,Sinema 2
-http://65.108.239.207/sinema2/tracks-v1a1/2026/01/14/12/06/20-06000.ts
-
-
-#EXTINF:30,Sinema Aksiyon
-http://65.108.239.207/sinemaaksiyon/tracks-v1a1/2026/01/14/12/09/19-10000.ts
-
-
-#EXTINF:30,Sinema Aksiyon 2
-http://65.108.239.207/sinemaaksiyon2/tracks-v1a1/2026/01/14/12/11/16-06000.ts
-
-
-#EXTINF:30,Sinema Komedi
-http://65.108.239.207/sinemakomedi/tracks-v1a1/2026/01/14/12/11/19-10000.ts
-
-
-#EXTINF:30,BmAksiyon
-http://65.108.239.207/bsaction1/tracks-v1a1/2026/01/14/12/12/34-05966.ts
-
-
-#EXTINF:30,BmBox 1
-http://65.108.239.207/box1/tracks-v1a1/2026/01/14/12/14/41-10000.ts
-
-
-#EXTINF:30,BmBox 2
-http://65.108.239.207/box2/tracks-v1a1/2026/01/14/12/15/55-10400.ts
-
-
-#EXTINF:30,BmBox 3
-http://65.108.239.207/box3/tracks-v1a1/2026/01/14/12/15/55-10400.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
