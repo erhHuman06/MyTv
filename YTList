@@ -53,6 +53,35 @@ http://65.108.239.207/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8
 
 
 
+#EXTINF:30,HBB
+http://162.212.179.32/akamaissh101/ssh101/hbb_tv/playlist.m3u8
+http://162.212.179.32/akamaissh101/ssh101/hbb_tv/chunks.m3u8
+
+
+#EXTINF:30,KuzeyMax
+http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
+http://75.119.144.48/KUZEYMAXHD_STREAM/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:30,Pfidix Sinema
+http://5.178.103.239:82/d/live/out.m3u8
+
+
+#EXTINF:30,Pfidix Sinema 3
+http://104.238.23.182/d/live/out.m3u8
+
+
+
+#EXTINF:30,Yabancı 1
+http://104.238.23.182/s/yabanci.m3u8
+
+
+
+
+
+
+
+
 
 
 
