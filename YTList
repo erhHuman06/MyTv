@@ -38,6 +38,17 @@ http://65.108.239.207/sinema1001/tracks-v1a1/mono.ts.m3u8
 http://65.108.239.207/sinema1002/index.m3u8
 http://65.108.239.207/sinema1002/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:30,Sinema Aile
+http://65.108.239.207/sinemaaile/index.m3u8
+http://65.108.239.207/sinemaaile/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Sinema Aksiyon
+http://65.108.239.207/sinemaaksiyon/index.m3u8
+http://65.108.239.207/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,Sinema Aksiyon 2
+http://65.108.239.207/sinemaaksiyon2/index.m3u8
+http://65.108.239.207/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8
 
 
 
