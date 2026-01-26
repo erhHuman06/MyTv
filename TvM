@@ -1,31 +1,4 @@
 #EXTM3U
-#EXTINF:30,360
-https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-
-
-#EXTINF:30,TV 8
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
-
-
-
-#EXTINF:30,BENGÜTÜRK
-https://tv.ensonhaber.com/benguturk/benguturk_480p.m3u8
-
-
-#EXTINF:30,BLOOMBERG
-https://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
-
-
-#EXTINF:30,BRTV
-https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8?nimblesessionid=2131654739
-
-
-#EXTINF:30,ÇAY TV
-https://clvd26.socialsmart.tv:443/caytv/bant1/chunks.m3u8?nimblesessionid=235970243
-
-
-
-
 #EXTINF:30,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 
@@ -59,6 +32,8 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:30,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
+#EXTINF:30,TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
 
 
 
@@ -80,10 +55,6 @@ https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mon
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:30,ÇAY TV
-https://edge.socialsmart.tv:443/caytv/bant1/chunks.m3u8?nimblesessionid=1201351076
-
-
 #EXTINF:30,KANAL 16
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8?nimblesessionid=2131986461
 
@@ -96,7 +67,8 @@ https://1a-1791.com/live/tv3qa28c/live-hls/27pp-oy3w/chunklist_i1_DVR.m3u8
 #EXTINF:30,TİVİ 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8?nimblesessionid=2132031351
 
-
+#EXTINF:30,BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8?nimblesessionid=2131654739
 
 
 #EXTINF:30,TRT HABER
@@ -134,11 +106,17 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber_720p.m3u8
 #EXTINF:30,İLKE TV
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 
+#EXTINF:30,BENGÜTÜRK
+https://tv.ensonhaber.com/benguturk/benguturk_480p.m3u8
 
+
+#EXTINF:30,BLOOMBERG
+https://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
 
 #EXTINF:30,HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 
-
+#EXTINF:30,ÇAY TV
+https://edge.socialsmart.tv:443/caytv/bant1/chunks.m3u8?nimblesessionid=1201351076
 
 
