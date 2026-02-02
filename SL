@@ -89,6 +89,9 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:30,Güldür Güldür
 http://104.238.23.182/yt1/gg.m3u8
 
+#EXTINF:30,Zeki Metin
+http://104.238.23.182/yt1/zm.m3u8
+
 #EXTINF:30,Arzu Film
 http://104.238.23.182/yt1/kms.m3u8
 
@@ -112,6 +115,9 @@ http://cdn4.yayin.com.tr/yansimasinematv/tracks-v1a1/mono.m3u8
 #EXTINF:30,ÇAY TV
 https://edge.socialsmart.tv:443/caytv/bant1/chunks.m3u8?nimblesessionid=1201351076
 
+#EXTINF:30,Slow Karadeniz
+https://yayin.slowkaradeniztv.com:3390/multi_web/play_1080.m3u8
+
 
 
 #EXTINF:30,Bin1
@@ -124,8 +130,7 @@ https://andro.226503.xyz/checklist/receptestt.m3u8
 http://rtvav.cfd/cdn/bein_sports_1_hd/main.m3u8
 
 
-#EXTINF:30,Slow Karadeniz
-https://yayin.slowkaradeniztv.com:3390/multi_web/play_1080.m3u8
+
 
 
 
