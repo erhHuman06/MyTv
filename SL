@@ -8,7 +8,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
 https://tgn.bozztv.com/gin-dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8
 
 #EXTINF:30,TV 8 INT
-https://tgn.bozztv.com/gin-dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8
+https://tgn.bozztv.com/gin-trn09/gt-sinevizyon-1/tracks-v1a1/mono.m3u8?nimblesessionid=1435502204&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgOTozNDowMyBBTSZoYXNoX3ZhbHVlPXBPQ1lJYmtUUFRWSTJOSU5jZW12aVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==
 
 
 #EXTINF:30,BENGÜTÜRK
