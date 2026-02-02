@@ -193,12 +193,11 @@ https://andro.226503.xyz/checklist/receptestt.m3u8
 
 
 #EXTINF:30,Bin1 (3)
-https://zeustv.info/live/bein1/video.m3u8
-
-
-
-#EXTINF:30,Bin1 (4)
 http://rtvav.cfd/cdn/bein_sports_1_hd/main.m3u8
+
+
+
+
 
 
 
