@@ -124,7 +124,8 @@ https://andro.226503.xyz/checklist/receptestt.m3u8
 http://rtvav.cfd/cdn/bein_sports_1_hd/main.m3u8
 
 
-
+#EXTINF:30,Slow Karadeniz
+https://yayin.slowkaradeniztv.com:3390/multi_web/play_1080.m3u8
 
 
 
