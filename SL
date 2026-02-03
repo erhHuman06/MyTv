@@ -48,7 +48,7 @@ http://104.238.23.182/yt1/kms1.m3u8
 http://104.238.23.182/yt1/kms2.m3u8
 
 #EXTINF:30,Yeşilçam1
-https://tgn.bozztv.com/gin-trn09/gt-yesilcam-tv1/player.m3u8
+https://tgn.bozztv.com/gin-trn09/gt-yesilcam-tv1/playlist.m3u8
 
 #EXTINF:30,Yeşilçam2
 https://bstelevision.com/proxy_stream.php?u=http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/rewind-128800.m3u8
@@ -210,11 +210,11 @@ https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=https%3A%2F%2Fd
 
 
 
+https://youtu.be/9ElkpRG9LHc
 
 
 
-
-
+https://tgn.bozztv.com/gin-trn09/gin-startv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjYgMjowMzo0NCBBTSZoYXNoX3ZhbHVlPU9HR2NtanZOUDdldGpBQThNQlZPN0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yMA==
 
 
 
