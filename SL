@@ -30,6 +30,12 @@ https://ds.ayakkabiparti.lol/sinema1002/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1,Sine1
+https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=http%3A%2F%2F162.212.179.33%3A80%2Fgin-trn09%2Fgt-sinevizyon-1%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1,Sine2
+https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=http%3A%2F%2F162.212.179.33%3A80%2Fgin-trn09%2Fgt-sinevizyon-2%2Ftracks-v1a1%2Fmono.m3u8
+
+
 
 
 #EXTINF:30,TRT 1
@@ -95,7 +101,8 @@ https://1a-1791.com/live/tv3qa28c/live-hls/27pp-oy3w/chunklist_i1_DVR.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 
-
+#EXTINF:30,NTV
+https://tatatam.trt1sultanfatihss.workers.dev/https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
 
 #EXTINF:30,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
@@ -109,6 +116,9 @@ https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:30,24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 
+#EXTINF:30,TYT TÜRK
+https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
+
 #EXTINF:30,ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 
@@ -119,7 +129,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
 
 #EXTINF:30,FLASH HABER
-https://flashhaber-live.ercdn.net/flashhaber/flashhaber_720p.m3u8
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 
 #EXTINF:30,İLKE TV
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
@@ -168,6 +178,12 @@ http://75.119.144.48/KUZEYMAXHD_STREAM/tracks-v1a1/mono.m3u8
 #EXTINF:30,YANSIMA TV
 http://cdn4.yayin.com.tr/yansimasinematv/tracks-v1a1/mono.m3u8
 
+#EXTINF:30,Yeşilçam1
+https://bstelevision.com/proxy_stream.php?u=http://162.212.179.33/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8
+
+#EXTINF:30,Yeşilçam3
+https://bstelevision.com/proxy_stream.php?u=http://162.212.179.33/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8
+
 #EXTINF:30,ÇAY TV
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 
@@ -185,12 +201,12 @@ https://andro.226503.xyz/checklist/receptestt.m3u8
 #EXTINF:30,Bin1 (3)
 http://rtvav.cfd/cdn/bein_sports_1_hd/main.m3u8
 
+#EXTINF:30,Bin1 (4)
+https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=https%3A%2F%2Fdth.meno24074.workers.dev%2Fbs1.m3u8
 
 
 
-
-
-
-
+#EXTINF:30,TRT1
+https://bstelevision.com/proxy_stream.php?u=http://162.212.179.33:80/gin-36bay4/gt-trteu-3/tracks-v1a1/rewind-168880.m3u8
 
 
