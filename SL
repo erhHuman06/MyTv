@@ -36,6 +36,37 @@ https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=http%3A%2F%2F16
 https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=http%3A%2F%2F162.212.179.33%3A80%2Fgin-trn09%2Fgt-sinevizyon-2%2Ftracks-v1a1%2Fmono.m3u8
 
 
+#EXTINF:30,Zeki Metin
+http://104.238.23.182/yt1/zm.m3u8
+
+#EXTINF:30,Arzu Film
+http://104.238.23.182/yt1/kms.m3u8
+
+#EXTINF:30,Film Atölyesi
+http://104.238.23.182/yt1/kms1.m3u8
+
+#EXTINF:30,Sunal1
+http://104.238.23.182/yt1/kms2.m3u8
+
+#EXTINF:30,SuperTürk
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+http://75.119.144.48/SUPERTURK_TV_STREAM/tracks-v1a1/mono.m3u8
+
+#EXTINF:30,KuzeyMAX
+http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
+http://75.119.144.48/KUZEYMAXHD_STREAM/tracks-v1a1/mono.m3u8
+
+#EXTINF:30,YANSIMA TV
+http://cdn4.yayin.com.tr/yansimasinematv/tracks-v1a1/mono.m3u8
+
+#EXTINF:30,Yeşilçam1
+https://bstelevision.com/proxy_stream.php?u=https://162.212.179.33:80/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/rewind-128800.m3u8
+
+#EXTINF:30,Yeşilçam2
+https://bstelevision.com/proxy_stream.php?u=https://162.212.179.33:80/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/rewind-128800.m3u8
+
+#EXTINF:30,Yeşilçam3
+https://bstelevision.com/proxy_stream.php?u=https://162.212.179.33:80/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/rewind-128800.m3u8
 
 
 #EXTINF:30,TRT 1
@@ -152,38 +183,6 @@ https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
 https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:30,Güldür Güldür
-http://104.238.23.182/yt1/gg.m3u8
-
-#EXTINF:30,Zeki Metin
-http://104.238.23.182/yt1/zm.m3u8
-
-#EXTINF:30,Arzu Film
-http://104.238.23.182/yt1/kms.m3u8
-
-#EXTINF:30,Film Atölyesi
-http://104.238.23.182/yt1/kms1.m3u8
-
-#EXTINF:30,Sunal1
-http://104.238.23.182/yt1/kms2.m3u8
-
-#EXTINF:30,SuperTürk
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-http://75.119.144.48/SUPERTURK_TV_STREAM/tracks-v1a1/mono.m3u8
-
-#EXTINF:30,KuzeyMAX
-http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
-http://75.119.144.48/KUZEYMAXHD_STREAM/tracks-v1a1/mono.m3u8
-
-#EXTINF:30,YANSIMA TV
-http://cdn4.yayin.com.tr/yansimasinematv/tracks-v1a1/mono.m3u8
-
-#EXTINF:30,Yeşilçam1
-https://bstelevision.com/proxy_stream.php?u=http://162.212.179.33/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8
-
-#EXTINF:30,Yeşilçam3
-https://bstelevision.com/proxy_stream.php?u=http://162.212.179.33/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8
-
 #EXTINF:30,ÇAY TV
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 
@@ -206,7 +205,15 @@ https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=https%3A%2F%2Fd
 
 
 
-#EXTINF:30,TRT1
-https://bstelevision.com/proxy_stream.php?u=http://162.212.179.33:80/gin-36bay4/gt-trteu-3/tracks-v1a1/rewind-168880.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
