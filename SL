@@ -1,21 +1,36 @@
 #EXTM3U
-#EXTINF:30,360
-https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+#EXTINF:-1,BM Stars
+http://65.108.239.207/bsstars/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Sinema
+http://65.108.239.207:80/sinema/index.m3u8
+#EXTINF:-1,Sinema 2
+http://65.108.239.207:80/sinema2/index.m3u8
+#EXTINF:-1,Sinema Aksiyon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://ds.ayakkabiparti.lol/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Sinema Aksiyon 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://ds.ayakkabiparti.lol/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Sinema Aile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://stream.tecostream.xyz/Sinema_Aile.php
+#EXTINF:-1,Sinema 1001
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://stream.tecostream.xyz/Sinema_1001.php
+#EXTINF:-1,Sinema 1002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://ds.ayakkabiparti.lol/sinema1002/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Sinema Komedi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:30,TV 8
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
 
-#EXTINF:30,BENGÜTÜRK
-https://tv.ensonhaber.com/benguturk/benguturk_480p.m3u8
-
-#EXTINF:30,BLOOMBERG
-https://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
-
-#EXTINF:30,BRTV
-https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8?nimblesessionid=2131654739
-
-#EXTINF:30,ÇAY TV
-https://clvd26.socialsmart.tv:443/caytv/bant1/chunks.m3u8?nimblesessionid=235970243
 
 #EXTINF:30,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
@@ -32,6 +47,9 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_720p.m3u8
 #EXTINF:30,SHOW TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8
 
+#EXTINF:30,TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
+
 #EXTINF:30,KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
@@ -41,20 +59,43 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:30,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
+#EXTINF:30,DmaX
+https://trn03.tulix.tv/gt-dmax-tv/tracks-v1a1/mono.m3u8
+https://trn03.tulix.tv/gt-dmax-tv/index.m3u8
+
+#EXTINF:30,TLC
+https://trn03.tulix.tv/gt-tlc-tv/tracks-v1a1/mono.m3u8
+https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
+
+
+
+
 #EXTINF:30,BİRTV
 https://clvd26.socialsmart.tv:443/birtv/bant1/chunks.m3u8?nimblesessionid=235999441
 
 #EXTINF:30,BRÜKSEL TÜRK
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 
-#EXTINF:30,KANAL 16
-https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8?nimblesessionid=2131986461
+#EXTINF:30,BENGÜTÜRK
+https://tv.ensonhaber.com/benguturk/benguturk_480p.m3u8
+
+#EXTINF:30,BLOOMBERG
+https://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
+
+#EXTINF:30,BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8?nimblesessionid=2131654739
+
+#EXTINF:30,On6
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
 
 #EXTINF:30,TELE ON
 https://1a-1791.com/live/tv3qa28c/live-hls/27pp-oy3w/chunklist_i1_DVR.m3u8
 
 #EXTINF:30,TİVİ 6
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8?nimblesessionid=2132031351
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+
+
 
 #EXTINF:30,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
@@ -85,6 +126,21 @@ https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 
 #EXTINF:30,HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+
+#EXTINF:30,Sözcü
+https://ds.ayakkabiparti.lol/sozcutv/tracks-v1a1/mono.ts.m3u8
+
+
+
+#EXTINF:30,Ton TV
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
+
+#EXTINF:30,GRT1
+https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
+
+#EXTINF:-1,ONS TV
+https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:30,Güldür Güldür
 http://104.238.23.182/yt1/gg.m3u8
