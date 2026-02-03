@@ -31,10 +31,9 @@ https://ds.ayakkabiparti.lol/sinema1002/tracks-v1a1/mono.ts.m3u8
 https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1,Sine1
-https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=http%3A%2F%2F162.212.179.33%3A80%2Fgin-trn09%2Fgt-sinevizyon-1%2Ftracks-v1a1%2Fmono.m3u8
+https://tgn.bozztv.com/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sine2
-https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=http%3A%2F%2F162.212.179.33%3A80%2Fgin-trn09%2Fgt-sinevizyon-2%2Ftracks-v1a1%2Fmono.m3u8
-
+https://tgn.bozztv.com/gin-trn09/gt-sinevizyon-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:30,Zeki Metin
 http://104.238.23.182/yt1/zm.m3u8
@@ -49,7 +48,7 @@ http://104.238.23.182/yt1/kms1.m3u8
 http://104.238.23.182/yt1/kms2.m3u8
 
 #EXTINF:30,Yeşilçam1
-https://bstelevision.com/proxy_stream.php?u=http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/rewind-128800.m3u8
+https://tgn.bozztv.com/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8
 
 #EXTINF:30,Yeşilçam2
 https://bstelevision.com/proxy_stream.php?u=http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/rewind-128800.m3u8
@@ -67,6 +66,8 @@ http://75.119.144.48/KUZEYMAXHD_STREAM/tracks-v1a1/mono.m3u8
 
 #EXTINF:30,YANSIMA TV
 http://cdn4.yayin.com.tr/yansimasinematv/tracks-v1a1/mono.m3u8
+
+
 
 
 
