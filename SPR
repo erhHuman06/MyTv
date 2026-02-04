@@ -4,19 +4,39 @@ https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 
 #EXTINF:30,BeinS (2)
 https://bstelevision.com/proxy_stream.php?u=http://109.205.187.51/live/PromaciosTelegram/VyjUvxQcbcNJ/805.m3u8
-
+http://rtvav.cfd/cdn/bein_sports_1_hd/main.m3u8
 
 #EXTINF:30,BeinS Haber
 https://bstelevision.com/proxy_stream.php?u=http://162.212.179.33:80/gin-dvrfl05/gin-beinsportshaber/tracks-v1a1/rewind-8800.m3u8
 
 
-#EXTINF:30,T1
-http://65.108.239.207/t1/tracks-v1a1/mono.ts.m3u8
-http://65.108.239.207/t1/index.m3u8
-
-
 #EXTINF:30,TRT SPOR
 https://dsmartgo-live.ercdn.net/trtspor/trtspor_720p.m3u8
+http://sultanweb.site/Smart?ID=11888
+
+#EXTINF:-1,Trt Spor Yıldız
+http://sultanweb.site/Smart?ID=15953
+
+#EXTINF:30,HT SPOR
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
+http://sultanweb.site/Smart?ID=98405
+
+#EXTINF:30,T1
+http://65.108.239.207/t1/index.m3u8
+
+#EXTINF:30,T2
+http://65.108.239.207/t2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:30,T3
+http://65.108.239.207/t3/index.m3u8
+
+#EXTINF:30,T4
+http://65.108.239.207/t4/index.m3u8
+
+#EXTINF:-1,TRSPOR TV
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
+
+
 
 
 #EXTINF:30,A SPOR
@@ -26,6 +46,22 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+
+
+#EXTINF:-1,Eurosport 1
+http://sultanweb.site/Smart?ID=11892
+
+#EXTINF:-1 ,Eurosport 2
+http://sultanweb.site/Smart?ID=11900
+
+#EXTINF:-1,Spor Smart
+http://sultanweb.site/Smart?ID=11909
+
+#EXTINF:-1,Spor Smart 2
+http://sultanweb.site/Smart?ID=14585
+
+
+
 
 #EXTINF:30,BeinS(Y)
 https://zeustv.info/live/bein1/video.m3u8
