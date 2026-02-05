@@ -20,39 +20,42 @@ http://rtvav.cfd/cdn/bein_sports_1_hd/main.m3u8
 
 
 #EXTINF:30,TRT SPOR
-https://dsmartgo-live.ercdn.net/trtspor/trtspor_720p.m3u8
-http://sultanweb.site/Smart?ID=11888
+https://zeustv.info/live/trtspor/playlist.m3u8
 
 #EXTINF:-1,TRT Spor Yıldız
-https://andro.1286503.xyz/checklist/androstreamlivetrtsy.m3u8
+https://zeustv.info/live/trtsporyildiz/playlist.m3u8
 
 #EXTINF:30,HT SPOR
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 http://sultanweb.site/Smart?ID=98405
 
+
+#EXTINF:30,T
+https://andro.226503.xyz/checklist/androstreamlivets.m3u8
+
 #EXTINF:30,T1
-https://ojh.d72577a9dd0ec22.sbs/t1/mono.m3u8
+https://andro.226503.xyz/checklist/androstreamlivets1.m3u8
 
 #EXTINF:30,T2
-https://ojh.d72577a9dd0ec22.sbs/t2/mono.m3u8
+https://andro.326503.xyz/checklist/androstreamlivets2.m3u8
 
 #EXTINF:30,T3
-https://ojh.d72577a9dd0ec22.sbs/t3/mono.m3u8
+https://andro.1386503.xyz/checklist/androstreamlivets3.m3u8
 
 #EXTINF:30,T4
-https://ojh.d72577a9dd0ec22.sbs/t4/mono.m3u8
+https://andro.1286503.xyz/checklist/androstreamlivets4.m3u8
 
 #EXTINF:30,BeinS 2
-https://ojh.d72577a9dd0ec22.sbs/b2/mono.m3u8
+https://zeustv.info/live/bein2/playlist.m3u8
 
 #EXTINF:30,BeinS 3
-https://ojh.d72577a9dd0ec22.sbs/b3/mono.m3u8
+https://zeustv.info/live/bein3/playlist.m3u8
 
 #EXTINF:30,BeinS 4
-https://ojh.d72577a9dd0ec22.sbs/b4/mono.m3u8
+https://zeustv.info/live/bein4/playlist.m3u8
 
 #EXTINF:30,BeinS 5
-https://ojh.d72577a9dd0ec22.sbs/b5/mono.m3u8
+https://zeustv.info/live/bein5/playlist.m3u8
 
 
 
@@ -65,12 +68,11 @@ http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 
+#EXTINF:30,TABi TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 #EXTINF:30,TABi SPOR
 https://ojh.d72577a9dd0ec22.sbs/ex7/mono.m3u8
-
-#EXTINF:30,TABi SPOR
-
 
 
 
