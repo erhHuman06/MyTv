@@ -38,6 +38,18 @@ https://andro.226503.xyz/checklist/androstreamlivetrtsy.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 http://sultanweb.site/Smart?ID=98405
 
+#EXTINF:30,TRT 1
+http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+
+
+#EXTINF:30,TABi TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+
+#EXTINF:30,TABi SPOR
+https://andro.226503.xyz/checklist/androstreamlivetb.m3u8
+
+
 
 #EXTINF:30,Tivibu Spor
 https://andro.226503.xyz/checklist/androstreamlivets.m3u8
@@ -70,16 +82,10 @@ https://andro.326503.xyz/checklist/androstreamlivebs5.m3u8
 
 
 
-#EXTINF:30,TRT 1
-http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 
-#EXTINF:30,TABi TV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
-#EXTINF:30,TABi SPOR
-https://andro.226503.xyz/checklist/androstreamlivetb.m3u8
+
 
 
 
