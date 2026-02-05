@@ -2,19 +2,29 @@
 #EXTINF:30,BeinS 1
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 
-#EXTINF:30,BeinS Y1
+#EXTINF:30,BeinS 1 Yedek1
 https://zeustv.info/live/bein1/playlist.m3u8
 
-#EXTINF:30,BeinS Y2
+#EXTINF:30,BeinS 1 Yedek2
 https://one.b2a7fa109ef84a6f.click/live/sbeinsports-1/playlist.m3u8
 
-#EXTINF:30,BeinS Y3
+#EXTINF:30,BeinS 1 Yedek3
 http://rtvav.cfd/cdn/bein_sports_1_hd/main.m3u8
+
+#EXTINF:30,BeinS 1 Yedek4
+https://ojh.d72577a9dd0ec22.sbs/zirve/mono.m3u8
+
+#EXTINF:30,BeinS 1 Yedek5
+https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=https%3A%2F%2Fdth.meno24074.workers.dev%2Fbs1.m3u8
+
+#EXTINF:30,BeinS 1 Yedek6
+http://104.238.23.182/tv/1/bein1.m3u8
+
 
 
 
 #EXTINF:30,BeinS Haber
-https://bstelevision.com/proxy_stream.php?u=http://162.212.179.33:80/gin-dvrfl05/gin-beinsportshaber/tracks-v1a1/rewind-8800.m3u8
+http://104.238.23.182/yt1/bsh.m3u8
 
 
 #EXTINF:30,TRT SPOR
@@ -29,44 +39,59 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 http://sultanweb.site/Smart?ID=98405
 
 #EXTINF:30,T1
-http://65.108.239.207/t1/index.m3u8
+https://ojh.d72577a9dd0ec22.sbs/t1/mono.m3u8
 
 #EXTINF:30,T2
-http://65.108.239.207/t2/tracks-v1a1/mono.ts.m3u8
+https://ojh.d72577a9dd0ec22.sbs/t2/mono.m3u8
 
 #EXTINF:30,T3
-http://65.108.239.207/t3/index.m3u8
+https://ojh.d72577a9dd0ec22.sbs/t3/mono.m3u8
 
 #EXTINF:30,T4
-http://65.108.239.207/t4/index.m3u8
+https://ojh.d72577a9dd0ec22.sbs/t4/mono.m3u8
 
 #EXTINF:30,BeinS 2
-https://zeustv.info/live/bein2/playlist.m3u8
+https://ojh.d72577a9dd0ec22.sbs/b2/mono.m3u8
 
 #EXTINF:30,BeinS 3
-https://zeustv.info/live/bein3/playlist.m3u8
+https://ojh.d72577a9dd0ec22.sbs/b3/mono.m3u8
 
 #EXTINF:30,BeinS 4
-https://zeustv.info/live/bein4/playlist.m3u8
+https://ojh.d72577a9dd0ec22.sbs/b4/mono.m3u8
 
 #EXTINF:30,BeinS 5
-https://zeustv.info/live/bein5/playlist.m3u8
+https://ojh.d72577a9dd0ec22.sbs/b5/mono.m3u8
 
 
-
-#EXTINF:-1,TRSPOR TV
-http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
 #EXTINF:30,A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+https://ojh.d72577a9dd0ec22.sbs/as/mono.m3u8
 
 #EXTINF:30,TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
+
+
 #EXTINF:30,TABi SPOR
-https://andro.1386503.xyz/checklist/androstreamlivetb.m3u8
+https://ojh.d72577a9dd0ec22.sbs/ex7/mono.m3u8
+
+#EXTINF:30,TABi SPOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
