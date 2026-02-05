@@ -8,10 +8,10 @@ https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=https%3A%2F%2Fd
 #EXTINF:30,BeinS 1 Yedek2
 https://zeustv.info/live/bein1/playlist.m3u8
 
-#EXTINF:30,BeinS 1 Yedek3
+#EXTINF:-1,BeinS 1 Yedek3
 https://ojh.d72577a9dd0ec22.sbs/zirve/mono.m3u8
 
-#EXTINF:30,BeinS 1 Yedek4
+#EXTINF:-1,BeinS 1 Yedek4
 http://104.238.23.182/tv/1/bein1.m3u8
 
 
