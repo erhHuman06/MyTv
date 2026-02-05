@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF:30,BeinS (1)
+#EXTINF:30,BeinS 1
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 
-#EXTINF:30,BeinS (2)
+#EXTINF:30,BeinS Y1
 https://zeustv.info/live/bein1/playlist.m3u8
 
+#EXTINF:30,BeinS Y2
+https://one.b2a7fa109ef84a6f.click/live/sbeinsports-1/playlist.m3u8
 
-#EXTINF:30,BeinS (3)
+#EXTINF:30,BeinS Y3
 http://rtvav.cfd/cdn/bein_sports_1_hd/main.m3u8
 
 
@@ -38,11 +40,22 @@ http://65.108.239.207/t3/index.m3u8
 #EXTINF:30,T4
 http://65.108.239.207/t4/index.m3u8
 
+#EXTINF:30,BeinS 2
+https://zeustv.info/live/bein2/playlist.m3u8
+
+#EXTINF:30,BeinS 3
+https://zeustv.info/live/bein3/playlist.m3u8
+
+#EXTINF:30,BeinS 4
+https://zeustv.info/live/bein4/playlist.m3u8
+
+#EXTINF:30,BeinS 5
+https://zeustv.info/live/bein5/playlist.m3u8
+
+
+
 #EXTINF:-1,TRSPOR TV
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
-
-
-
 
 #EXTINF:30,A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
