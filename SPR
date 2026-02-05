@@ -20,7 +20,7 @@ https://cdn.codenet.work/streamgo/stremgo123/4904.m3u8
 https://saraydorf.de/tv/somine/854692-hd_1920_1080_24fps.m3u8
 http://rtvav.cfd/cdn/bein_sports_1_hd/main.m3u8
 
-#EXTINF:30,A SPOR
+#EXTINF:-1,A SPOR
 https://andro.226503.xyz/checklist/androstreamliveas.m3u8
 
 
