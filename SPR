@@ -8,8 +8,8 @@ https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=https%3A%2F%2Fd
 #EXTINF:30,BeinS 1 Yedek2
 https://zeustv.info/live/bein1/playlist.m3u8
 
-#EXTINF:-1,BeinS 1 Yedek3
-https://andro.1386503.xyz/checklist/androstreamlivetv85.m3u8
+#EXTINF:30,BeinS 1 Yedek3
+http://rtvav.cfd/cdn/bein_sports_1_hd/main.m3u8
 
 #EXTINF:-1,BeinS 1 Yedek4
 https://cdn.codenet.work/streamgo/stremgo123/4904.m3u8
