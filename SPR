@@ -19,8 +19,7 @@ http://rtvav.cfd/cdn/bein_sports_1_hd/main.m3u8
 
 
 #EXTINF:30,BeinS Haber
-https://b.55e6be84e41ad3e8d7.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5061/playlist.m3u8?verify=1770346352646~185.107.56.73~fdbe1aa0578aec57895f6ab8cebcc202
-
+http://176.65.146.136:6003/play/a012/index.m3u8
 
 
 #EXTINF:-1,A SPOR
