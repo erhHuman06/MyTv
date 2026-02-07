@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1,BeinS 1
+https://zeustv.info/live/bein1/playlist.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 
 #EXTINF:-1,BeinS 1 Yedek1
@@ -7,6 +8,7 @@ https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=https%3A%2F%2Fd
 
 #EXTINF:-1,BeinS 1 Yedek2
 https://zeustv.info/live/bein1/playlist.m3u8
+
 
 #EXTINF:-1,BeinS 1 Yedek3
 https://cdn.codenet.work/streamgo/stremgo123/4904.m3u8
