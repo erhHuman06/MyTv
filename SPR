@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1,BeinS 1
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-
-#EXTINF:-1,BeinS 1 (2)
 https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=https%3A%2F%2Fdth.meno24074.workers.dev%2Fbs1.m3u8
 
-#EXTINF:-1,BeinS 1 (3)
+#EXTINF:-1,BeinS 1 (2)
 https://8.arectv30.sbs/static/bs1.m3u8
 
-#EXTINF:-1,BeinS 1 (4)
+#EXTINF:-1,BeinS 1 (3)
 https://v.arectv30.sbs/static/bs11.m3u8
+
+#EXTINF:-1,BeinS 1 (4)
 https://bs.arectv31.sbs/static/bs1.m3u8
 
 #EXTINF:-1,BeinS 1 Yedek1
@@ -23,8 +23,7 @@ https://zeustv.info/live/bein1/playlist.m3u8
 
 
 #EXTINF:-1,BeinS 1 Yedek4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://bo.156adc9e6e8bdb97f0.workers.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/-/777/playlist.m3u8
+
 
 #EXTINF:-1,BeinS 1 Yedek5
 
