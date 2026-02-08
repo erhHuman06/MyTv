@@ -59,7 +59,7 @@ http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
 #EXTINF:30,Boncuk TV
-http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
+https://atakan1983.dev.tc/BoncukTV/live/index.m3u8
 
 #EXTINF:30,Kemal Sunal
 http://104.238.23.182/yt1/s/kemalsunal1.m3u8
