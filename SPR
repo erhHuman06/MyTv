@@ -6,23 +6,25 @@ https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 https://zeustv.info/live/bein1/playlist.m3u8
 
 #EXTINF:-1,BeinS 1 (3)
-https://8.arectv30.sbs/static/bs1.m3u8
+https://zeustv.info/live/bein1/chunks.m3u8
 
 #EXTINF:-1,BeinS 1 (4)
-https://v.arectv30.sbs/static/bs11.m3u8
+https://8.arectv30.sbs/static/bs1.m3u8
 
 #EXTINF:-1,BeinS 1 (5)
-https://bs.arectv31.sbs/static/bs1.m3u8
+https://v.arectv30.sbs/static/bs11.m3u8
 
 #EXTINF:-1,BeinS 1 (6)
-https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=https%3A%2F%2Fdth.meno24074.workers.dev%2Fbs1.m3u8
+https://bs.arectv31.sbs/static/bs1.m3u8
 
 #EXTINF:-1,BeinS 1 (7)
-https://andro.326503.xyz/checklist/receptestt.m3u8
+https://bstelevision.com/proxy_stream.php?video_id=0&type=m3u8&u=https%3A%2F%2Fdth.meno24074.workers.dev%2Fbs1.m3u8
 
 #EXTINF:30,BeinS 1 (8)
-https://andro.2385437.xyz/checklist/receptestt.m3u8
+https://andro.326503.xyz/checklist/receptestt.m3u8
 
+#EXTINF:30,BeinS 1 (9)
+https://andro.2385437.xyz/checklist/receptestt.m3u8
 
 
 #EXTINF:30,BeinS 1 Yedek5
