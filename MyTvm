@@ -44,8 +44,8 @@ https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8?tms=176183168
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES TüRK
 http://65.108.239.207/box1/tracks-v1a1/mono.ts.m3u8
 
-
-
+#EXTINF:-1 group-title="SiNEMA" ,BEiN BOX 1
+http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/6744/index.m3u8
 
 
 
@@ -91,6 +91,12 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 group-title="ULUSAL" ,TEVE 2
 https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ppid=ca339af6d146970f06875d9f57047722
 
+#EXTINF:-1 group-title="ULUSAL" ,A2
+http://89.187.191.41/A2-HD-TR/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="ULUSAL" ,DMAX
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2290/index.m3u8
+
 #EXTINF:-1 group-title="ULUSAL" ,BiR TV
 
 
@@ -99,7 +105,6 @@ https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,BRüKSEL TüRK
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 group-title="ULUSAL" ,TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
@@ -160,6 +165,9 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1 group-title="HABER" ,CNN Türk
 http://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk-audio_TUR=96000-video=3000000.m3u8
 
+#EXTINF:-1 group-title="HABER" ,A HABER
+http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/2294/index.m3u8
+
 #EXTINF:-1 group-title="HABER" ,Türk Haber
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
@@ -182,6 +190,8 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 
 
+#EXTINF:-1 group-title="HABER" ,BEiN HABER
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2323/index.m3u8
 
 
 ----------------------------- SPOR --------------------------------------------------------------------------------------------------------------------
