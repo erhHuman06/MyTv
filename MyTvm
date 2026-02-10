@@ -91,14 +91,22 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_720p.m3u8
 
 ----------------------------- HABER ---------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="HABER" ,TRT HABER
-https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="HABER" ,NTV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
 
 #EXTINF:-1 group-title="HABER" ,24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 
-#EXTINF:-1 group-title="HABER" ,360
-https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+#EXTINF:-1 group-title="HABER" ,TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:30,HABERTÜRK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+
+#EXTINF:30,CNN Türk
+http://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk-audio_TUR=96000-video=3000000.m3u8
+
+
 
 
 
