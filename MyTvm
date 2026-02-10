@@ -41,6 +41,9 @@ https://dsmartgo-live.ercdn.net/sinemakomedi/sinemakomedi_720p.m3u8
 https://dsmartgo-live.ercdn.net/sinemakomedi2/sinemakomedi2_720p.m3u8
 https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q
 
+#EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES STARS
+https://ds.ayakkabiparti.lol/bsstars/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES TüRK
 http://65.108.239.207/box1/tracks-v1a1/mono.ts.m3u8
 
@@ -94,14 +97,19 @@ https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0
 #EXTINF:-1 group-title="ULUSAL" ,A2
 http://89.187.191.41/A2-HD-TR/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="ULUSAL" ,Tv100
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+
 #EXTINF:-1 group-title="ULUSAL" ,DMAX
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2290/index.m3u8
+https://trn03.tulix.tv/gt-dmax-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,BiR TV
 
 
 #EXTINF:-1 group-title="ULUSAL" ,BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ULUSAL" ,BRüKSEL TüRK
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
@@ -122,6 +130,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressour
 
 #EXTINF:-1 group-title="ULUSAL" ,KANAL D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+
+#EXTINF:-1 group-title="ULUSAL" ,SHOW TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,NOW
 http://116.202.238.88/FOXTV_TR/tracks-v1a1/mono.m3u8
@@ -200,7 +211,6 @@ http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6781/index.m3u8
 ----------------------------- SPOR --------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="SPOR" ,TRT SPOR
-https://s15.imglink.pro/ml/ITuyYyAgqKWzpl5OYxAbpzymqT1upl5QLKWioP4lZQRkYwRjBQOjYxEIDHjd0zxnJ1aoTyhnl5jpz8s0xi15vr1
 
 
 
