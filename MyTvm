@@ -139,31 +139,31 @@ https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 group-title="HABER" ,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1,HABERTÜRK
+#EXTINF:-1 group-title="HABER" ,HABERTÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 
-#EXTINF:-1,CNN Türk
+#EXTINF:-1 group-title="HABER" ,CNN Türk
 http://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk-audio_TUR=96000-video=3000000.m3u8
 
-#EXTINF:-1,Türk Haber
+#EXTINF:-1 group-title="HABER" ,Türk Haber
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
-#EXTINF:-1,TGRT Haber
+#EXTINF:-1 group-title="HABER" ,TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-1,Haber Global
+#EXTINF:-1 group-title="HABER" ,Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
-#EXTINF:-1,ÜLKE TV
+#EXTINF:-1 group-title="HABER" ,ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
-#EXTINF:-1,BengüTürk
+#EXTINF:-1 group-title="HABER" ,BengüTürk
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 
-#EXTINF:-1,FLASH HABER
+#EXTINF:-1 group-title="HABER" ,FLASH HABER
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 
-#EXTINF:-1,Bloomberght
+#EXTINF:-1 group-title="HABER" ,Bloomberght
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 
 
@@ -174,8 +174,7 @@ https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1 group-title="SPOR" ,TRT SPOR
 
 
-#EXTINF:-1 group-title="SPOR" ,CNN TüRK
-http://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk-audio_TUR=96000-video=3000000.m3u8
+
 
 #EXTINF:-1 group-title="SPOR" ,A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
