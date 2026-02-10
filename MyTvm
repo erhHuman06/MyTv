@@ -138,6 +138,15 @@ https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1 group-title="SPOR" ,CNN TüRK
 http://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk-audio_TUR=96000-video=3000000.m3u8
 
+#EXTINF:-1 group-title="SPOR" ,A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,HT SPOR
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
+
+
+
+
 
 
 
