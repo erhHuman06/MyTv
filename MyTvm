@@ -50,6 +50,24 @@ https://1a-1791.com/live/k5e12sb4/live-hls/e9wg-mldr/chunklist_i1_DVR.m3u8
 #EXTINF:-1 group-title="SiNEMA" ,CiNE 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=VHs7r8VE3745A7h66wfujH
 
+#EXTINF:-1 group-title="SiNEMA" ,ON 6
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,TELE 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,TiVi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,DENiZ POSTASI
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,EKOL TüRK
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,TV 1
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+
 
 
 
@@ -61,11 +79,14 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 group-title="ULUSAL" ,360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
+#EXTINF:-1 group-title="ULUSAL" ,TEVE 2
+https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ppid=ca339af6d146970f06875d9f57047722
+
 #EXTINF:-1 group-title="ULUSAL" ,BiR TV
 
 
 #EXTINF:-1 group-title="ULUSAL" ,BRTV
-
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,BRüKSEL TüRK
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
@@ -73,18 +94,36 @@ https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,TRT 2
 http://95.174.71.114/TR-TRT2/tracks-v1a1/mono.m3u8
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,ATV
 http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="ULUSAL" ,STAR TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,KANAL D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,TV 8.5
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_720p.m3u8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+
+#EXTINF:-1 group-title="ULUSAL" ,TYT TüRK
+https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
+
+#EXTINF:-1 group-title="ULUSAL" ,TvNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="ULUSAL" ,KANAL 7
+https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
 
 
 
