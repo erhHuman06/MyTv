@@ -44,6 +44,9 @@ https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8?tms=176183168
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES STARS
 https://ds.ayakkabiparti.lol/bsstars/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="SiNEMA" ,YANSIMA TV
+http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
+
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES TüRK
 http://65.108.239.207/box1/tracks-v1a1/mono.ts.m3u8
 
