@@ -182,6 +182,7 @@ http://116.202.238.88/FOXTV_TR/tracks-v1a1/mono.m3u8
 http://116.202.238.88/TV8_TR/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,TV 8.5
+https://dsmartgo-live.ercdn.net/tv8_5/tv8_5.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,KANAL 7
@@ -209,7 +210,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 
 #EXTINF:-1 group-title="HABER" ,TRT HABER
-https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
+https://dsmartgo-live.ercdn.net/trthaber/trthaber.m3u8
 
 #EXTINF:-1 group-title="HABER" ,HABERTÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
@@ -261,7 +262,10 @@ https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2323/index.m3u8
 
 #EXTINF:-1 group-title="SPOR" ,TRT SPOR
-http://sultanweb.site/Smart?ID=11888
+https://dsmartgo-live.ercdn.net/trtspor/trtspor.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 group-title="SPOR" ,TRT SPOR YILDIZ
+https://dsmartgo-live.ercdn.net/trtspor2/trtspor2.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
 
 #EXTINF:-1 group-title="SPOR" ,HT SPOR
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
