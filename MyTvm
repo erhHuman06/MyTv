@@ -62,10 +62,10 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,BiR TV
-https://edge2.taksimbilisim.com:443/birtv/bant1/chunks.m3u8?nimblesessionid=249414043
+
 
 #EXTINF:-1 group-title="ULUSAL" ,BRTV
-https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8?nimblesessionid=2259178799
+
 
 #EXTINF:-1 group-title="ULUSAL" ,BRüKSEL TüRK
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
@@ -105,7 +105,7 @@ https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 ----------------------------- SPOR ---------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="SPOR" ,TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
+
 
 #EXTINF:-1 group-title="SPOR" ,CNN TüRK
 http://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk-audio_TUR=96000-video=3000000.m3u8
