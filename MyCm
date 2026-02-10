@@ -1,60 +1,117 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sinema" ,Boncuk Tv
+#EXTINF:-1 group-title="SiNEMA" ,Boncuk Tv
 https://1a-1791.com/live/k5e12sb4/live-hls/e9wg-mldr/chunklist_i1_DVR.m3u8
 https://atakan1983.dev.tc/BoncukTV/live/index.m3u8
 http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 
-#EXTINF:-1 group-title="Sinema" ,Sinema
+#EXTINF:-1 group-title="SiNEMA" ,Sinema
 https://dsmartgo-live.ercdn.net/sinematv1/sinematv1_720p.m3u8
 http://65.108.239.207:80/sinema/index.m3u8
 
-#EXTINF:-1 group-title="Sinema" ,Sinema 2
+#EXTINF:-1 group-title="SiNEMA" ,Sinema 2
 https://dsmartgo-live.ercdn.net/sinematv2/sinematv2_720p.m3u8
 http://65.108.239.207:80/sinema2/index.m3u8
 
-#EXTINF:-1 group-title="Sinema" ,Sinema Aksiyon
+#EXTINF:-1 group-title="SiNEMA" ,Sinema Aksiyon
 https://dsmartgo-live.ercdn.net/sinemaaksiyon/sinemaaksiyon_720p.m3u8
 https://ds.ayakkabiparti.lol/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q
 
-#EXTINF:-1 group-title="Sinema" ,Sinema Aksiyon 2
+#EXTINF:-1 group-title="SiNEMA" ,Sinema Aksiyon 2
 https://dsmartgo-live.ercdn.net/sinemaaksiyon2/sinemaaksiyon2_720p.m3u8
 https://ds.ayakkabiparti.lol/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Sinema" ,Sinema Aile
+#EXTINF:-1 group-title="SiNEMA" ,Sinema Aile
 https://dsmartgo-live.ercdn.net/sinemaaile/sinemaaile_720p.m3u8
 https://stream.tecostream.xyz/Sinema_Aile.php
 
-#EXTINF:-1 group-title="Sinema" ,Sinema Aile 2
+#EXTINF:-1 group-title="SiNEMA" ,Sinema Aile 2
 https://dsmartgo-live.ercdn.net/sinemaaile2/sinemaaile2_720p.m3u8
 
-#EXTINF:-1 group-title="Sinema" ,Sinema 1001
+#EXTINF:-1 group-title="SiNEMA" ,Sinema 1001
 https://dsmartgo-live.ercdn.net/sinema1001/sinema1001_720p.m3u8
 https://stream.tecostream.xyz/Sinema_1001.php
 
-#EXTINF:-1 group-title="Sinema" ,Sinema 1002
+#EXTINF:-1 group-title="SiNEMA" ,Sinema 1002
 https://dsmartgo-live.ercdn.net/sinema1002/sinema1002_720p.m3u8
 https://ds.ayakkabiparti.lol/sinema1002/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q
 
-#EXTINF:-1 group-title="Sinema" ,Sinema Komedi
+#EXTINF:-1 group-title="SiNEMA" ,Sinema Komedi
 https://dsmartgo-live.ercdn.net/sinemakomedi/sinemakomedi_720p.m3u8
 
-#EXTINF:-1 group-title="Sinema" ,Sinema Komedi 2
+#EXTINF:-1 group-title="SiNEMA" ,Sinema Komedi 2
 https://dsmartgo-live.ercdn.net/sinemakomedi2/sinemakomedi2_720p.m3u8
 https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q
 
------------------------------ ULUSAL -----------------------------
+#EXTINF:-1 group-title="SiNEMA" ,POFiDiX SİNEMA 2
+http://104.238.23.216/d/live/out.m3u8
 
-#EXTINF:-1 group-title="Ulusal" ,TRT 1
+#EXTINF:-1 group-title="SiNEMA" ,TELE ON
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,CiNE 1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=VHs7r8VE3745A7h66wfujH
+
+
+
+
+----------------------------- ULUSAL ---------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="ULUSAL" ,BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
+#EXTINF:-1 group-title="ULUSAL" ,360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 group-title="ULUSAL" ,BiR TV
+https://edge2.taksimbilisim.com:443/birtv/bant1/chunks.m3u8?nimblesessionid=249414043
+
+#EXTINF:-1 group-title="ULUSAL" ,BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8?nimblesessionid=2259178799
+
+#EXTINF:-1 group-title="ULUSAL" ,BRüKSEL TüRK
+https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="ULUSAL" ,TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
-#EXTINF:-1 group-title="Ulusal" ,TRT 2
+#EXTINF:-1 group-title="ULUSAL" ,TRT 2
 http://95.174.71.114/TR-TRT2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Ulusal" ,ATV
+#EXTINF:-1 group-title="ULUSAL" ,ATV
 http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Ulusal" ,KANAL D
+#EXTINF:-1 group-title="ULUSAL" ,KANAL D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+
+#EXTINF:-1 group-title="ULUSAL" ,TV 8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_720p.m3u8
+
+
+
+
+----------------------------- HABER ---------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="HABER" ,TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 group-title="HABER" ,24
+https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
+
+#EXTINF:-1 group-title="HABER" ,360
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+
+
+
+----------------------------- SPOR ---------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="SPOR" ,TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,CNN TüRK
+http://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk-audio_TUR=96000-video=3000000.m3u8
+
+
 
 
 
