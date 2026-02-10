@@ -247,11 +247,9 @@ https://boncuktv.dunya-yalan.workers.dev/haber61
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 
 
-#EXTINF:-1 group-title="HABER" ,BEiN HABER
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2323/index.m3u8
 
-#EXTINF:-1 group-title="HABER" ,BEiNS
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6781/index.m3u8
+
+
 
 
 ----------------------------- SPOR --------------------------------------------------------------------------------------------------------------------
@@ -259,6 +257,8 @@ http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6781/index.m3u8
 #EXTINF:-1 group-title="SPOR" ,TRT SPOR
 
 
+#EXTINF:-1 group-title="SPOR" ,BEiN HABER
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2323/index.m3u8
 
 #EXTINF:-1 group-title="SPOR" ,A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
