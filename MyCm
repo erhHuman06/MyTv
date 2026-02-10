@@ -1,45 +1,61 @@
 #EXTM3U
-#EXTINF:-1,Boncuk Tv
+#EXTINF:-1 group-title="Sinema" ,Boncuk Tv
 https://atakan1983.dev.tc/BoncukTV/live/index.m3u8
 http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 
-#EXTINF:-1,Sinema
+#EXTINF:-1 group-title="Sinema" ,Sinema
 https://dsmartgo-live.ercdn.net/sinematv1/sinematv1_720p.m3u8
 http://65.108.239.207:80/sinema/index.m3u8
 
-#EXTINF:-1,Sinema 2
+#EXTINF:-1 group-title="Sinema" ,Sinema 2
 https://dsmartgo-live.ercdn.net/sinematv2/sinematv2_720p.m3u8
 http://65.108.239.207:80/sinema2/index.m3u8
 
-#EXTINF:-1,Sinema Aksiyon
+#EXTINF:-1 group-title="Sinema" ,Sinema Aksiyon
 https://dsmartgo-live.ercdn.net/sinemaaksiyon/sinemaaksiyon_720p.m3u8
 https://ds.ayakkabiparti.lol/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q
 
-#EXTINF:-1,Sinema Aksiyon 2
+#EXTINF:-1 group-title="Sinema" ,Sinema Aksiyon 2
 https://dsmartgo-live.ercdn.net/sinemaaksiyon2/sinemaaksiyon2_720p.m3u8
 https://ds.ayakkabiparti.lol/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1,Sinema Aile
+#EXTINF:-1 group-title="Sinema" ,Sinema Aile
 https://dsmartgo-live.ercdn.net/sinemaaile/sinemaaile_720p.m3u8
 https://stream.tecostream.xyz/Sinema_Aile.php
 
-#EXTINF:-1,Sinema Aile 2
+#EXTINF:-1 group-title="Sinema" ,Sinema Aile 2
 https://dsmartgo-live.ercdn.net/sinemaaile2/sinemaaile2_720p.m3u8
 
-#EXTINF:-1,Sinema 1001
+#EXTINF:-1 group-title="Sinema" ,Sinema 1001
 https://dsmartgo-live.ercdn.net/sinema1001/sinema1001_720p.m3u8
 https://stream.tecostream.xyz/Sinema_1001.php
 
-#EXTINF:-1,Sinema 1002
+#EXTINF:-1 group-title="Sinema" ,Sinema 1002
 https://dsmartgo-live.ercdn.net/sinema1002/sinema1002_720p.m3u8
 https://ds.ayakkabiparti.lol/sinema1002/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q
 
-#EXTINF:-1,Sinema Komedi
+#EXTINF:-1 group-title="Sinema" ,Sinema Komedi
 https://dsmartgo-live.ercdn.net/sinemakomedi/sinemakomedi_720p.m3u8
 
-#EXTINF:-1,Sinema Komedi 2
+#EXTINF:-1 group-title="Sinema" ,Sinema Komedi 2
 https://dsmartgo-live.ercdn.net/sinemakomedi2/sinemakomedi2_720p.m3u8
 https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q
+
+----------------------------- ULUSAL -----------------------------
+
+#EXTINF:-1 group-title="Ulusal" ,TRT 1
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
