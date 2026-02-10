@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="SiNEMA" ,Boncuk Tv
-https://1a-1791.com/live/k5e12sb4/live-hls/e9wg-mldr/chunklist_i1_DVR.m3u8
 https://atakan1983.dev.tc/BoncukTV/live/index.m3u8
 http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 
@@ -47,6 +46,7 @@ http://104.238.23.216/d/live/out.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,TELE ON
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
+https://1a-1791.com/live/k5e12sb4/live-hls/e9wg-mldr/chunklist_i1_DVR.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,CiNE 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=VHs7r8VE3745A7h66wfujH
