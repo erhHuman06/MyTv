@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sinema" ,Boncuk Tv
+https://1a-1791.com/live/k5e12sb4/live-hls/e9wg-mldr/chunklist_i1_DVR.m3u8
 https://atakan1983.dev.tc/BoncukTV/live/index.m3u8
 http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 
@@ -46,14 +47,14 @@ https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8?tms=176183168
 #EXTINF:-1 group-title="Ulusal" ,TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
+#EXTINF:-1 group-title="Ulusal" ,TRT 2
+http://95.174.71.114/TR-TRT2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Ulusal" ,ATV
+http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
 
-
-
-
-
-
-
+#EXTINF:-1 group-title="Ulusal" ,KANAL D
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 
 
 
