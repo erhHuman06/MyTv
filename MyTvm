@@ -50,11 +50,17 @@ http://65.108.239.207/box1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="SiNEMA" ,BEiN BOX 1
 http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/6744/index.m3u8
 
-
-
+#EXTINF:-1 group-title="SiNEMA" ,POFiDiX SİNEMA 1
+http://5.178.103.239:82/d/live/out.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,POFiDiX SİNEMA 2
 http://104.238.23.216/d/live/out.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,KUZEY MAX
+http://75.119.144.48/KUZEYMAXHD_STREAM/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,SUPER TüRK
+http://75.119.144.48/SUPERTURK_TV_STREAM/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,TELE ON
 https://1a-1791.com/live/k5e12sb4/live-hls/e9wg-mldr/chunklist_i1_DVR.m3u8
