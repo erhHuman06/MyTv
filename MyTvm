@@ -96,9 +96,14 @@ https://1a-1791.com/live/k5e12sb4/live-hls/e9wg-mldr/chunklist_i1_DVR.m3u8
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=VHs7r8VE3745A7h66wfujH
 
 #EXTINF:-1 group-title="SiNEMA" ,ON 6
+https://dsmartgo-live.ercdn.net/on6tv/on6tv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
 
+#EXTINF:-1 group-title="SiNEMA" ,Bi KANAL
+https://dsmartgo-live.ercdn.net/cine1/cine1.m3u8
+
 #EXTINF:-1 group-title="SiNEMA" ,TELE 1
+https://dsmartgo-live.ercdn.net/tele1/tele1.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,TiVi 6
@@ -107,7 +112,8 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 group-title="SiNEMA" ,DENiZ POSTASI
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,EKOL TüRK
+#EXTINF:-1 group-title="SiNEMA" ,EKOL TV
+https://dsmartgo-live.ercdn.net/ekoltv/ekoltv.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,TV 1
@@ -122,6 +128,7 @@ https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,360
+https://dsmartgo-live.ercdn.net/360/360.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,TEVE 2
@@ -131,6 +138,7 @@ https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0
 http://89.187.191.41/A2-HD-TR/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,Tv100
+https://dsmartgo-live.ercdn.net/tv100/tv100.m3u8
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8?app=web?checkedby:MyWay
 
 #EXTINF:-1 group-title="ULUSAL" ,DMAX
@@ -192,6 +200,7 @@ https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,TvNET
+https://dsmartgo-live.ercdn.net/tvnet/tvnet.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 
 
@@ -227,6 +236,7 @@ http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/2294/index.m3u8
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER" ,TGRT Haber
+https://dsmartgo-live.ercdn.net/tgrthaber/tgrthaber.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 group-title="HABER" ,Haber Global
@@ -235,16 +245,24 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 group-title="HABER" ,ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
+#EXTINF:-1 group-title="HABER" ,ULUSAL TV
+https://dsmartgo-live.ercdn.net/ulusaltv/ulusaltv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 group-title="HABER" ,LİDER HABER
+https://dsmartgo-live.ercdn.net/liderhaber/liderhaber.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
 #EXTINF:-1 group-title="HABER" ,BengüTürk
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 
 #EXTINF:-1 group-title="HABER" ,FLASH HABER
+https://dsmartgo-live.ercdn.net/flashhaber/flashhaber.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 
 #EXTINF:-1 group-title="HABER" ,HABER 61
 http://sultanweb.site/Smart?ID=12895
 
 #EXTINF:-1 group-title="HABER" ,Bloomberght
+https://dsmartgo-live.ercdn.net/bloomberg/bloomberg.m3u8
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 
 
@@ -254,8 +272,6 @@ https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 
 
 ----------------------------- SPOR --------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 group-title="SPOR" ,TRT SPOR
 
 
 #EXTINF:-1 group-title="SPOR" ,BEiN HABER
@@ -268,9 +284,11 @@ https://dsmartgo-live.ercdn.net/trtspor/trtspor.m3u8?token=AIzaSyCSp4D5ibEDELYks
 https://dsmartgo-live.ercdn.net/trtspor2/trtspor2.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
 
 #EXTINF:-1 group-title="SPOR" ,HT SPOR
+https://dsmartgo-live.ercdn.net/htspor/htspor.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 
 #EXTINF:-1 group-title="SPOR" ,A SPOR
+https://dsmartgo-live.ercdn.net/aspor/aspor.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
 
