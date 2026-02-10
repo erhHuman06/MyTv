@@ -42,7 +42,13 @@ https://dsmartgo-live.ercdn.net/sinemakomedi2/sinemakomedi2_720p.m3u8
 https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES STARS
-https://ds.ayakkabiparti.lol/bsstars/tracks-v1a1/mono.ts.m3u8
+http://65.108.239.207/bsstars/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 1
+https://dt-sinema.pantonum1.workers.dev/bsseries1.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 2
+https://dt-sinema.pantonum1.workers.dev/bsseries2.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,YANSIMA TV
 https://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
@@ -64,6 +70,9 @@ http://5.178.103.239:82/d/live/out.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,POFiDiX SİNEMA 2
 http://104.238.23.216/d/live/out.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,POFiDiX SİNEMA 3
+http://104.238.23.182/d/live/out.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,KUZEY MAX
 http://75.119.144.48/KUZEYMAXHD_STREAM/tracks-v1a1/mono.m3u8
@@ -116,7 +125,7 @@ https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0
 http://89.187.191.41/A2-HD-TR/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,Tv100
-https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8?app=web?checkedby:MyWay
 
 #EXTINF:-1 group-title="ULUSAL" ,DMAX
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2290/index.m3u8
