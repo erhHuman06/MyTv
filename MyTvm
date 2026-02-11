@@ -203,8 +203,11 @@ https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 https://dsmartgo-live.ercdn.net/tvnet/tvnet.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 
+#EXTINF:-1 group-title="ULUSAL" ,ÇAY TV
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 
-
+#EXTINF:-1 group-title="ULUSAL" ,SLOW KARADENiZ
+https://yayin.slowkaradeniztv.com:3390/multi_web/play_1080.m3u8
 
 
 
@@ -213,7 +216,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 ----------------------------- HABER --------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="HABER" ,NTV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
+https://tatatam.trt1sultanfatihss.workers.dev/https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
 
 #EXTINF:-1 group-title="HABER" ,24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
@@ -221,19 +224,19 @@ https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 group-title="HABER" ,TRT HABER
 https://dsmartgo-live.ercdn.net/trthaber/trthaber.m3u8
 
-#EXTINF:-1 group-title="HABER" ,HABERTÜRK
+#EXTINF:-1 group-title="HABER" ,HABER TÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 http://95.174.71.114:80/TR-HABER-TURK/index.m3u8
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+
+#EXTINF:-1 group-title="HABER" ,Türk Haber
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER" ,CNN Türk
 http://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk-audio_TUR=96000-video=3000000.m3u8
 
 #EXTINF:-1 group-title="HABER" ,A HABER
 http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/2294/index.m3u8
-
-#EXTINF:-1 group-title="HABER" ,Türk Haber
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER" ,TGRT Haber
 https://dsmartgo-live.ercdn.net/tgrthaber/tgrthaber.m3u8
