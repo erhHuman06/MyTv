@@ -43,6 +43,7 @@ https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8?tms=176183168
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES STARS
 http://65.108.239.207/bsstars/tracks-v1a1/mono.ts.m3u8
+http://65.108.239.207/bsstars/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 1
 https://dt-sinema.pantonum1.workers.dev/bsseries1.m3u8
