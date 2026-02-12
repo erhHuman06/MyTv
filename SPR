@@ -14,51 +14,19 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 #EXTINF:-1,BeinS 1 (5)
 https://andro.226503.xyz/checklist/receptestt.m3u8
 
-#EXTINF:-1,BeinS 1 (6) (480p)
-https://vavoo.to/play/2919229346/index.m3u8
-
-#EXTINF:-1,BeinS 1 (7) (720p)
-https://vavoo.to/play/3840475653/index.m3u8
-
-#EXTINF:30,BeinS 1 (8) (720p)2
-https://vavoo.to/play/1363827223/index.m3u8
-
-#EXTINF:30,BeinS 1 (9) (SD)
-https://vavoo.to/play/3692337241/index.m3u8
-
-#EXTINF:30,BeinS 1 (10) (HD)
-https://vavoo.to/play/662179620/index.m3u8
-
-#EXTINF:30,BeinS 1 (10) (720pFEED)
-https://vavoo.to/play/2233066433/index.m3u8
-
-#EXTINF:30,BeinS 1 (10) (H265)
-https://vavoo.to/play/2403425031/index.m3u8
-
-#EXTINF:30,BeinS 1 (10) (FEED)
-https://vavoo.to/play/2729088606/index.m3u8
-
-#EXTINF:30,BeinS 1 (10) (HD TURKEY)
-https://vavoo.to/play/593493860/index.m3u8
-
-#EXTINF:30,BeinS 1 (10) (50 FPS)
-https://vavoo.to/play/1352421053/index.m3u8
-
-#EXTINF:30,BeinS 1 (10) (FEED OZEL)
-https://vavoo.to/play/1453692314/index.m3u8
-
-#EXTINF:30,BeinS 1 (10) (LiVE)
-https://vavoo.to/play/3428984703/index.m3u8
+#EXTINF:-1,BeinS 1 (6) 
 
 
-
-#EXTINF:30,BeinS 1 (10) (50 FPS)
-
+#EXTINF:-1,BeinS 1 (7) 
 
 
-#EXTINF:30,BeinS 1 (10) (50 FPS)
+#EXTINF:30,BeinS 1 (8) 
 
 
+#EXTINF:30,BeinS 1 (9) 
+
+
+#EXTINF:30,BeinS 1 (10) 
 
 
 #EXTINF:-1,BeinS 1 (11)
