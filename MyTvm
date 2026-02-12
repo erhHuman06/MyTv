@@ -114,6 +114,11 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 group-title="SiNEMA" ,KEMAL SUNAL
 http://tv.devtv.nl/live/Trexx/Trex1fhgd2z/5723.m3u8
 
+#EXTINF:-1 group-title="SiNEMA" ,KEMAL SUNAL 2
+http://192.142.39.14/hls/cdac52d2eb0eb754be93ff9846045fb1/5722_15.ts
+
+
+
 #EXTINF:-1 group-title="SiNEMA" ,DENiZ POSTASI
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
