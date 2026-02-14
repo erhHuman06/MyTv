@@ -68,7 +68,13 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 http://65.108.239.207/box1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN BOX 1
-http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/6744/index.m3u8
+http://65.108.239.207/box1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,BEiN BOX 2
+http://65.108.239.207/box2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,BEiN BOX 3
+http://65.108.239.207/box3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,MOON STAR
 http://162.212.179.33:80/gin-trn09/gt-sinevizyon-1/playlist.m3u8
@@ -90,6 +96,9 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,iSViÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,YEŞiLÇAM 3
+http://162.212.179.33/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,TELE ON
 https://1a-1791.com/live/e6pv21nm/slot-87/0d2v-kzql/chunklist_DVR.m3u8
@@ -143,7 +152,7 @@ http://89.187.191.41/A2-HD-TR/tracks-v1a1/mono.ts.m3u8
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8?app=web?checkedby:MyWay
 
 #EXTINF:-1 group-title="ULUSAL" ,DMAX
-
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2290/index.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,TLC
 https://trn03.tulix.tv/gt-tlc-tv/tracks-v1a1/mono.m3u8
