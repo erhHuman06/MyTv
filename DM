@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/z/Bk/11905/Thumbnail.png?v=636932878711499780",STAR
 https://dsmartgo-live.ercdn.net/dsmartgo/time/star/star.isml/playlist.m3u8
 
