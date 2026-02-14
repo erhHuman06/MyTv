@@ -144,7 +144,7 @@ https://dsmartgo-live.ercdn.net/tv100/tv100.m3u8
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8?app=web?checkedby:MyWay
 
 #EXTINF:-1 group-title="ULUSAL" ,DMAX
-https://yayin2.canlitv.fun/live/dmax.stream/chunklist_w1974570267.m3u8
+http://live.mobi-tv.workers.dev/?ID=746
 https://trn03.tulix.tv/gt-dmax-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,TLC
