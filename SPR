@@ -12,8 +12,7 @@ https://zeustv.info/live/bein1/chunks.m3u8
 https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 
 #EXTINF:-1,BeinS 1 (5)
-https://nmcom.cfd/bein_sports_1_hd/main.m3u8
-https://taraftarium24pro2.vip
+
 
 #EXTINF:-1,BeinS 1 (6) 
 https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
@@ -26,13 +25,13 @@ https://andro.226503.xyz/checklist/receptestt.m3u8
 https://andro.1386503.xyz/checklist/receptestt.m3u8
 
 #EXTINF:30,BeinS 1 (9) 
-http://135.125.109.73:9000/beinsporten1_.m3u8
+
 
 #EXTINF:30,BeinS 1 (10) 
-http://194.143.206.229:80/live/play/T0VONVYybFdhWGxYWW1Fd2JYUmhkRkJuTVZrMlVrdFVhQzlTY2pGb2QyTlFLMEZxUmtkdFJFVk5VVDA9/1799
+http://194.143.206.229:80/live/play.m3u
 
 #EXTINF:-1,BeinS 1 (11)
-http://194.143.206.229:80/live/play/WkhKemRsWktTVkkxYTJKRmVTOXhkWFIyWTBKMFRVWlRaRXRvWWtWNllsa3ZaMVZGT1RoWVoxWmFPRDA9/32950
+
 
 #EXTINF:-1,BeinS HABER
 http://live.mobi-tv.workers.dev/?ID=751
