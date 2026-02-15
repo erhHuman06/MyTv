@@ -28,14 +28,12 @@ https://dsmartgo-live.ercdn.net/sinema1001/sinema1001_720p.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 1002
 https://dsmartgo-live.ercdn.net/sinema1002/sinema1002_720p.m3u8
-https://ds.ayakkabiparti.lol/sinema1002/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Komedi
 https://dsmartgo-live.ercdn.net/sinemakomedi/sinemakomedi_720p.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Komedi 2
 https://dsmartgo-live.ercdn.net/sinemakomedi2/sinemakomedi2_720p.m3u8
-https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES STARS
 http://tv.devtv.nl/live/Trexx/Trex1fhgd2z/5763.m3u8
@@ -85,10 +83,10 @@ http://162.212.179.33:80/gin-trn09/gt-sinevizyon-1/playlist.m3u8
 http://5.178.103.239:82/d/live/out.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,POFiDiX SİNEMA 2
-http://104.238.23.216/d/live/out.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,POFiDiX SİNEMA 3
-http://104.238.23.182/d/live/out.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,KUZEY MAX
 http://75.119.144.48/KUZEYMAXHD_STREAM/tracks-v1a1/mono.m3u8
@@ -202,7 +200,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,STAR TV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
+
 
 #EXTINF:-1 group-title="ULUSAL" ,KANAL D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
