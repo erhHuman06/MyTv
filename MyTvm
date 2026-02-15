@@ -2,7 +2,6 @@
 #EXTINF:-1 group-title="SiNEMA" ,Boncuk Tv
 http://104.238.23.221/BoncukTV/live/index.m3u8
 https://atakan1983.dev.tc/BoncukTV/live/index.m3u8
-http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema
 https://dsmartgo-live.ercdn.net/sinematv1/sinematv1_720p.m3u8
@@ -14,22 +13,18 @@ http://65.108.239.207:80/sinema2/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aksiyon
 https://dsmartgo-live.ercdn.net/sinemaaksiyon/sinemaaksiyon_720p.m3u8
-https://ds.ayakkabiparti.lol/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aksiyon 2
 https://dsmartgo-live.ercdn.net/sinemaaksiyon2/sinemaaksiyon2_720p.m3u8
-https://ds.ayakkabiparti.lol/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aile
 https://dsmartgo-live.ercdn.net/sinemaaile/sinemaaile_720p.m3u8
-https://stream.tecostream.xyz/Sinema_Aile.php
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aile 2
 https://dsmartgo-live.ercdn.net/sinemaaile2/sinemaaile2_720p.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 1001
 https://dsmartgo-live.ercdn.net/sinema1001/sinema1001_720p.m3u8
-https://stream.tecostream.xyz/Sinema_1001.php
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 1002
 https://dsmartgo-live.ercdn.net/sinema1002/sinema1002_720p.m3u8
