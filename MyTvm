@@ -104,8 +104,7 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SiNEMA" ,iSViÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,YEŞiLÇAM 3
-http://162.212.179.33/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,TELE ON
 https://1a-1791.com/live/e6pv21nm/slot-87/0d2v-kzql/chunklist_DVR.m3u8
@@ -135,6 +134,10 @@ http://tv.devtv.nl/live/Trexx/Trex1fhgd2z/5739.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,YERLi 3
 http://tv.devtv.nl/live/Trexx/Trex1fhgd2z/5738.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,YEŞiLÇAM 3
+http://162.212.179.33/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8
+
 
 
 
