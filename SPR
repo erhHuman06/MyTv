@@ -40,21 +40,6 @@ http://live.mobi-tv.workers.dev/?ID=751
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2323/index.m3u8
 http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/2322/index.m3u8
 
-#EXTINF:-1,A SPOR
-https://andro.326503.xyz/checklist/androstreamliveas.m3u8
-
-
-#EXTINF:-1,TRT SPOR
-https://zeustv32321.info/live/trtspor/chunks.m3u8
-https://andro.326503.xyz/checklist/androstreamlivetrts.m3u8
-
-#EXTINF:-1,TRT Spor Yıldız
-https://zeustv32321.info/live/trtsporyildiz/chunks.m3u8
-https://andro.226503.xyz/checklist/androstreamlivetrtsy.m3u8
-
-#EXTINF:-1,HT SPOR
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
-http://sultanweb.site/Smart?ID=98405
 
 #EXTINF:-1,TRT 1
 http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
@@ -66,7 +51,6 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 #EXTINF:-1,TABi SPOR
 https://andro.226503.xyz/checklist/androstreamlivetb.m3u8
-
 
 
 #EXTINF:-1,Tivibu Spor
