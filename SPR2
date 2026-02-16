@@ -20,19 +20,19 @@ https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
 http://tv.rapidstreamz.workers.dev/?ID=http://zx.visiona.top:8081/sports/bein1tr/playlist.m3u8
 
 #EXTINF:-1,BeinS 1 (7) 
-https://andro.1286503.xyz/checklist/receptestt.m3u8
-
-#EXTINF:-1,BeinS 1 (8) 
 http://live.freeshot.workers.dev/?ID=beINSPORTS1TR
 
+#EXTINF:-1,BeinS 1 (8) 
+
+
 #EXTINF:-1,BeinS 1 (9) 
-http://tv.rapidstreamz.workers.dev/?ID=http://zx.visiona.top:8081/sports/bein1tr/playlist.m3u8
+
 
 #EXTINF:-1,BeinS 1 (10) 
 
 
 #EXTINF:-1,BeinS 1 (11)
-
+https://andro.1286503.xyz/checklist/receptestt.m3u8
 
 #EXTINF:-1,BeinS HABER
 http://live.mobi-tv.workers.dev/?ID=751
