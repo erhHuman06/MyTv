@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,BeinS 1 (8) 
 #EXTVLCOPT:http-user-agent=vialent
-https://vavoo.to/play/3840475653/index.m3u8
+https://vavoo.to/play/267105889/index.m3u8
 
 #EXTINF:-1,BeinS 1 (5)
 #EXTVLCOPT:http-user-agent=vialent
-https://vavoo.to/play/143239535/index.m3u8
+https://vavoo.to/play/2113462398/index.m3u8
