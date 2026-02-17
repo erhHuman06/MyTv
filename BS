@@ -1,8 +1,0 @@
-#EXTM3U
-#EXTINF:-1,BeinS 1 (8) 
-#EXTVLCOPT:http-user-agent=vialent
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/9ja1sTHYuwv0ujrhdkODBHBhafuHS6mDWV8o5Tb_zB-slhU4ciWCt-NC9xbMNTuCGRbzING619sCoUVchAy_L-iuLPSk5XzW_2XHRLtH1HRWRuX8LQH0PNawot_RBYxFlBBVWbWRbKDJTpxSkvLVUnyjDR5395p1GaQVD-bOYJLehRmEnH6rR8dpVv1CiiqBSH9crNPGDAlvKYehE9othg/hls/index.m3u8
-
-#EXTINF:-1,BeinS 1 (5)
-#EXTVLCOPT:http-user-agent=vialent
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/rNbabs-qToCUYq6EjrVFYymJ072_moWk1_8V8vtocTbLToOykYDDYe8Llv-1uUnKRMh41rgSehdC92iNTwzn5AtxsHgRW-jRf1UjbgjZZ-S2SpnXGV4TR2zMMN1OSpMNIbVWaA_uEjTT1bPT-qcprTBo6lxfpeRMGK_TmKwTY1R2E1af4IIkRHuahuRyV8kFGul699ROQuMaKqeZajuF6w/hls/index.m3u8
