@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,BeinS 1 (8) 
 #EXTVLCOPT:http-user-agent=vialent
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/OLCTyUNa8pYQ5XBy5FGf1QWhgBaNiFV6Hz4cV23cG2oHojVi7jeH7ZMi4BNlWcreHUe9Q273KAXI45XIxA-VZO3omhkWFQOQh_Bpv3cG2vEliB4dVaun9_2bZa5RHfb6WRPsfEXSl_d48998VmI7EbfFP4GSHc35GDGa7YHrqUgNcLhXr6shALfR6HIXEGoizFAa5b40Lv2NmgLoR2pBEA/hls/index.m3u8
+https://vavoo.to/play/3840475653/index.m3u8
 
 #EXTINF:-1,BeinS 1 (5)
 #EXTVLCOPT:http-user-agent=vialent
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/wVSfWRTaH4ZjqhbzspDQgiFb6F6sChYCmUGcgzC8RhSjWLJeAOlrhMB9F2V_SilODmLoFMem_7JUPPwrfBpon68xb_FEeqogQzX_7dNVRf_xlFNHTDKDfU38IH4VRrYE3lVnR_-JYCakJe6MyDys91nQO7xoYjwKBBRavTYhSLt5KJ1aYQarAuimemtCqyS6IwG-GYeDMasFC5o-gRpYsA/hls/index.m3u8
+https://vavoo.to/play/143239535/index.m3u8
