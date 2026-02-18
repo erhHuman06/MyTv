@@ -17,8 +17,9 @@ http://favoritest25.shop:8080/mstf1312/rs.1502/351541
 
 
 #EXTINF:-1,BeinS 1 (5)
-
+#EXTVLCOPT:http-user-agent=vialent
 #EXTVLCOPT:network-caching=100000
+https://huhu.to/play/2806079612/index.m3u8
 https://kool.to/play/1197336000/index.m3u8
 
 #EXTINF:-1,BeinS 1 (6)
