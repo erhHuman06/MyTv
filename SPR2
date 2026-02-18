@@ -22,19 +22,23 @@ http://favoritest25.shop:8080/mstf1312/rs.1502/351541
 #EXTINF:-1,BeinS 1 (6) 
 #EXTVLCOPT:http-user-agent=vialent
 #EXTVLCOPT:network-caching=5000
-https://oha.to/play/2233066433/index.m3u8
+
 
 #EXTINF:-1,BeinS 1 (7) 
 
 
 #EXTINF:-1,BeinS 1 (8) 
-https://oha.to/play/3692337241/index.m3u8
+#EXTVLCOPT:http-user-agent=vialent
+#EXTVLCOPT:network-caching=5000
+https://oha.to/play/2919229346/index.m3u8
 
 #EXTINF:-1,BeinS 1 (9) 
 
 
 #EXTINF:-1,BeinS 1 (10) 
-
+#EXTVLCOPT:http-user-agent=vialent
+#EXTVLCOPT:network-caching=8000
+https://oha.to/play/2919229346/index.m3u8
 
 #EXTINF:-1,BeinS 1 (11)
 https://andro.1286503.xyz/checklist/receptestt.m3u8
