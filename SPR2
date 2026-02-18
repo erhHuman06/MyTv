@@ -21,7 +21,7 @@ http://favoritest25.shop:8080/mstf1312/rs.1502/351541
 
 #EXTINF:-1,BeinS 1 (6) 
 #EXTVLCOPT:http-user-agent=vialent
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 https://oha.to/play/2233066433/index.m3u8
 
 #EXTINF:-1,BeinS 1 (7) 
