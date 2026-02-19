@@ -32,7 +32,7 @@ https://kool.to/play/2919229346/index.m3u8
 #EXTINF:-1,BeinS 1 (7) 
 #EXTVLCOPT:http-user-agent=vialent
 #EXTVLCOPT:network-caching=50000
-https://kool.to/play/1453692314/index.m3u8
+
 
 
 #EXTINF:-1,BeinS 1 (8) 
@@ -48,7 +48,7 @@ https://kool.to/play/1453692314/index.m3u8
 #EXTINF:-1,BeinS 1 (10) 
 #EXTVLCOPT:http-user-agent=vialent
 #EXTVLCOPT:network-caching=8000
-
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8
 
 
 #EXTINF:-1,BeinS 1 (11)
