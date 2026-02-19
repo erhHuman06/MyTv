@@ -37,6 +37,7 @@ https://oha.to/play/1536730627/index.m3u8
 #EXTINF:-1,BeinS 1 (8) 
 #EXTVLCOPT:http-user-agent=vialent
 #EXTVLCOPT:network-caching=10000
+https://kool.to/play/1963748784/index.m3u8
 
 
 #EXTINF:-1,BeinS 1 (9) 
@@ -47,7 +48,38 @@ https://oha.to/play/2919229346/index.m3u8
 #EXTINF:-1,BeinS 1 (10) 
 #EXTVLCOPT:http-user-agent=vialent
 #EXTVLCOPT:network-caching=8000
+https://kool.to/play/2919229346/index.m3u8
 
+#EXTINF:-1,BeinS 1 (11) 
+#EXTVLCOPT:http-user-agent=vialent
+#EXTVLCOPT:network-caching=8000
+https://kool.to/play/2233066433/index.m3u8
+
+#EXTINF:-1,BeinS 1 (12) 
+#EXTVLCOPT:http-user-agent=vialent
+#EXTVLCOPT:network-caching=8000
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/fIqu9lwm3vMgFiV3_hi1kmKAO-PtZAOaBRSuBeuPqJoihSrxVC1gxdFr6nJyg2xpR-xtjifKTuPvb7y8WDVUSitHJ3khZOe95XnjYXn4ffIRXplkGziKRI6FysdYSenLp_1SSRROjmtcxlVbtLN8atj9mAoTwq3kj8zn2YTpxvmIMwbDxIpygsFt3u6XHucD4XEIzQsPW01rAS73vUb70Q/hls/index.m3u8
+
+
+#EXTINF:-1,BeinS 1 (13) 
+#EXTVLCOPT:http-user-agent=vialent
+#EXTVLCOPT:network-caching=8000
+https://kool.to/play/3692337241/index.m3u8
+
+#EXTINF:-1,BeinS 1 (14) haber
+#EXTVLCOPT:http-user-agent=vialent
+#EXTVLCOPT:network-caching=8000
+https://huhu.to/play/1197336000/index.m3u8
+
+#EXTINF:-1,BeinS 1 (15) 
+#EXTVLCOPT:http-user-agent=vialent
+#EXTVLCOPT:network-caching=8000
+https://huhu.to/play/2729088606/index.m3u8
+
+#EXTINF:-1,BeinS 1 (16) 
+#EXTVLCOPT:http-user-agent=vialent
+#EXTVLCOPT:network-caching=8000
+https://huhu.to/play/662179620/index.m3u8
 
 
 #EXTINF:-1,BeinS 1 (11)
