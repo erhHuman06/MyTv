@@ -15,8 +15,10 @@ https://oha.to/vavoo-iptv/play/2919229346c4e9a95ddb3f
 https://vavoo.to/vavoo-iptv/play/1363827223a1c98515d612
 
 #EXTINF:-1,BEIN BOX OFFICE 3 |E
-#EXTGRP:🇹🇷SİNEMA🇹🇷
-https://vavoo.to/vavoo-iptv/play/1363827223a1c98515d612
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://oha.to/play/662179620/index.m3u8
 
 
 
