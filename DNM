@@ -1,11 +1,14 @@
 #EXTM3U
 #EXTINF:-1,BeinS 1
-#EXTINF:-1,BEIN 1 FEED (720P) |D
-#EXTGRP:🇹🇷SPOR🇹🇷
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
 https://oha.to/play/1536730627/index.m3u8
+
 #EXTINF:-1,BEIN 1 SD (360P) |D
 #EXTGRP:🇹🇷SPOR🇹🇷
 https://vavoo.to/vavoo-iptv/play/19082658164debc10cdc44
+
 #EXTINF:-1,BEIN 1 SD (480P) |D
 #EXTGRP:🇹🇷SPOR🇹🇷
 https://oha.to/vavoo-iptv/play/2919229346c4e9a95ddb3f
