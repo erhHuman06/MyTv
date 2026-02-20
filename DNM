@@ -15,4 +15,4 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-http://trgoalsweb1o.duckdns.org/stream.php?stream=trgoals
+
