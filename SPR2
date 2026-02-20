@@ -19,8 +19,9 @@ http://favoritest25.shop:8080/mstf1312/rs.1502/351541
 
 
 #EXTINF:-1,BeinS 1 (5)
-#EXTVLCOPT:http-user-agent=vialent
-#EXTVLCOPT:network-caching=500000
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
 http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49219.m3u8
 
 #EXTINF:-1,BeinS 1 (6)
