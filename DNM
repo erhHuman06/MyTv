@@ -16,5 +16,4 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?e=1771720358&rid=98eb4c5dd63dc1ff70da1eead38172aa&st=gqQLdEeln-9Yx8kWeVD9KQ&userid=ed0&sid=86rczh0id0o6&app=1490e3ae-2a5d-47a7-8960-289fb7734bb3&ce=2
-
+https://demiroren.daioncdn.net/teve2/teve2.m3u8?userid=ed0&rid=92fabc08b18f6879857e7837b2bd0aef&st=fp_aRUQ75eRlifeH-7DrPQ&e=1771721106&ce=2&app=dsmart_web&ppid=45d0eebc73d81b35d479df37f6b351c5
