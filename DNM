@@ -16,8 +16,7 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://demiroren.daioncdn.net/teve2/teve2.m3u8?userid=ed0&rid=92fabc08b18f6879857e7837b2bd0aef&st=fp_aRUQ75eRlifeH-7DrPQ&e=1771721106&ce=2&app=dsmart_web&ppid=45d0eebc73d81b35d479df37f6b351c5
-
+https://dsmart-new-live.ercdn.net/atv/atv1080p_1.m3u8?dvr=20m&userid=ed0&rid=56e746557055eff86f612c931da23381&st=owTZ96YpWgsnJW7FmUiw7A&e=1771743849&
 
 #EXTINF:-1,BeinS 1
 https://www.dsmartgo.com.tr/tr/tv-izle/star/245994?list=344403&name=tv-kanallari
