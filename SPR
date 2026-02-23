@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1,BeinS 1
-http://tv.atomspor.workers.dev/?ID=bein-sports-1
+http://tv.devtv.nl/live/Trexx/Trex1fhgd2z/5574.m3u8
 
 #EXTINF:-1,BeinS 1 (2)
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 
 #EXTINF:-1,BeinS 1 (3)
-http://tv.devtv.nl/live/Trexx/Trex1fhgd2z/5574.m3u8
+http://tv.atomspor.workers.dev/?ID=bein-sports-1
 
 #EXTINF:-1,BeinS 1 (4)
 https://raspy-forest-b1e4.aykara463.workers.dev/709.m3u8
