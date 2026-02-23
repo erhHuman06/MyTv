@@ -19,17 +19,31 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 https://dsmart-new-live.ercdn.net/atv/atv1080p_1.m3u8?dvr=20m&userid=ed0&rid=56e746557055eff86f612c931da23381&st=owTZ96YpWgsnJW7FmUiw7A&e=1771743849&
 
 
-#EXTINF:-1,BeinS 1
-https://oha.to/play/1536730627/index.m3u8
+#EXTINF:-1,BeinS 1 MacVarTv
+https://asekyayin.b-cdn.net/stream/0/playlist.m3u8
 
-#EXTINF:-1,BeinS 1
-https://oha.to/play/267105889/index.m3u8
+#EXTINF:-1,BeinS 1 ReC
+https://cloudlyticsapp.lol/static/bs11.m3u8?|referer=https://twitter.com/&|user-agent=googleusercontent
 
-#EXTINF:-1,BeinS 1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=10000
-https://oha.to/play/2729088606/index.m3u8
+#EXTINF:-1,BeinS 1 ReC2
+https://cloudlyticsapp.lol/static/bs1.m3u8?|referer=https://twitter.com/&|user-agent=googleusercontent
+
+#EXTINF:-1,BeinS 1 SlcKS
+https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/selcukbeinsports1/playlist.m3u8?_HLS_skip=YES
+
+#EXTINF:-1,BeinS 1 SlcKS2
+https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/selcukobs1/playlist.m3u8?_HLS_skip=YES
+
+#EXTINF:-1,BeinS 1 BsExtrA
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1,BeinS 1 Huhu360
+https://huhu.to/play/3692337241/index.m3u8|referer=https://huhu.to/&|user-agent=HUHU/1.0
+
+
+
+
+
 
 
 
