@@ -26,6 +26,9 @@ https://oha.to/play/1536730627/index.m3u8
 https://oha.to/play/267105889/index.m3u8
 
 #EXTINF:-1,BeinS 1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=10000
 https://oha.to/play/2729088606/index.m3u8
 
 
