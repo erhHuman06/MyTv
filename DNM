@@ -26,13 +26,13 @@ https://asekyayin.b-cdn.net/stream/0/playlist.m3u8
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://cloudlyticsapp.lol/static/bs11.m3u8?|referer=https://twitter.com/&|user-agent=googleusercontent
+https://cloudlyticsapp.lol/static/bs11.m3u8
 
 #EXTINF:-1,BeinS 1 ReC2
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://cloudlyticsapp.lol/static/bs1.m3u8?|referer=https://twitter.com/&|user-agent=googleusercontent
+https://cloudlyticsapp.lol/static/bs1.m3u8
 
 #EXTINF:-1,BeinS 1 SlcKS
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/selcukbeinsports1/playlist.m3u8?_HLS_skip=YES
