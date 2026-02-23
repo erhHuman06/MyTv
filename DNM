@@ -22,28 +22,62 @@ https://dsmart-new-live.ercdn.net/atv/atv1080p_1.m3u8?dvr=20m&userid=ed0&rid=56e
 #EXTINF:-1,BEIN 1 SD (480P) .b
 https://vavoo.to/vavoo-iptv/play/2919229346c4e9a95ddb3f
 
-#EXTINF:-1,BEIN SPORTS 720P FEED .b
-https://vavoo.to/vavoo-iptv/play/499485497d6131f47417d
+#EXTINF:-1,BEIN SPOTS1 SD .b
+https://vavoo.to/vavoo-iptv/play/143239535a2e3c23c1d16
 
-#EXTINF:-1 group-title="Turkey",BEIN SPORTS 8K FEED .b
-https://vavoo.to/vavoo-iptv/play/2113462398d8dd57a8ea73
+#EXTINF:-1 group-title="Turkey",BEN 10 TV .b
+https://vavoo.to/vavoo-iptv/play/3270480503ae6e3f607164
 
-#EXTINF:-1 group-title="Turkey",BEIN SPORTS FEED (OZEL FEED YAYIN) .b
-https://vavoo.to/vavoo-iptv/play/1453692314f52730c50395
+#EXTINF:-1 group-title="Turkey",BEST LOCA 1 .b
+https://vavoo.to/vavoo-iptv/play/1063857052f07e2eec0c52
 
-#EXTINF:-1 group-title="Turkey",BEIN SPORTS HABER .c
-https://vavoo.to/vavoo-iptv/play/1197336000e1b7dd01506d
+#EXTINF:-1 group-title="Turkey",BEST LOCA 2 .b
+https://vavoo.to/vavoo-iptv/play/20264594681bd1479ca3f0
 
-#EXTINF:-1 group-title="Turkey",BEIN SPORTS HABER .s
-https://vavoo.to/vavoo-iptv/play/280607961285361f558fc8
+#EXTINF:-1 group-title="Turkey",BEST LOCA 3 .b
+https://vavoo.to/vavoo-iptv/play/116873446031ff5e217441
 
-#EXTINF:-1 group-title="Turkey",BEIN SPORTS HABER HD .b
-https://vavoo.to/vavoo-iptv/play/3989995533d0efea1c8696
+#EXTINF:-1 group-title="Turkey",BEST NETFLIX .b
+https://vavoo.to/vavoo-iptv/play/35317279904b909276b540
 
-#EXTINF:-1 group-title="Turkey",BEIN SPORTS HABER RAW .b
-https://vavoo.to/vavoo-iptv/play/164663282518e6179f90af
+#EXTINF:-1 group-title="Turkey",BEST SALON 1 .b
+https://vavoo.to/vavoo-iptv/play/2585357317352fbfd92833
 
+#EXTINF:-1 group-title="Turkey",BEST SALON 2 .b
+https://vavoo.to/vavoo-iptv/play/37198947412070cf7796ed
 
+#EXTINF:-1 group-title="Turkey",BEST SALON 3 .b
+https://vavoo.to/vavoo-iptv/play/37723339252eec59344208
+
+#EXTINF:-1 group-title="Turkey",BEST SAVAS .b
+https://vavoo.to/vavoo-iptv/play/13586163859ba90852bd44
+
+#EXTINF:-1 group-title="Turkey",BEST TURK .b
+https://vavoo.to/vavoo-iptv/play/11961982805779396d2f21
+
+#EXTINF:-1 group-title="Turkey",BEST WESTERN .b
+https://vavoo.to/vavoo-iptv/play/1324126222234c1f7f8a74
+
+#EXTINF:-1 group-title="Turkey",BEST YESILCAM .b
+https://vavoo.to/vavoo-iptv/play/36523472636e2b2a3ca9ec
+
+#EXTINF:-1 group-title="Turkey",BEYAZ HD+ SD .b
+https://vavoo.to/vavoo-iptv/play/1020985035552180fe7152
+
+#EXTINF:-1 group-title="Turkey",BEYAZ TV .c
+https://vavoo.to/vavoo-iptv/play/34182375310e960a426e1c
+
+#EXTINF:-1 group-title="Turkey",BEYAZ TV .s
+https://vavoo.to/vavoo-iptv/play/2758508882dd33978c7a5
+
+#EXTINF:-1 group-title="Turkey",BEYAZ TV FHD .b
+https://vavoo.to/vavoo-iptv/play/16003488113ad5cdfa73f1
+
+#EXTINF:-1 group-title="Turkey",BEYAZ TV HD .b
+https://vavoo.to/vavoo-iptv/play/2755756005a4ea6e7589ca
+
+#EXTINF:-1 group-title="Turkey",BEYAZ TV RAW .b
+https://vavoo.to/vavoo-iptv/play/34349646843bc2da28db11
 
 
 
