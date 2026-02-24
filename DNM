@@ -37,10 +37,10 @@ https://cloudlyticsapp.lol/static/bs11.m3u8?|referer=https://twitter.com/&|user-
 https://cloudlyticsapp.lol/static/bs1.m3u8
 
 #EXTINF:-1,BeinS 1 SlcKS
-https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/selcukbeinsports1/playlist.m3u8?_HLS_skip=YES
+https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/selcukbeinsports1/playlist.m3u8
 
 #EXTINF:-1,BeinS 1 SlcKS2
-https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/selcukobs1/playlist.m3u8?_HLS_skip=YES
+https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/selcukobs1/playlist.m3u8
 
 #EXTINF:-1,BeinS 1 rec
 https://cloudlyticsapp.lol/static/bs1.m3u8?|referer=https://twitter.com/&|user-agent=googleusercontent
@@ -51,6 +51,5 @@ https://vizioncore.xyz/static/bs1.m3u8?|referer=https://twitter.com/&|user-agent
 #EXTINF:-1,BeinS 1 rec
 http://live.freeshot.workers.dev/?ID=beINSPORTS2TR
 
-#EXTINF:-1,BeinS 1 huhu
-https://huhu.to/play/2919229346/index.m3u8|referer=https://huhu.to/&|user-agent=HUHU/1.0
+
 
