@@ -3,53 +3,36 @@
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://white-sky-0cce.yildizkrtd.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
-#EXTINF:-1,BeinS 1
+#EXTINF:-1,BeinS 1 BrzSpr
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+
+#EXTINF:-1,BeinS 1 BrzSpr 2
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://biraz.6781237.xyz/checklist/androstreamlivebiraz1.m3u8
+
+#EXTINF:-1,BeinS 1 AtomSpr
 https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
-#EXTINF:-1,BeinS 1
+#EXTINF:-1,BeinS 1 AtomSpr2
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://dsmart-new-live.ercdn.net/atv/atv1080p_1.m3u8?dvr=20m&userid=ed0&rid=56e746557055eff86f612c931da23381&st=owTZ96YpWgsnJW7FmUiw7A&e=1771743849&
+https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+
+#EXTINF:-1,BeinS 1 Freeshot
+https://35mumdur.shop/701/index.m3u8
+
+#EXTINF:-1,BeinS 1 SlckSpr
+https://turkuaz.tecostream.xyz/proxy?url=https://calm-cell-7dd5.evtvtv534.workers.dev/selcukobs1.m3u8
 
 
-#EXTINF:-1,BeinS 1 MacVarTv
-https://asekyayin.b-cdn.net/stream/0/playlist.m3u8
-
-#EXTINF:-1,BeinS 1 ReC
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-https://vizioncore.xyz/static/bs11.m3u8
-https://cloudlyticsapp.lol/static/bs11.m3u8
-
-#EXTINF:-1,BeinS 1 ReC2
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-https://cloudlyticsapp.lol/static/bs11.m3u8
-https://cloudlyticsapp.lol/static/bs1.m3u8
-
-#EXTINF:-1,BeinS 1 SlcKS
-https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/selcukbeinsports1/playlist.m3u8
-
-#EXTINF:-1,BeinS 1 SlcKS2
-https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/selcukobs1/playlist.m3u8
-
-#EXTINF:-1,BeinS 1 rec
-https://cloudlyticsapp.lol/static/bs1.m3u8
-
-#EXTINF:-1,BeinS 1 rec
-https://vizioncore.xyz/static/bs1.m3u8
-
-#EXTINF:-1,BeinS 1
-https://huhu.to/play/662179620/index.m3u8
 
 
 
