@@ -42,9 +42,9 @@ https://andro.1386503.xyz/checklist/receptestt.m3u8
 https://white-sky-0cce.nesiuaga.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 
 #EXTINF:-1,BeinS HABER
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:live-caching=8000
 http://87.121.104.29:1855/bshaberyt/stream.m3u8
 
 #EXTINF:-1,BeinS ExtrA
