@@ -3,31 +3,7 @@
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
-
-#EXTINF:-1,BeinS 1 BrzSpr
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-
-#EXTINF:-1,BeinS 1 BrzSpr 2
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-https://biraz.6781237.xyz/checklist/androstreamlivebiraz1.m3u8
-
-#EXTINF:-1,BeinS 1 AtomSpr
-https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
-
-#EXTINF:-1,BeinS 1 AtomSpr2
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
-
-#EXTINF:-1,BeinS 1 SlckSpr
-https://turkuaz.tecostream.xyz/proxy?url=https://calm-cell-7dd5.evtvtv534.workers.dev/selcukobs1.m3u8
+https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8
 
 
 
