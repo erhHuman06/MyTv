@@ -11,4 +11,8 @@ https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3
 #EXTVLCOPT:live-caching=4000
 https://streams.uzunmuhalefet.com/stream/c8758555-8581-4dec-9a46-ebcfaf9ace0a.m3u8
 
-
+#EXTINF:-1,DHA
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
