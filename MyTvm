@@ -191,8 +191,7 @@ https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,TRT 1
-http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://heyheey.denek1544.workers.dev/izle/trt1-114.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,TRT 2
 http://95.174.71.114/TR-TRT2/tracks-v1a1/mono.m3u8
@@ -217,10 +216,7 @@ http://116.202.238.88/FOXTV_TR/tracks-v1a1/mono.m3u8
 http://116.202.238.88/TV8_TR/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,TV 8.5
-https://dsmartgo-live.ercdn.net/tv8_5/tv8_5.m3u8
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_480p.m3u8?&sid=7tra76g4cefx&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3?checkedby:MyWay
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-https://vavoo.to/vavoo-iptv/play/140923760a991ad56397
+https://ulusunkorkma.testworker0y.workers.dev/channel/VHY4LjUgfCBB
 
 
 #EXTINF:-1 group-title="ULUSAL" ,TV 8 INT
