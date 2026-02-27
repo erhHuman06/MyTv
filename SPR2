@@ -15,7 +15,7 @@ http://tv.atomspor.workers.dev/?ID=bein-sports-1
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
 #EXTINF:-1,SeLCUKTv SPR
 #EXTVLCOPT:network-caching=4000
