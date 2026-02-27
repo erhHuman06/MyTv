@@ -9,25 +9,13 @@ https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-http://tv.atomspor.workers.dev/?ID=bein-sports-1
-
-#EXTINF:-1,AtomTv SPR 2
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
 #EXTINF:-1,SeLCUKTv SPR
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
 https://turkuaz.tecostream.xyz/proxy?url=https://calm-cell-7dd5.evtvtv534.workers.dev/selcukobs1.m3u8
-
-#EXTINF:-1,ZeUSTv SPR
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-
 
 #EXTINF:-1,JuSTiNTv SPR
 #EXTVLCOPT:network-caching=4000
