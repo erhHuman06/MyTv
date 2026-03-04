@@ -275,7 +275,7 @@ http://65.108.239.207/cnn/tracks-v1a1/mono.ts.m3u8
 http://live.mobi-tv.workers.dev/?ID=770
 
 #EXTINF:-1 group-title="HABER" ,A HABER
-http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/2294/index.m3u8
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=5crCcvcq4-cRCknrAlZoRA&e=1772691655
 
 #EXTINF:-1 group-title="HABER" ,TGRT Haber
 https://dsmartgo-live.ercdn.net/tgrthaber/tgrthaber.m3u8
