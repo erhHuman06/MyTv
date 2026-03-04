@@ -102,7 +102,7 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8
 
 
 #EXTINF:-1 group-title="SiNEMA" ,TELE ON
-https://1a-1791.com/live/e6pv21nm/slot-87/0d2v-kzql/chunklist_DVR.m3u8
+https://1a-1791.com/live/vf1v23qp/live-hls/sqpf-abtu/chunklist_i1_DVR.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,CiNE 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=VHs7r8VE3745A7h66wfujH
@@ -175,7 +175,7 @@ http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2290/index.m3u8
 https://trn03.tulix.tv/gt-tlc-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,OLAY TüRK
-https://boncuktv.dunya-yalan.workers.dev/olayturk
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,iLKE TV
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
@@ -198,7 +198,8 @@ http://95.174.71.114/TR-TRT2/tracks-v1a1/mono.m3u8
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,ATV
-http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8
+
 
 #EXTINF:-1 group-title="ULUSAL" ,STAR TV
 
