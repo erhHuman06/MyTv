@@ -198,7 +198,7 @@ http://95.174.71.114/TR-TRT2/tracks-v1a1/mono.m3u8
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,ATV
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=kNuLfYjFNNe8RXHH140GKA&e=1772690714
 
 
 #EXTINF:-1 group-title="ULUSAL" ,STAR TV
