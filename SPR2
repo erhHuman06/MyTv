@@ -29,10 +29,17 @@ https://turkuaz.tecostream.xyz/proxy?url=https://calm-cell-7dd5.evtvtv534.worker
 #EXTVLCOPT:live-caching=4000
 https://andro.1386503.xyz/checklist/receptestt.m3u8
 
+#EXTINF:-1,NeT SPR
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://netspor.tecostream.xyz/bs1.m3u8
+
 #EXTINF:-1,BeinS HABER
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=8000
+https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 
 #EXTINF:-1,BeinS ExtrA
 #EXTVLCOPT:network-caching=4000
@@ -55,9 +62,11 @@ https://zeustv32321.info/live/trtsporyildiz/chunks.m3u8
 https://andro.226503.xyz/checklist/androstreamlivetrtsy.m3u8
 
 #EXTINF:-1,HT SPOR
-https://dsmartgo-live.ercdn.net/htspor/htspor.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 http://sultanweb.site/Smart?ID=98405
+
+#EXTINF:-1,Ekol Sport
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 
 #EXTINF:-1,TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
