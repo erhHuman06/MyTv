@@ -4,43 +4,37 @@ http://104.238.23.221/BoncukTV/live/index.m3u8
 https://atakan1983.dev.tc/BoncukTV/live/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema
-https://dsmart-new-live.ercdn.net/startv/index.m3u8
-https://dsmartgo-live.ercdn.net/sinematv1/sinematv1_720p.m3u8
-
-http://65.108.239.207:80/sinema/index.m3u8
+https://mss.ayakkabiparti.lol/sinema/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 2
-https://dsmartgo-live.ercdn.net/sinematv2/sinematv2_720p.m3u8
-http://65.108.239.207:80/sinema2/index.m3u8
+https://mss.ayakkabiparti.lol/sinema2/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aksiyon
-https://dsmartgo-live.ercdn.net/sinemaaksiyon/sinemaaksiyon_720p.m3u8
+https://mss.ayakkabiparti.lol/sinemaaksiyon/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aksiyon 2
-https://dsmartgo-live.ercdn.net/sinemaaksiyon2/sinemaaksiyon2_720p.m3u8
+https://mss.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aile
-https://dsmartgo-live.ercdn.net/sinemaaile/sinemaaile_720p.m3u8
+https://mss.ayakkabiparti.lol/sinemaaile/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aile 2
-https://dsmartgo-live.ercdn.net/sinemaaile2/sinemaaile2_720p.m3u8
+https://mss.ayakkabiparti.lol/sinemaaile2/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 1001
-https://dsmartgo-live.ercdn.net/sinema1001/sinema1001_720p.m3u8
+https://mss.ayakkabiparti.lol/sinema1001/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 1002
-https://dsmartgo-live.ercdn.net/sinema1002/sinema1002_720p.m3u8
+https://mss.ayakkabiparti.lol/sinema1002/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Komedi
-https://dsmartgo-live.ercdn.net/sinemakomedi/sinemakomedi_720p.m3u8
+https://mss.ayakkabiparti.lol/sinemakomedi/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Komedi 2
-https://dsmartgo-live.ercdn.net/sinemakomedi2/sinemakomedi2_720p.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES STARS
-http://65.108.239.207/bsstars/tracks-v1a1/mono.ts.m3u8
-http://65.108.239.207/bsstars/index.m3u8
-http://tv.devtv.nl/live/Trexx/Trex1fhgd2z/5763.m3u8
+https://mss.ayakkabiparti.lol/bsstars/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES ACTiON
 http://tv.devtv.nl/live/Trexx/Trex1fhgd2z/5758.m3u8
