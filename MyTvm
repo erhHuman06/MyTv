@@ -238,36 +238,26 @@ https://yayin.slowkaradeniztv.com:3390/multi_web/play_1080.m3u8
 
 #EXTINF:-1 group-title="HABER" ,NTV
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2299/index.m3u8
-http://tv.devtv.nl/live/Trexx/Trex1fhgd2z/5857.m3u8
-http://live.mobi-tv.workers.dev/?ID=769
 
 #EXTINF:-1 group-title="HABER" ,24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
-http://live.mobi-tv.workers.dev/?ID=777
 
 #EXTINF:-1 group-title="HABER" ,TRT HABER
-https://dsmartgo-live.ercdn.net/trthaber/trthaber.m3u8
-http://live.mobi-tv.workers.dev/?ID=778
+https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 group-title="HABER" ,HABER TÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
-http://95.174.71.114:80/TR-HABER-TURK/index.m3u8
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-http://live.mobi-tv.workers.dev/?ID=771
 
 #EXTINF:-1 group-title="HABER" ,Türk Haber
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER" ,CNN Türk
-http://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk-audio_TUR=96000-video=3000000.m3u8
-http://65.108.239.207/cnn/tracks-v1a1/mono.ts.m3u8
-http://live.mobi-tv.workers.dev/?ID=770
+https://tgn.bozztv.com/gin-dvrfl05/gin-cnn-turk/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjYgMjoxNzozMCBQTSZoYXNoX3ZhbHVlPWN2RkVpd2RKOElNcWdpWEFVTUsvVGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNA==
 
 #EXTINF:-1 group-title="HABER" ,A HABER
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=5crCcvcq4-cRCknrAlZoRA&e=1772691655
 
 #EXTINF:-1 group-title="HABER" ,TGRT Haber
-https://dsmartgo-live.ercdn.net/tgrthaber/tgrthaber.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 group-title="HABER" ,Haber Global
@@ -278,7 +268,7 @@ http://live.mobi-tv.workers.dev/?ID=772
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER" ,ULUSAL TV
-https://dsmartgo-live.ercdn.net/ulusaltv/ulusaltv.m3u8
+https://tgn.bozztv.com/gin-dvrfl05/gin-ulusalkanal/tracks-v1a1/mono.m3u8?nimblesessionid=1490049444&wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjYgMjo0NDozMSBQTSZoYXNoX3ZhbHVlPU1QMmg2TGN2bk1ockVkOHFBTnlONVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNw==
 
 #EXTINF:-1 group-title="HABER" ,LİDER HABER
 https://dsmartgo-live.ercdn.net/liderhaber/liderhaber.m3u8
@@ -289,15 +279,12 @@ https://dsmartgo-live.ercdn.net/liderhaber/liderhaber.m3u8
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 
 #EXTINF:-1 group-title="HABER" ,FLASH HABER
-https://dsmartgo-live.ercdn.net/flashhaber/flashhaber.m3u8
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 
 #EXTINF:-1 group-title="HABER" ,HABER 61
-http://tv.devtv.nl/live/Trexx/Trex1fhgd2z/5843.m3u8
 http://sultanweb.site/Smart?ID=12895
 
 #EXTINF:-1 group-title="HABER" ,Bloomberght
-https://dsmartgo-live.ercdn.net/bloomberg/bloomberg.m3u8
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 
 
