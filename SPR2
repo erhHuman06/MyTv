@@ -15,13 +15,12 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 
-#EXTINF:-1,SaRAYDORF SPR 2
+
+#EXTINF:-1,ZeUS SPR
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
 https://zeustv32342.info/b1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1,SeLCUKTv SPR
