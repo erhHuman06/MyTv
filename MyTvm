@@ -220,7 +220,6 @@ https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,TvNET
-https://dsmartgo-live.ercdn.net/tvnet/tvnet.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,ÇAY TV
@@ -252,6 +251,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER" ,CNN Türk
+https://tgn.bozztv.com/gin-dvrfl05/gin-cnn-turk/index.m3u8
 https://dsmart-new-live.ercdn.net/cnnturk/cnnturk720p_2.m3u8
 
 #EXTINF:-1 group-title="HABER" ,A HABER
@@ -283,7 +283,7 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 
 #EXTINF:-1 group-title="HABER" ,HABER 61
-http://sultanweb.site/Smart?ID=12895
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
 
 #EXTINF:-1 group-title="HABER" ,Bloomberght
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
