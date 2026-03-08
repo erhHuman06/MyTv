@@ -8,7 +8,7 @@ https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 
 #EXTINF:-1, v.Bein Sport 1 rec 1080p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0)
-https://vizioncore.xyz/static/bs11.m3u8?|referer=https://twitter.com/&|user-agent=googleusercontent?output=m3u8
+https://vizioncore.xyz/static/bs11.m3u8?|referer=https://twitter.com/&|user-agent=googleusercontent
 
 #EXTINF:-1, v.Bein Sport 1 rec 1080p b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0)
