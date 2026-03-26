@@ -23,23 +23,6 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTVLCOPT:live-caching=4000
 https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 
-#EXTINF:-1,SeLCUKTv SPR
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-https://turkuaz.tecostream.xyz/proxy?url=https://calm-cell-7dd5.evtvtv534.workers.dev/selcukobs1.m3u8
-
-#EXTINF:-1,JuSTiNTv SPR
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-https://andro.1386503.xyz/checklist/receptestt.m3u8
-
-#EXTINF:-1,TaRaFTARYuM24 SPR
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-
 
 #EXTINF:-1,BeinS HABER
 #EXTVLCOPT:network-caching=4000
@@ -50,7 +33,6 @@ https://andro.1386503.xyz/checklist/receptestt.m3u8
 
 
 #EXTINF:-1,TRT 1
-http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 
