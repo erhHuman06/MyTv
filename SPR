@@ -24,6 +24,12 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 #EXTVLCOPT:live-caching=4000
 https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 
+#EXTINF:-1,ToTuPuTaMaDRe SPR
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://jyayin7.vip/beinsport/main.m3u8?_t=1775321236150
+
 #EXTINF:-1,ReC SPR 720p a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0)
 https://cloudlyticsapp.lol/static/bs1.m3u8?|referer=https://twitter.com/&|user-agent=googleusercontent
