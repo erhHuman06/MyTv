@@ -1,39 +1,43 @@
 #EXTM3U
-#EXTINF:-1,BiRAZCiK SPR
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-
-#EXTINF:-1,AtomTv SPR
+#EXTINF:-1,SaRAYDORF SPR
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
 https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
-#EXTINF:-1,SaRAYDORF SPR
+#EXTINF:-1,SaRAYDORF SPR2
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
+https://yayinlarfidanafidanlaragaca.xyz/hls/8.m3u8
+https://saraydorf.de/spor/player/webplayer/?s=https://yayinlarfidanafidanlaragaca.xyz/hls/4.m3u8
 
-
-#EXTINF:-1,ZeUS SPR
+#EXTINF:-1,iNOBOX SPR
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
+https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 
-
-#EXTINF:-1,SeLCUKTv SPR
+#EXTINF:-1,AToM SPR
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://turkuaz.tecostream.xyz/proxy?url=https://calm-cell-7dd5.evtvtv534.workers.dev/selcukobs1.m3u8
+https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
-#EXTINF:-1,JuSTiNTv SPR
+#EXTINF:-1,ReC SPR 720p a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0)
+https://cloudlyticsapp.lol/static/bs1.m3u8?|referer=https://twitter.com/&|user-agent=googleusercontent
+
+#EXTINF:-1,ReC SPR 720p b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0)
+https://vizioncore.xyz/static/bs1.m3u8?|referer=https://twitter.com/&|user-agent=googleusercontent
+
+#EXTINF:-1,BiRAZCiK SPR
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://andro.1386503.xyz/checklist/receptestt.m3u8
+https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+https://andro.226503.xyz/checklist/receptestt.m3u8
 
 #EXTINF:-1,NeT SPR
 #EXTVLCOPT:network-caching=4000
