@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,TaRaFTaRiUM SPR
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://26h.zirvedesin222.cfd/taraftarium/mono.m3u8
+
 #EXTINF:-1,SaRAYDORF SPR
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
