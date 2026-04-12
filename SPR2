@@ -2,35 +2,31 @@
 #EXTINF:-1, BeinSPR 1
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-//SaRAYDORF
+#EXTVLCOPT:live-caching=4000  //SaRAYDORF
 https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
 #EXTINF:-1,BeinSPR 1 (a)
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  //VaVO SPR
+#EXTVLCOPT:live-caching=4000  //VaVO
 https://vavoo.to/play/1536730627/index.m3u8
 
 #EXTINF:-1, BeinSPR 1 (b)
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-//VaVO2 SPR
+#EXTVLCOPT:live-caching=4000  //VaVO
 https://vavoo.to/play/143239535/index.m3u8
 
 #EXTINF:-1, BeinSPR 1 (c)
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-//KooLTo SPR
+#EXTVLCOPT:live-caching=4000  //KooLTo
 https://kool.to/play/1536730627/index.m3u8
 
 #EXTINF:-1, BeinSPR 1 (d)
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-//KooLTo2 SPR
+#EXTVLCOPT:live-caching=4000  //KooLTo
 https://kool.to/play/1352421053/index.m3u8
 
 #EXTINF:-1,MHSN SPR
