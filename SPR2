@@ -1,11 +1,12 @@
 #EXTM3U
-#EXTINF:-1,SaRAYDORF SPR
+#EXTINF:-1, BeinSPOR 1
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
+SaRAYDORF SPR
 https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
-#EXTINF:-1,VaVO SPR
+#EXTINF:-1,BeinSPOR 1 (a) VaVO SPR
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
