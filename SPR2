@@ -16,21 +16,21 @@ https://vavoo.to/play/1536730627/index.m3u8
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-VaVO2 SPR
+//VaVO2 SPR
 https://vavoo.to/play/143239535/index.m3u8
 
 #EXTINF:-1, BeinSPR 1 (c)
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-KooLTo SPR
+//KooLTo SPR
 https://kool.to/play/1536730627/index.m3u8
 
 #EXTINF:-1, BeinSPR 1 (d)
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-KooLTo2 SPR
+//KooLTo2 SPR
 https://kool.to/play/1352421053/index.m3u8
 
 #EXTINF:-1,MHSN SPR
