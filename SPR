@@ -1,39 +1,40 @@
 #EXTM3U
-#EXTINF:-1,SaRAYDORF SPR
+#EXTINF:-1, BeinSPR 1
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:live-caching=4000  //SaRAYDORF
 https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
-#EXTINF:-1,VaVO SPR
+#EXTINF:-1, BeinSPR 1 (a)
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:live-caching=4000  //VaVO
 https://vavoo.to/play/1536730627/index.m3u8
 
-#EXTINF:-1,VaVO2 SPR
+#EXTINF:-1, BeinSPR 1 (b)
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:live-caching=4000  //VaVO
 https://vavoo.to/play/143239535/index.m3u8
 
-#EXTINF:-1,KooLTo SPR
+#EXTINF:-1, BeinSPR 1 (c)
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:live-caching=4000  //KooLTo
 https://kool.to/play/1536730627/index.m3u8
 
-#EXTINF:-1,KooLTo2 SPR
+#EXTINF:-1, BeinSPR 1 (d)
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:live-caching=4000  //KooLTo
 https://kool.to/play/1352421053/index.m3u8
 
-#EXTINF:-1,MHSN SPR
+#EXTINF:-1, MHSN SPR
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+https://andro.226503.xyz/checklist/receptestt.m3u8
 
 #EXTINF:-1,ReC SPR 720p a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0)
