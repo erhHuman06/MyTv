@@ -5,24 +5,30 @@
 #EXTVLCOPT:live-caching=4000
 https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
-#EXTINF:-1,AToM SPR
+#EXTINF:-1,MHSN SPR
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 https://andro.226503.xyz/checklist/receptestt.m3u8
 
+#EXTINF:-1,VaVO SPR
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://vavoo.to/play/267105889/index.m3u8
+
 #EXTINF:-1,KooLTo SPR
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/HbcVjb07jjo2Ogs-ot6Cfg6qjHZFWsptAko7oxcv7y0gs-9l7zBi3PGlD6ooMVihrs2R8tPbXcDvYalmZ3eM-1sXVE5ougOyxyQYumBtANuYz-f4SemEKEIg6VsfJN6erScxWW8bfR4am_fe3xPC5eBwFvK_vlRL798dIQtkuubWiptxVhDkRcGGQrWY_S28WPRmTfirr4ei8QPbLV3Rgg/hls/index.m3u8
+https://kool.to/play/1536730627/index.m3u8
 
 #EXTINF:-1,KooLTo2 SPR
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://kool.to/play/1536730627/index.m3u8
+https://kool.to/play/267105889/index.m3u8
 
 
 #EXTINF:-1,ReC SPR 720p a
