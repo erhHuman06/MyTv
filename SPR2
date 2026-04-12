@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,SaRAYDORF SPR
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+
+#EXTINF:-1,SaRAYDORF SPR2
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://saraydorf.de/spor/player/webplayer/?s=https://yayinlarfidanafidanlaragaca.xyz/hls/4.m3u8
+
 #EXTINF:-1,AToM SPR
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
@@ -10,13 +22,7 @@ https://andro.226503.xyz/checklist/receptestt.m3u8
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://kool.to/play/2919229346/index.m3u8
-
-#EXTINF:-1,OhATo SPR
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-https://oha.to/play/662179620/index.m3u8
+https://kool.to/play/143239535/index.m3u8
 
 
 #EXTINF:-1,ReC SPR 720p a
