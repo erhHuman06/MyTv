@@ -9,6 +9,7 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000  //VaVO
+https://vavoo.to/play/267105889/index.m3u8
 https://kool.to/play/1536730627/index.m3u8
 
 #EXTINF:-1, BeinSPR 1 (b)
@@ -56,7 +57,7 @@ https://vizioncore.xyz/static/bs1.m3u8?|referer=https://twitter.com/&|user-agent
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=8000
-https://kool.to/play/2806079612/index.m3u8
+https://vavoo.to/play/3989995533/index.m3u8
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 
 #EXTINF:-1,BeinS ExtrA
