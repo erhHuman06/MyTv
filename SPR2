@@ -41,6 +41,12 @@ https://vavoo.to/play/1352421053/index.m3u8
 #EXTVLCOPT:live-caching=4000  // 1 +(1) 
 https://vavoo.to/play/2576216897/index.m3u8
 
+#EXTINF:-1, BeinSPR 1 (f)
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000  // FEED (720P)(1)
+https://vavoo.to/play/2233066433/index.m3u8
+
 #EXTINF:-1, MHSN SPR
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
