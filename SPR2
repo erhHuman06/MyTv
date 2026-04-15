@@ -8,14 +8,14 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTINF:-1, BeinSPR 1 (1)
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  //vavo 4K FEED(KUTU)(1)
-https://vavoo.to/play/267105889/index.m3u8
+#EXTVLCOPT:live-caching=4000  //vavo (6)
+https://vavoo.to/play/300113394/index.m3u8
 
 #EXTINF:-1, BeinSPR 1 (a)
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  //VaVO H265 (1)
-https://vavoo.to/play/2403425031/index.m3u8
+#EXTVLCOPT:live-caching=4000  //VaVO 4K FEED(UYDU)(1)
+https://vavoo.to/play/1536730627/index.m3u8
 
 #EXTINF:-1, BeinSPR 1 (b)
 #EXTVLCOPT:network-caching=4000
@@ -78,9 +78,11 @@ https://vavoo.to/play/911836506/index.m3u8
 
 
 #EXTINF:-1,TRT SPOR
+https://vavoo.to/play/601788690/index.m3u8
 https://vavoo.to/play/2781429267/index.m3u8
 
 #EXTINF:-1,TRT Spor Yıldız
+https://vavoo.to/play/2689297527/index.m3u8
 https://vavoo.to/play/93054202/index.m3u8
 
 #EXTINF:-1,HT SPOR
