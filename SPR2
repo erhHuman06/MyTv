@@ -1,21 +1,30 @@
 #EXTM3U
 #EXTINF:-1, BeinSPR 1
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  //SaRAYDORF
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true  //SaRAYDORF
 https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
 #EXTINF:-1, BeinSPR 1 (a)
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true
 https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 
 
 #EXTINF:-1, BeinSPR (6)
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true
 https://vavoo.to/play/300113394/index.m3u8
 
 #EXTINF:-1, BeinSPR SD (1)
@@ -28,75 +37,111 @@ https://vavoo.to/play/300113394/index.m3u8
 https://vavoo.to/play/143239535/index.m3u8
 
 #EXTINF:-1, BeinSPR 1 +(1)
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true
 https://vavoo.to/play/2576216897/index.m3u8
 
 #EXTINF:-1, BeinSPR (720PFEED) (1)
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true
 https://vavoo.to/play/2233066433/index.m3u8
 
 #EXTINF:-1, BeinSPR FEED (720P)(1)
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true
 https://vavoo.to/play/1363827223/index.m3u8
 
 #EXTINF:-1, BeinSPR SD (480P)(1)
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true
 https://vavoo.to/play/2919229346/index.m3u8
 
 #EXTINF:-1, BeinSPR 4K FEED(UYDU)(1)
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true
 https://vavoo.to/play/1536730627/index.m3u8
 
 #EXTINF:-1, BeinSPR 4K FEED(KUTU)(1)
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true
 https://vavoo.to/play/267105889/index.m3u8
 
 #EXTINF:-1, BeinSPR 50 FPS(1)
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true
 https://vavoo.to/play/1352421053/index.m3u8
 
 #EXTINF:-1, BeinSPR HD(TURKEY)(1)
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true
 https://vavoo.to/play/593493860/index.m3u8
 
 #EXTINF:-1, BeinSPR H265 (1)
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true
 https://vavoo.to/play/2403425031/index.m3u8
 
 #EXTINF:-1, BeinSPR 720 FEED(1)
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true
 https://vavoo.to/play/499485497/index.m3u8
 
 #EXTINF:-1, BeinSPR 8K FEED(1)
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true
 https://vavoo.to/play/2113462398/index.m3u8
 
 #EXTINF:-1, BeinSPR 1 SD (360P)(1)
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true
 https://vavoo.to/play/3692337241/index.m3u8
 
 
