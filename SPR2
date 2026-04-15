@@ -8,7 +8,7 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTINF:-1, BeinSPR 1 (1)
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  // (.c)
+#EXTVLCOPT:live-caching=4000
 https://vavoo.to/play/300113394/index.m3u8
 
 #EXTINF:-1, BeinSPR 1 (a)
