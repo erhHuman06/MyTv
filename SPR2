@@ -19,9 +19,12 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 https://vavoo.to/play/300113394/index.m3u8
 
 #EXTINF:-1, BeinSPR SD (1)
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:skip-frames=true
+#EXTVLCOPT:drop-late-frames=true
 https://vavoo.to/play/143239535/index.m3u8
 
 #EXTINF:-1, BeinSPR 1 +(1)
