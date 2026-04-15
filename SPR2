@@ -1,56 +1,45 @@
 #EXTM3U
 #EXTINF:-1, BeinSPR 1
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  //SaRAYDORF
-https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+https://vavoo.to/play/3692337241/index.m3u8
 
-#EXTINF:-1, BeinSPR 1 (1)
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-https://vavoo.to/play/300113394/index.m3u8
+#EXTINF:-1, BeinSPR (a)
+https://vavoo.to/play/300113394/index.m3u8  // (6)
 
-#EXTINF:-1, BeinSPR 1 (a)
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  //4K FEED(UYDU)(1)
-https://vavoo.to/play/1536730627/index.m3u8
+#EXTINF:-1, BeinSPR (a)
+https://vavoo.to/play/143239535/index.m3u8  // SD (1)
 
-#EXTINF:-1, BeinSPR 1 (b)
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  //SD (1)
-https://vavoo.to/play/143239535/index.m3u8
+#EXTINF:-1, BeinSPR (a)
+https://vavoo.to/play/2576216897/index.m3u8 // 1 +(1)
 
-#EXTINF:-1, BeinSPR 1 (c)
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
-https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+#EXTINF:-1, BeinSPR (a)
+https://vavoo.to/play/2233066433/index.m3u8 // (720PFEED) (1)
 
-#EXTINF:-1, BeinSPR 1 (d)
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  //50 FPS(1)
-https://vavoo.to/play/1352421053/index.m3u8
+#EXTINF:-1, BeinSPR (a)
+https://vavoo.to/play/1363827223/index.m3u8 // FEED (720P)(1)
 
-#EXTINF:-1, BeinSPR 1 (e)
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  // 1 +(1) 
-https://vavoo.to/play/2576216897/index.m3u8
+#EXTINF:-1, BeinSPR (a)
+https://vavoo.to/play/2919229346/index.m3u8 // SD (480P)(1)
 
-#EXTINF:-1, BeinSPR 1 (f)
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  // FEED (720P)(1)
-https://vavoo.to/play/2233066433/index.m3u8
+#EXTINF:-1, BeinSPR (a)
+https://vavoo.to/play/1536730627/index.m3u8 // 4K FEED(UYDU)(1)
 
-#EXTINF:-1, MHSN SPR
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
+#EXTINF:-1, BeinSPR (a)
+https://vavoo.to/play/267105889/index.m3u8  // 4K FEED(KUTU)(1)
+
+#EXTINF:-1, BeinSPR (a)
+https://vavoo.to/play/1352421053/index.m3u8 // 50 FPS(1)
+
+#EXTINF:-1, BeinSPR (a)
+https://vavoo.to/play/593493860/index.m3u8  // HD(TURKEY)(1)
+
+#EXTINF:-1, BeinSPR (a)
+https://vavoo.to/play/2403425031/index.m3u8 // H265 (1)
+
+#EXTINF:-1, BeinSPR (a)
+https://vavoo.to/play/499485497/index.m3u8  // 720 FEED(1)
+
+#EXTINF:-1, BeinSPR (a)
+https://vavoo.to/play/2113462398/index.m3u8  // 8K FEED(1)
 
 
 
