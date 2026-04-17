@@ -1,156 +1,205 @@
 #EXTM3U
 #EXTINF:-1, BeinSPR 1
-#EXTVLCOPT:network-caching=9500
-#EXTVLCOPT:live-caching=9500
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   //SaRAYDORF
 https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
 #EXTINF:-1, BeinSPR (1)
-#EXTVLCOPT:network-caching=9500
-#EXTVLCOPT:live-caching=9500
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   // FEED.c
 https://kool.to/play/2729088606/index.m3u8
 
 #EXTINF:-1, BeinSPR (2)
-#EXTVLCOPT:network-caching=9500
-#EXTVLCOPT:live-caching=9500
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   // 50 FPS(1)
 https://vavoo.to/play/1352421053/index.m3u8
 
 #EXTINF:-1, BeinSPR (3)
-#EXTVLCOPT:network-caching=9500
-#EXTVLCOPT:live-caching=9500
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   // 4K FEED(UYDU)(1)
 https://vavoo.to/play/1536730627/index.m3u8
 
 #EXTINF:-1, BeinSPR (4)
-#EXTVLCOPT:network-caching=9500
-#EXTVLCOPT:live-caching=9500
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   // HD(TURKEY)(1)
 https://vavoo.to/play/593493860/index.m3u8
 
 #EXTINF:-1, BeinSPR (5)
-#EXTVLCOPT:network-caching=9500
-#EXTVLCOPT:live-caching=9500
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  // 8K FEED.b
 https://kool.to/play/2113462398/index.m3u8
 
 #EXTINF:-1, BeinSPR (a)
-#EXTVLCOPT:network-caching=9500
-#EXTVLCOPT:live-caching=9500
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  // H265 (1)
 https://vavoo.to/play/2403425031/index.m3u8
 
 #EXTINF:-1, BeinSPR (b)
-#EXTVLCOPT:network-caching=9500
-#EXTVLCOPT:live-caching=9500
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   // 1 +(1)
 https://vavoo.to/play/2576216897/index.m3u8
 
 #EXTINF:-1, BeinSPR (c)
-#EXTVLCOPT:network-caching=9500
-#EXTVLCOPT:live-caching=9500
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   // (720PFEED) (1)
 https://vavoo.to/play/2233066433/index.m3u8
 
 #EXTINF:-1, BeinSPR (d)
-#EXTVLCOPT:network-caching=9500
-#EXTVLCOPT:live-caching=9500
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   // 720 FEED(1)
 https://vavoo.to/play/499485497/index.m3u8
 
 #EXTINF:-1, BeinSPR (e)
-#EXTVLCOPT:network-caching=9500
-#EXTVLCOPT:live-caching=9500
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   // [LIVE DURING EVENTS ONLY]
 https://kool.to/play/3428984703/index.m3u8
 
 
 #EXTINF:-1,ReC SPR 
-#EXTVLCOPT:network-caching=9500
-#EXTVLCOPT:live-caching=9500
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0)
 https://cloudlyticsapp.lol/static/bs1.m3u8?|referer=https://twitter.com/&|user-agent=googleusercontent
 
 
 #EXTINF:-1,BeinS HABER
-#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=8000
 https://vavoo.to/play/3989995533/index.m3u8
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 
 #EXTINF:-1,BeinS ExtrA
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
 
 
 #EXTINF:-1,A SPOR
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://vavoo.to/play/2777121053/index.m3u8
 https://vavoo.to/play/1771137539/index.m3u8
 https://vavoo.to/play/911836506/index.m3u8
 
 
 #EXTINF:-1,TRT SPOR
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://vavoo.to/play/2781429267/index.m3u8
 
 #EXTINF:-1,TRT Spor Yıldız
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://vavoo.to/play/93054202/index.m3u8
 
 #EXTINF:-1,HT SPOR
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://vavoo.to/play/2773338492/index.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 
 #EXTINF:-1,TRT 1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://vavoo.to/play/2041026135/index.m3u8
 
 #EXTINF:-1,TABi TV
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 #EXTINF:-1,TABi SPOR
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://vavoo.to/play/2259480087/index.m3u8
 
 
 #EXTINF:-1,Tivibu Spor
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://vavoo.to/play/3653515858/index.m3u8
 
 #EXTINF:-1,Tivibu Spor 1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://vavoo.to/play/3654518007/index.m3u8
 
 #EXTINF:-1,Tivibu Spor 2
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://vavoo.to/play/1465680660/index.m3u8
 
 #EXTINF:-1,Tivibu Spor 3
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://vavoo.to/play/568442751/index.m3u8
 
 #EXTINF:-1,Tivibu Spor 4
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://vavoo.to/play/3307062704/index.m3u8
 
 #EXTINF:-1,BeinS 2
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://vavoo.to/play/2509466191/index.m3u8
 https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
 
 #EXTINF:-1,BeinS 3
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://vavoo.to/play/1700595801/index.m3u8
 https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
 
 #EXTINF:-1,BeinS 4
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://vavoo.to/play/1872232768/index.m3u8
 https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
 
 #EXTINF:-1,BeinS 5
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
 https://vavoo.to/play/1230448192/index.m3u8
 https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
 
