@@ -14,6 +14,7 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
 
 #EXTINF:-1, BeinSPR (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0)
 #EXTVLCOPT:network-caching=7500
 #EXTVLCOPT:live-caching=7500
 #EXTVLCOPT:http-reconnect=true
@@ -24,22 +25,22 @@ https://vavoo.to/play/593493860/index.m3u8
 #EXTVLCOPT:network-caching=7500
 #EXTVLCOPT:live-caching=7500
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // 50 FPS(1)
-https://vavoo.to/play/1352421053/index.m3u8
+#EXTVLCOPT:clock-jitter=0   // 4K FEED(UYDU)(1)
+https://vavoo.to/play/1536730627/index.m3u8
 
 #EXTINF:-1, BeinSPR (4)
 #EXTVLCOPT:network-caching=7500
 #EXTVLCOPT:live-caching=7500
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // 4K FEED(UYDU)(1)
-https://vavoo.to/play/1536730627/index.m3u8
+#EXTVLCOPT:clock-jitter=0   // 50 FPS(1)
+https://vavoo.to/play/1352421053/index.m3u8
 
 #EXTINF:-1, BeinSPR (5)
 #EXTVLCOPT:network-caching=7500
 #EXTVLCOPT:live-caching=7500
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // (6)
-https://vavoo.to/play/300113394/index.m3u8
+#EXTVLCOPT:clock-jitter=0  // 
+
 
 #EXTINF:-1, BeinSPR (a)
 #EXTVLCOPT:network-caching=7500
