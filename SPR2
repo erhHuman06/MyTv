@@ -6,6 +6,13 @@
 #EXTVLCOPT:clock-jitter=0   //SaRAYDORF
 https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
+#EXTINF:-1, BeinSPR (1)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:live-caching=5000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0  // (6)
+https://vavoo.to/play/300113394/index.m3u
+
 #EXTINF:-1, BeinSPR (2)
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:live-caching=5000
