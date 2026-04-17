@@ -10,22 +10,22 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTVLCOPT:network-caching=6500
 #EXTVLCOPT:live-caching=6500
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // FEED (6)
-https://vavoo.to/play/2729088606/index.m3u8
+#EXTVLCOPT:clock-jitter=0  // 
+
 
 #EXTINF:-1, BeinSPR (2)
 #EXTVLCOPT:network-caching=6500
 #EXTVLCOPT:live-caching=6500
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // 8K FEED(1)
-https://vavoo.to/play/2113462398/index.m3u8
+#EXTVLCOPT:clock-jitter=0   // HD(TURKEY)(1)
+https://vavoo.to/play/593493860/index.m3u8
 
 #EXTINF:-1, BeinSPR (3)
 #EXTVLCOPT:network-caching=6500
 #EXTVLCOPT:live-caching=6500
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // HD(TURKEY)(1)
-https://vavoo.to/play/593493860/index.m3u8
+#EXTVLCOPT:clock-jitter=0   // 50 FPS(1)
+https://vavoo.to/play/1352421053/index.m3u8
 
 #EXTINF:-1, BeinSPR (4)
 #EXTVLCOPT:network-caching=6500
@@ -66,8 +66,7 @@ https://vavoo.to/play/2233066433/index.m3u8
 #EXTVLCOPT:network-caching=6500
 #EXTVLCOPT:live-caching=6500
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // 50 FPS(1)
-https://vavoo.to/play/1352421053/index.m3u8
+
 
 #EXTINF:-1, BeinSPR (e)
 #EXTVLCOPT:network-caching=6500
