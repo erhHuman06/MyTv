@@ -108,9 +108,8 @@ https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 https://vavoo.to/play/2777121053/index.m3u8
-https://vavoo.to/play/1771137539/index.m3u8
-https://vavoo.to/play/911836506/index.m3u8
 
 
 #EXTINF:-1,TRT SPOR
