@@ -6,35 +6,6 @@
 #EXTVLCOPT:clock-jitter=0   //SaRAYDORF
 https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
-#EXTINF:-1, SeLcK SPR
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0
-https://turkuaz.tecostream.xyz/proxy?url=https://calm-cell-7dd5.evtvtv534.workers.dev/selcukbeinsports1.m3u8
-
-#EXTINF:-1, SeLcK SPR 2
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0
-https://calm-cell-7dd5.evtvtv534.workers.dev/selcukbeinsports1.m3u8
-
-#EXTINF:-1, SeLcK SPR 3
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0
-https://turkuaz.tecostream.xyz/proxy?url=https://calm-cell-7dd5.evtvtv534.workers.dev/selcukobs1.m3u8
-
-#EXTINF:-1, SeLcK SPR 4
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0
-https://calm-cell-7dd5.evtvtv534.workers.dev/selcukobs1.m3u8
-
-
 #EXTINF:-1, BeinSPR 1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
