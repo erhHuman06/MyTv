@@ -10,8 +10,8 @@ https://jyayin10.vip/beinsport/main.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // beintvcanliizle154.com
-https://cdn.beintvcanliizle154.com/M117151/M117151.m3u8
+#EXTVLCOPT:clock-jitter=0  // tyadnetwork.com/
+https://62m.zirvedesin225.cfd/taraftarium/mono.m3u8
 
 #EXTINF:-1, BeinSPR (1)
 #EXTVLCOPT:network-caching=10000
