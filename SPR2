@@ -6,13 +6,6 @@
 #EXTVLCOPT:clock-jitter=0   //SaRAYDORF
 https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
-#EXTINF:-1, AnDR SPR
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0
-https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-
 #EXTINF:-1, SeLcK SPR
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
