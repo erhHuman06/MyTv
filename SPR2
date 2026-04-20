@@ -3,8 +3,8 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  //  8K FEED (1)
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/Z49NWsEJsY6Bn4dWSqRPuFaRlsUmMI_MOsIGj3hFQ62kB7-PmmkkiFVrXOJ4GIpllDARSDhJNtcjxrZhpCxSNVkvc_ENfmCxr4hYkz9_p0BHIpzLGPTjr6mhhHHe7Mlwos6aL_Vm7cSQIoR5ZtEFI6xXOU62P604aEvE65vf-7TRbn8Hbns4vkCmZWp00KyooGKEgw4-08iaveLmSfiH3A/hls/index.m3u8
+#EXTVLCOPT:clock-jitter=0  //  HD(1)
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/_vJDing8IKeLAYoJEjxxn3hbwMzzVxRr3xF-GOiuhET0J0cKhi1nYpa1VhPDPFlfLlqF3GI_IqgHZ3NelT4A-mHmMFL19JyH0YDLrola0R6jZ6Fhyx2qgKbROxXIV1xgle9ha0UOwLtnr66LRbmVhcBkaRZvhgUVxKb3FlhGPV_hEsQTr4n30hWcR-7ayoCqUzx43udv80jOE58YeRWMMA/hls/index.m3u8
 
 
 #EXTINF:-1, BeinSPR 1
@@ -46,8 +46,8 @@ https://vavoo.to/play/593493860/index.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // 8K FEED.b
-https://kool.to/play/2113462398/index.m3u8
+#EXTVLCOPT:clock-jitter=0  // 8K FEED(1)
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/Z49NWsEJsY6Bn4dWSqRPuFaRlsUmMI_MOsIGj3hFQ62kB7-PmmkkiFVrXOJ4GIpllDARSDhJNtcjxrZhpCxSNVkvc_ENfmCxr4hYkz9_p0BHIpzLGPTjr6mhhHHe7Mlwos6aL_Vm7cSQIoR5ZtEFI6xXOU62P604aEvE65vf-7TRbn8Hbns4vkCmZWp00KyooGKEgw4-08iaveLmSfiH3A/hls/index.m3u8
 
 #EXTINF:-1, BeinSPR (a)
 #EXTVLCOPT:network-caching=10000
