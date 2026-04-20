@@ -33,7 +33,8 @@ https://vavoo.to/play/662179620/index.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // 
+#EXTVLCOPT:clock-jitter=0   //  FEED (OZEL FEED YAYINI)(1)
+https://vavoo.to/play/1453692314/index.m3u8
 
 #EXTINF:-1, BeinSPR (5)
 #EXTVLCOPT:network-caching=10000
