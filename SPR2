@@ -19,21 +19,20 @@ https://jyayin12.vip/nbein1sd/main.m3u8
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  //  HD(1)
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/_vJDing8IKeLAYoJEjxxn3hbwMzzVxRr3xF-GOiuhET0J0cKhi1nYpa1VhPDPFlfLlqF3GI_IqgHZ3NelT4A-mHmMFL19JyH0YDLrola0R6jZ6Fhyx2qgKbROxXIV1xgle9ha0UOwLtnr66LRbmVhcBkaRZvhgUVxKb3FlhGPV_hEsQTr4n30hWcR-7ayoCqUzx43udv80jOE58YeRWMMA/hls/index.m3u8
+https://vavoo.to/play/662179620/index.m3u8
 
 #EXTINF:-1, BeinSPR (3)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // HD(1)
-https://vavoo.to/play/662179620/index.m3u8
+#EXTVLCOPT:clock-jitter=0   // 50 FPS(1)
+https://vavoo.to/play/1352421053/index.m3u8
 
 #EXTINF:-1, BeinSPR (4)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // 50 FPS(1)
-https://vavoo.to/play/1352421053/index.m3u8
+#EXTVLCOPT:clock-jitter=0   // 
 
 #EXTINF:-1, BeinSPR (5)
 #EXTVLCOPT:network-caching=10000
