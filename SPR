@@ -19,29 +19,26 @@ https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // SD (1)
-https://vavoo.to/play/143239535/index.m3u8
+#EXTVLCOPT:clock-jitter=0  // SaRAYDORF  // SD (1)
+https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 
 #EXTINF:-1, BeinSPR (3)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  //  HD(1)
-https://vavoo.to/play/662179620/index.m3u8
-
+#EXTVLCOPT:clock-jitter=0  // 
 
 #EXTINF:-1, BeinSPR (4)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // 1 +(1)
-https://vavoo.to/play/2576216897/index.m3u8
+#EXTVLCOPT:clock-jitter=0  //  
 
 #EXTINF:-1, BeinSPR (5)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-
+#EXTVLCOPT:clock-jitter=0  // 
 
 #EXTINF:-1, BeinSPR (6)
 #EXTVLCOPT:network-caching=10000
@@ -54,29 +51,31 @@ https://vavoo.to/play/2576216897/index.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  SD (360P)(1)
-https://vavoo.to/play/3692337241/index.m3u8
+#EXTVLCOPT:clock-jitter=0   //  SD (1)
+https://vavoo.to/play/143239535/index.m3u8
 
 #EXTINF:-1, BeinSPR (b)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  FEED (OZEL FEED YAYINI)(1)
-https://vavoo.to/play/1453692314/index.m3u8
+#EXTVLCOPT:clock-jitter=0   //  HD(1)
+https://vavoo.to/play/662179620/index.m3u8
+
 
 #EXTINF:-1, BeinSPR (c)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // 50 FPS(1)
-https://vavoo.to/play/1352421053/index.m3u8
+#EXTVLCOPT:clock-jitter=0   //  1 +(1)
+https://vavoo.to/play/2576216897/index.m3u8
+
 
 #EXTINF:-1, BeinSPR (d)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // 
-
+#EXTVLCOPT:clock-jitter=0   // SD (360P)(1)
+https://vavoo.to/play/3692337241/index.m3u8
 
 #EXTINF:-1, BeinSPR (e)
 #EXTVLCOPT:network-caching=10000
@@ -84,13 +83,11 @@ https://vavoo.to/play/1352421053/index.m3u8
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   // 
 
-
 #EXTINF:-1, BeinSPR (f)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // 
-
+#EXTVLCOPT:clock-jitter=0   //  
 
 
 #EXTINF:-1,ReC SPR 
