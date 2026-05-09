@@ -19,14 +19,15 @@ https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // SaRAYDORF  // SD (1)
+#EXTVLCOPT:clock-jitter=0  // SaRAYDORF
 https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 
 #EXTINF:-1, BeinSPR (3)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // 
+#EXTVLCOPT:clock-jitter=0  // SaRAYDORF
+https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
 
 #EXTINF:-1, BeinSPR (4)
 #EXTVLCOPT:network-caching=10000
