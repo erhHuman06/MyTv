@@ -15,7 +15,7 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
 
 
-#EXTINF:-1, BeinSPR (2)
+#EXTINF:-1, BeinSPR (A2)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
