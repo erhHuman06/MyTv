@@ -24,8 +24,7 @@ https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // SaRAYDORF
-https://betconnectstreamserver1001.site/601/mono.m3u8
+#EXTVLCOPT:clock-jitter=0  // 
 
 #EXTINF:-1, BeinSPR (4)
 #EXTVLCOPT:network-caching=10000
