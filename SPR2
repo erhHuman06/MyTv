@@ -142,7 +142,6 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-https://vavoo.to/play/406666682/index.m3u8
 
 #EXTINF:-1,TABi TV
 #EXTVLCOPT:network-caching=10000
