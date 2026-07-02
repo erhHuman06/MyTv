@@ -122,6 +122,7 @@ https://vavoo.to/play/2777121053/index.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 https://vavoo.to/play/2262969938/index.m3u8
 
 #EXTINF:-1,TRT Spor Yıldız
