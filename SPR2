@@ -122,14 +122,15 @@ https://vavoo.to/play/2777121053/index.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
+https://cdn.codenet.best/streamgo/stremgo123/4874.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-https://vavoo.to/play/2262969938/index.m3u8
+
 
 #EXTINF:-1,TRT Spor Yıldız
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-https://vavoo.to/play/93054202/index.m3u8
+https://cdn.codenet.best/streamgo/stremgo123/4875.m3u8
 
 #EXTINF:-1,HT SPOR
 #EXTVLCOPT:network-caching=10000
@@ -191,29 +192,24 @@ https://vavoo.to/play/3307062704/index.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
-https://vavoo.to/play/2509466191/index.m3u8
+https://cdn.codenet.work/streamgo/stremgo123/4865.m3u8
 
 #EXTINF:-1,BeinS 3
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
-https://vavoo.to/play/1700595801/index.m3u8
+https://cdn.codenet.work/streamgo/stremgo123/4866.m3u8
 
 #EXTINF:-1,BeinS 4
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
-https://vavoo.to/play/1872232768/index.m3u8
+https://cdn.codenet.work/streamgo/stremgo123/4867.m3u8
 
 #EXTINF:-1,BeinS 5
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
-https://vavoo.to/play/1230448192/index.m3u8
 
 
 
