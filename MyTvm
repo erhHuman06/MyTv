@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="SiNEMA" ,Boncuk Tv
-http://104.238.23.221/BoncukTV/live/index.m3u8
-https://atakan1983.dev.tc/BoncukTV/live/index.m3u8
-
 #EXTINF:-1 group-title="SiNEMA" ,Sinema
 https://nord.ayakkabiparti.lol/sinema/index.m3u8
 
@@ -313,7 +309,29 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:-1 group-title="SPOR" ,A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 
+#EXTINF:-1, BeinSPR 1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0  // SaRAYDORF
+https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 
+#EXTINF:-1,BeinS 2
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://cdn.codenet.work/streamgo/stremgo123/4865.m3u8
 
+#EXTINF:-1,BeinS 3
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://cdn.codenet.work/streamgo/stremgo123/4866.m3u8
+
+#EXTINF:-1,BeinS 4
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://cdn.codenet.work/streamgo/stremgo123/4867.m3u8
 
 
