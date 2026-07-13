@@ -4,58 +4,58 @@ http://104.238.23.221/BoncukTV/live/index.m3u8
 https://atakan1983.dev.tc/BoncukTV/live/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema
-https://mss.ayakkabiparti.lol/sinema/index.m3u8
+https://nord.ayakkabiparti.lol/sinema/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 2
-https://mss.ayakkabiparti.lol/sinema2/index.m3u8
+https://nord.ayakkabiparti.lol/sinema2/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aksiyon
-https://mss.ayakkabiparti.lol/sinemaaksiyon/index.m3u8
+https://nord.ayakkabiparti.lol/sinemaaksiyon/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aksiyon 2
-
+https://nord.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aile
-https://mss.ayakkabiparti.lol/sinemaaile/index.m3u8
+https://nord.ayakkabiparti.lol/sinemaaile/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aile 2
 
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 1001
-https://mss.ayakkabiparti.lol/sinema1001/index.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 1002
-https://mss.ayakkabiparti.lol/sinema1002/index.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Komedi
-https://mss.ayakkabiparti.lol/sinemakomedi/index.m3u8
+https://nord.ayakkabiparti.lol/sinemakomedi/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Komedi 2
 
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES STARS
-https://mss.ayakkabiparti.lol/bsstars/index.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES ACTiON
-https://mss.ayakkabiparti.lol/bsaction1/index.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 1
-https://mss.ayakkabiparti.lol/bsseries1/index.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 2
-https://mss.ayakkabiparti.lol/bsseries2/index.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 3
-https://mss.ayakkabiparti.lol/bsseries3/index.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 4
-https://mss.ayakkabiparti.lol/bsseries4/index.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,YANSIMA TV
-https://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,RiZE TüRK
-https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+https://yayin.rizeturk.com:3777/multi_web/play_1080.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES TüRK
 https://mss.ayakkabiparti.lol/bsturk/index.m3u8
