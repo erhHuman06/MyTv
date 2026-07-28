@@ -11,6 +11,7 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  //  SaRAYDORF
+https://corestream.siteyaptim.live//bein1/tracks-v1a1/mono.m3u8
 https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
 
 #EXTINF:-1, BeinSPR (2)
@@ -25,6 +26,7 @@ https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  // 
+
 
 #EXTINF:-1, BeinSPR (4)
 #EXTVLCOPT:network-caching=10000
@@ -49,31 +51,29 @@ https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  SD (1)
-https://vavoo.to/play/143239535/index.m3u8
+#EXTVLCOPT:clock-jitter=0   //  
+
 
 #EXTINF:-1, BeinSPR (b)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  HD(1)
-https://vavoo.to/play/662179620/index.m3u8
+#EXTVLCOPT:clock-jitter=0   // 
 
 
 #EXTINF:-1, BeinSPR (c)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  1 +(1)
-https://vavoo.to/play/2576216897/index.m3u8
+#EXTVLCOPT:clock-jitter=0   //  
 
 
 #EXTINF:-1, BeinSPR (d)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // SD (360P)(1)
-https://vavoo.to/play/3692337241/index.m3u8
+#EXTVLCOPT:clock-jitter=0   // 
+
 
 #EXTINF:-1, BeinSPR (e)
 #EXTVLCOPT:network-caching=10000
@@ -88,18 +88,10 @@ https://vavoo.to/play/3692337241/index.m3u8
 #EXTVLCOPT:clock-jitter=0   //  
 
 
-#EXTINF:-1,ReC SPR 
-#EXTVLCOPT:network-caching=9500
-#EXTVLCOPT:live-caching=9500
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0)
-https://cloudlyticsapp.lol/static/bs1.m3u8?|referer=https://twitter.com/&|user-agent=googleusercontent
-
-
 #EXTINF:-1,BeinS HABER
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
-https://vavoo.to/play/3989995533/index.m3u8
 
 
 
@@ -130,19 +122,19 @@ https://vavoo.to/play/568442751/index.m3u8
 https://vavoo.to/play/3307062704/index.m3u8
 
 #EXTINF:-1,BeinS 2
-https://vavoo.to/play/2509466191/index.m3u8
+https://cdn.codenet.work/streamgo/stremgo123/4865.m3u8
 https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
 
 #EXTINF:-1,BeinS 3
-https://vavoo.to/play/1700595801/index.m3u8
+https://cdn.codenet.work/streamgo/stremgo123/4866.m3u8
 https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
 
 #EXTINF:-1,BeinS 4
-https://vavoo.to/play/1872232768/index.m3u8
+https://cdn.codenet.work/streamgo/stremgo123/4867.m3u8
 https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
 
 #EXTINF:-1,BeinS 5
-
+https://cdn.codenet.work/streamgo/stremgo123/4868.m3u8
 
 
 
