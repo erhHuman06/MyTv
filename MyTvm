@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="SiNEMA" ,Sinema
-https://nord.ayakkabiparti.lol/sinemaaksiyon/index.m3u8
-https://nord.ayakkabiparti.lol/sinema2/index.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 2
 https://nord.ayakkabiparti.lol/sinema/index.m3u8
