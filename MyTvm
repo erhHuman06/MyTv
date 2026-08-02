@@ -53,6 +53,9 @@ https://nord.ayakkabiparti.lol/sinemakomedi/index.m3u8
 #EXTINF:-1 group-title="SiNEMA" ,RiZE TüRK
 https://yayin.rizeturk.com:3777/multi_web/play_1080.m3u8
 
+#EXTINF:-1 group-title="SiNEMA" ,Kanal 53
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES TüRK
 https://mss.ayakkabiparti.lol/bsturk/index.m3u8
 
@@ -98,6 +101,9 @@ https://1a-1791.com/live/vf1v23qp/live-hls/sqpf-abtu/chunklist_i1_DVR.m3u8
 #EXTINF:-1 group-title="SiNEMA" ,CiNE 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=VHs7r8VE3745A7h66wfujH
 
+#EXTINF:-1 group-title="SiNEMA" ,CINE5 
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="SiNEMA" ,ON 6
 https://dsmartgo-live.ercdn.net/on6tv/on6tv.m3u8
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
@@ -110,6 +116,9 @@ https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,TiVi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,TyT TÜRK
+https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,YERLi 1
 
@@ -129,8 +138,6 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 group-title="SiNEMA" ,DENiZ POSTASI
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,EKOL TV
-https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,TV 1
 https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
@@ -247,7 +254,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER" ,CNN Türk
-https://proxy.ultrasoner55.workers.dev/?url=http://iptv.prosto.tv:7000/ch318/tracks-v1a1/mono.m3u8
+
 https://tgn.bozztv.com/gin-dvrfl05/gin-cnn-turk/index.m3u8
 https://dsmart-new-live.ercdn.net/cnnturk/cnnturk720p_2.m3u8
 
@@ -261,6 +268,9 @@ https://canli.tgrthaber.com/tgrt.m3u8
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 http://live.mobi-tv.workers.dev/?ID=772
 
+#EXTINF:-1 group-title="HABER" ,Türk Haber
+https://edge.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
+
 #EXTINF:-1 group-title="HABER" ,ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
@@ -271,24 +281,28 @@ https://tgn.bozztv.com/gin-dvrfl05/gin-ulusalkanal/tracks-v1a1/mono.m3u8?nimbles
 https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/chunklist_w1365725416.m3u8
 https://dsmartgo-live.ercdn.net/liderhaber/liderhaber.m3u8
 
-
+#EXTINF:-1 group-title="HABER" ,Line Haber
+https://edge.taksimbilisim.com/linetv/bant1/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER" ,BengüTürk
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 
-#EXTINF:-1 group-title="HABER" ,FLASH HABER
-https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 
 #EXTINF:-1 group-title="HABER" ,HABER 61
 https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/tracks-v1a1/mono.m3u8
 https://kool.to/play/1840643644/index.m3u8
 
+#EXTINF:-1 group-title="HABER" ,Trabzon BB TV
+https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8
+
 #EXTINF:-1 group-title="HABER" ,Bloomberght
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 
+#EXTINF:-1 group-title="HABER" ,TvNET
+https://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist.m3u8
 
-
-
+#EXTINF:-1 group-title="HABER" ,Flash Haber
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_1.m3u8
 
 
 
@@ -342,6 +356,23 @@ https://cdn.codenet.work/streamgo/stremgo123/4867.m3u8
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 https://cdn.codenet.work/streamgo/stremgo123/4868.m3u8
+
+#EXTINF:-1,S-Sport 1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://corestream.siteyaptim.live/s-sport/index.m3u8
+
+#EXTINF:-1,S-Sport 2
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://corestream.siteyaptim.live/s-sport2/tracks-v1a1/mono.m3u8
+
+
+
+
+
 
 
 
