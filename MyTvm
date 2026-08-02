@@ -250,9 +250,6 @@ https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="HABER" ,HABER TÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 
-#EXTINF:-1 group-title="HABER" ,Türk Haber
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-
 #EXTINF:-1 group-title="HABER" ,CNN Türk
 
 https://tgn.bozztv.com/gin-dvrfl05/gin-cnn-turk/index.m3u8
@@ -270,6 +267,7 @@ http://live.mobi-tv.workers.dev/?ID=772
 
 #EXTINF:-1 group-title="HABER" ,Türk Haber
 https://edge.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER" ,ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
