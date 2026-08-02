@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="SiNEMA" ,Sinema
+https://nord.ayakkabiparti.lol/sinemaaksiyon/index.m3u8
 https://nord.ayakkabiparti.lol/sinema2/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 2
@@ -18,7 +19,7 @@ https://nord.ayakkabiparti.lol/sinemaaile/index.m3u8
 
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 1001
-
+https://nord.ayakkabiparti.lol/sinema1001/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 1002
 
@@ -34,6 +35,8 @@ https://nord.ayakkabiparti.lol/sinemakomedi/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES ACTiON
 
+#EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES TüRK
+https://nord.ayakkabiparti.lol/bsturk/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 1
 
@@ -44,8 +47,9 @@ https://nord.ayakkabiparti.lol/sinemakomedi/index.m3u8
 #EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 3
 
 
-#EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 4
 
+#EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 4
+https://nord.ayakkabiparti.lol/bspremier1/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,YANSIMA TV
 
@@ -58,6 +62,12 @@ https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES TüRK
 https://mss.ayakkabiparti.lol/bsturk/index.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,Şaban TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,FilmBox DRAM
+https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN BOX 1
 
@@ -308,13 +318,13 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 
 
 #EXTINF:-1 group-title="SPOR" ,BEiN HABER
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2323/index.m3u8
+https://cdn.codenet.best/streamgo/stremgo123/4864.m3u8
 
 #EXTINF:-1 group-title="SPOR" ,TRT SPOR
 https://corestream.siteyaptim.live//trt-spor/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPOR" ,TRT SPOR YILDIZ
-https://dsmartgo-live.ercdn.net/trtspor2/trtspor2.m3u8
+https://cdn.codenet.best/streamgo/stremgo123/4875.m3u8
 
 #EXTINF:-1 group-title="SPOR" ,HT SPOR
 https://dsmartgo-live.ercdn.net/htspor/htspor.m3u8
