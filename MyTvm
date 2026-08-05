@@ -15,7 +15,7 @@ https://nord.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
 https://nord.ayakkabiparti.lol/sinemaaile/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aile 2
-
+https://nord.ayakkabiparti.lol/bsfamily/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 1001
 https://nord.ayakkabiparti.lol/sinema1001/index.m3u8
@@ -50,8 +50,8 @@ https://nord.ayakkabiparti.lol/bsturk/index.m3u8
 #EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 4
 https://nord.ayakkabiparti.lol/bspremier1/index.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,YANSIMA TV
-
+#EXTINF:-1 group-title="SiNEMA" ,TR Sinema
+https://turkuaz.tecostream.xyz/proxy?url=http%3A%2F%2F145.239.37.125%3A20458%2Frumeliturk%2Frumeliturk%2Fchunklist_w321728796.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,RiZE TüRK
 https://yayin.rizeturk.com:3777/multi_web/play_1080.m3u8
@@ -80,42 +80,22 @@ https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
 #EXTINF:-1 group-title="SiNEMA" ,MOON STAR
 
 
-#EXTINF:-1 group-title="SiNEMA" ,POFiDiX SİNEMA 1
-
-
-#EXTINF:-1 group-title="SiNEMA" ,POFiDiX SİNEMA 2
-
-
-#EXTINF:-1 group-title="SiNEMA" ,POFiDiX SİNEMA 3
-
-
-#EXTINF:-1 group-title="SiNEMA" ,KUZEY MAX
-http://75.119.144.48/KUZEYMAXHD_STREAM/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SiNEMA" ,SUPER TüRK
-http://75.119.144.48/SUPERTURK_TV_STREAM/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,iSViÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,PLAY TV
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,SDM SiNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,TELE ON
-https://1a-1791.com/live/vf1v23qp/live-hls/sqpf-abtu/chunklist_i1_DVR.m3u8
+https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w1537109879.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,CiNE 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=VHs7r8VE3745A7h66wfujH
 
 #EXTINF:-1 group-title="SiNEMA" ,CINE5 
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SiNEMA" ,ON 6
-https://dsmartgo-live.ercdn.net/on6tv/on6tv.m3u8
-https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Bi KANAL
 https://bikanal-live.ercdn.net/bikanal/bikanal_1080p.m3u8
@@ -228,8 +208,6 @@ http://tv.devtv.nl/live/Trexx/Trex1fhgd2z/5962.m3u8
 #EXTINF:-1 group-title="ULUSAL" ,KANAL 7
 https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
 
-#EXTINF:-1 group-title="ULUSAL" ,TYT TüRK
-https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" ,TvNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
@@ -283,6 +261,9 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER" ,ULUSAL TV
 https://tgn.bozztv.com/gin-dvrfl05/gin-ulusalkanal/tracks-v1a1/mono.m3u8?nimblesessionid=1490049444&wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjYgMjo0NDozMSBQTSZoYXNoX3ZhbHVlPU1QMmg2TGN2bk1ockVkOHFBTnlONVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNw==
+
+#EXTINF:-1 group-title="HABER" ,ON Medya
+https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
 
 #EXTINF:-1 group-title="HABER" ,LİDER HABER
 https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/chunklist_w1365725416.m3u8
