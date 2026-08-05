@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="SiNEMA" ,Sinema
-
+https://nord.ayakkabiparti.lol/sinema1001/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 2
 https://nord.ayakkabiparti.lol/sinema/index.m3u8
@@ -18,7 +18,7 @@ https://nord.ayakkabiparti.lol/sinemaaile/index.m3u8
 https://nord.ayakkabiparti.lol/bsfamily/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 1001
-https://nord.ayakkabiparti.lol/sinema1001/index.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 1002
 
@@ -30,7 +30,7 @@ https://nord.ayakkabiparti.lol/sinemakomedi/index.m3u8
 
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES STARS
-
+https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207/bsstars/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES ACTiON
 
