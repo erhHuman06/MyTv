@@ -11,38 +11,40 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  //  kool + .b
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/-L_B_PTJKqwp_euYqODggIlkqKWmgNqPW3wxR_Tu6k1K-I84pjJIHUn0btsEiYbTCH6PPA6Hbisvop-NpDyGvNLl2FJE-vS6ekszBEXPYKurAj_LDUakK34nINwhuHloNs5GIi2BVCw4NgV_jLELZvfLip1MBHOTSAUF_DlycvRx6z75n-YETZcAVQyrsJktgoLT2kqqZDIwMwmR5qJReaJx7v-ZSu_r8HqEutvYICYaQyNnX9PJSmu4A8484e74/hls/index.m3u8
+#EXTVLCOPT:clock-jitter=0  //  kool (720P) .b
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/SgVC_SMwzG8zrfiKawFuyR2n9OoYfNsf4LBCPbNVZMAzSp1NZrcOr2pREv8HkzFr_J-9HTCwBMa4AceS9AsQblbrpapmEYxb2NUTVOJwae7odDJ2Bq4vWY_MMRmo34X1oBX6__NrGXpDuEsah2Vsfvo-bVDYzCFNPXzvLv8VN4_kmn6D5yRm1oohMQ4WMcBnagHe-jaatheg0TMqO3Ff9PvLEyan8eVVb_zxSAQUHXdgspzA805NJaHISRvS8EB-/hls/index.m3u8
 https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
 
 #EXTINF:-1, BeinSPR (2)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // SaRAYDORF
+#EXTVLCOPT:clock-jitter=0  //  kool HD .b
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/_P3VjPVTA0wUA34-OfSMJGlNikiSywYXLWrm7dlSAmd1Ev13jtq1KtGZG6-Fvy-b6An-mALvcdaj2vq_hTaBgparFvaJ6IsAX5lcfMkn4X6YzTXXfQ2T4peJldSrzLTRC3gAyxh_C06c8RUuhGc6qyP9GFr4IPgb0pOOYP2mdX1yPd1aeIXXO5BrYQJRPv0LP6vWOdNCujG7ninatSlDDBkaXNoz15Hwq_XJg4H29g5mbyGNvNsY3p8ACqTwNfbk/hls/index.m3u8
 https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 
 #EXTINF:-1, BeinSPR (3)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  //  vavo 4K FEED(KUTU) .b
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/bYfprewiaj12aJGlMPo-NZkfvbTyPtCCaaBXadXwrvfm0E9PcRE_zuaojrTMxXOaDR_gn_AJY5tqSOanLJCnZe1N-RDX6E7praMVS4be5-hOK3WUho2y1iW008-bOIk9Qp4qpwgoMrNuBvpDIsr7Rwt3DmJYouw3tf1pT5AHwoucxOG34sdiFZYQGhqQYH-TqZx5bEb1nVgXj4_-3CQwQziWqadRcAd91cif8zzHVC6qeSWsCG3TowpVQZFpTYrN/hls/index.m3u8
+#EXTVLCOPT:clock-jitter=0  //  kool  [LIVE DURING EVENTS ONLY] .s
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/u6BToBSZoMyxpVK4-jvV3jqSdSmtfQMr6q5AcJrZw92S3WIYc03e7APlU21IFeomxSGGPFqIAqPvcQBqho9a-uFW-LN__TIpkrSEG2mwgABeXcbeMEPjUM7gd6k6p8mDjS0meKqFyo6W_GISnV1x78WGewJzPKOiBAEQiREvT7QPAIN_150yXxVAadf_ynGM4XcAaIlyGFsPl5qLTkSjHt3vwhiOdR7Grz4WX36_2bW0mqhyojh40JTCTC3tj8LC/hls/index.m3u8
 
 
 #EXTINF:-1, BeinSPR (4)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  //  vavoo 4K FEED(UYDU) .b
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/-9IGu7H2wuA8yV4YNslEAvYRYV2Nufi8L4m7YRzchCUWX49AjrYdXuHNmBS5Nv7X-_CtNhs-JleDUUnCxDmi1uA8xruXWEWTK4MyRdUYgr7zFwdHSQ82X7_lpvbSkQEcMSn_dlqPF7Z9dMLtgJbttKgP8OcuyMGtiCSdH2JPkqIGjukjZ6Mk4fNBu7EfvM1Q5H_Rxs52AVwCMNkTb-ef5v5n9oUAbzSEVRM1f4fLZBtgYzfd4qabwzYUiIAKehBS/hls/index.m3u8
+#EXTVLCOPT:clock-jitter=0  //  
+
+
 
 #EXTINF:-1, BeinSPR (5)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  //  vavoo H265 .b
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/TwEhPMpAAHX1aBT8uft8ZQzO8AgCutqn3ExeloJxvw8QJJiYCV7yGUzDt45ElL7pSu2xWZm8VBc8Iof2jgtPcUeJFnBNLKtYZb-kMiEH2nakutHIyp95k_HXj6BsYLCSJpQVPfTzqA1O7L6qg5wpkxnR3Sd4vZJPO82YJNKuTvZWP9UXnezA15sJa0CPziMFizH9IwiJcjK9Edb7lDUhMzZTn6rOHA01aAe9vz95DgsDFYNNL_NnWScLLXjvid4i/hls/index.m3u8
+#EXTVLCOPT:clock-jitter=0  //  
+
 
 #EXTINF:-1, BeinSPR (6)
 #EXTVLCOPT:network-caching=10000
