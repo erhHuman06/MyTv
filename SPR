@@ -27,8 +27,7 @@ https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  //  kool  [LIVE DURING EVENTS ONLY] .s
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/u6BToBSZoMyxpVK4-jvV3jqSdSmtfQMr6q5AcJrZw92S3WIYc03e7APlU21IFeomxSGGPFqIAqPvcQBqho9a-uFW-LN__TIpkrSEG2mwgABeXcbeMEPjUM7gd6k6p8mDjS0meKqFyo6W_GISnV1x78WGewJzPKOiBAEQiREvT7QPAIN_150yXxVAadf_ynGM4XcAaIlyGFsPl5qLTkSjHt3vwhiOdR7Grz4WX36_2bW0mqhyojh40JTCTC3tj8LC/hls/index.m3u8
-
+https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
 
 #EXTINF:-1, BeinSPR (4)
 #EXTVLCOPT:network-caching=10000
