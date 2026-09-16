@@ -12,7 +12,7 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  //  kool (720P) .b
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/SgVC_SMwzG8zrfiKawFuyR2n9OoYfNsf4LBCPbNVZMAzSp1NZrcOr2pREv8HkzFr_J-9HTCwBMa4AceS9AsQblbrpapmEYxb2NUTVOJwae7odDJ2Bq4vWY_MMRmo34X1oBX6__NrGXpDuEsah2Vsfvo-bVDYzCFNPXzvLv8VN4_kmn6D5yRm1oohMQ4WMcBnagHe-jaatheg0TMqO3Ff9PvLEyan8eVVb_zxSAQUHXdgspzA805NJaHISRvS8EB-/hls/index.m3u8
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/hls/index.m3u8
 https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
 
 #EXTINF:-1, BeinSPR (2)
