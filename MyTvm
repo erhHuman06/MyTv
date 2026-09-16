@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="SiNEMA" ,BeN
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
+
+
+
 #EXTINF:-1 group-title="SiNEMA" ,Sinema
 http://65.108.239.207/sinema/index.m3u8
 
@@ -11,28 +16,38 @@ http://65.108.239.207/sinema2/index.m3u8
 http://65.108.239.207/sinemaaksiyon/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aksiyon 2
-https://nord.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
+http://65.108.239.207/sinemaaksiyon2/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aile
-https://nord.ayakkabiparti.lol/sinemaaile/index.m3u8
+http://65.108.239.207/sinemaaile/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Aile 2
 https://nord.ayakkabiparti.lol/bsfamily/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 1001
-
+http://65.108.239.207/sinema1001/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema 1002
+http://65.108.239.207/sinema1002/index.m3u8
 
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Komedi
-https://nord.ayakkabiparti.lol/sinemakomedi/index.m3u8
+http://65.108.239.207/sinemakomedi/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Sinema Komedi 2
 
 
+#EXTINF:-1 group-title="SiNEMA" ,Sinema Yerli
+http://65.108.239.207/sinemayerli/index.m3u8
+
+
+#EXTINF:-1 group-title="SiNEMA" ,Sinema Yerli 2
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/265512.m3u8
+
+
+
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES STARS
-https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207/bsstars/index.m3u8
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/95601.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES ACTiON
 
@@ -40,20 +55,20 @@ https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207/bsstars/
 https://nord.ayakkabiparti.lol/bsturk/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 1
-
+http://65.108.239.207/bsseries1/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 2
-
+http://65.108.239.207/bsseries2/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 3
-
-
+http://65.108.239.207/bsseries3/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 4
-https://nord.ayakkabiparti.lol/bspremier1/index.m3u8
+http://65.108.239.207/bsseries4/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,TR Sinema
-https://turkuaz.tecostream.xyz/proxy?url=http%3A%2F%2F145.239.37.125%3A20458%2Frumeliturk%2Frumeliturk%2Fchunklist_w321728796.m3u8
+
+
 
 #EXTINF:-1 group-title="SiNEMA" ,RiZE TüRK
 https://yayin.rizeturk.com:3777/multi_web/play_1080.m3u8
