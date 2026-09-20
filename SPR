@@ -19,8 +19,8 @@ https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  //  https://beinsportshd.lat/
-https://ladyboy.yedektv.cfd//hls/bein1.m3u8
+#EXTVLCOPT:clock-jitter=0  //  
+
 
 
 #EXTINF:-1, BeinSPR (3)
