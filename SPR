@@ -12,7 +12,7 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  //  https://taraftarium24.cc/
-https://andro.evrenesoglu117.click/checklist/androstreamlivekral.m3u8
+
 https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
 
 #EXTINF:-1, BeinSPR (2)
@@ -20,6 +20,7 @@ https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  //  
+https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
 https://taraftarium.alimirzayev0414.workers.dev/?url=https%3A%2F%2Fandro.evrenesoglu99.click%2Fchecklist%2Fandrostreamlivess1.m3u8
 
 #EXTINF:-1, BeinSPR (3)
