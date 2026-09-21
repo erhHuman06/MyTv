@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="SiNEMA" ,BeN
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
-
-#EXTINF:-1 group-title="SiNEMA" ,BeN 2
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253737.m3u8
-
-
 #EXTINF:-1 group-title="SiNEMA" ,Sinema
 http://65.108.239.207/sinema/index.m3u8
 
@@ -363,9 +356,8 @@ https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 
 #EXTINF:-1 group-title="HABER" ,CNN Türk
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/3489.m3u8
 
-https://tgn.bozztv.com/gin-dvrfl05/gin-cnn-turk/index.m3u8
-https://dsmart-new-live.ercdn.net/cnnturk/cnnturk720p_2.m3u8
 
 #EXTINF:-1 group-title="HABER" ,A HABER
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8
@@ -421,9 +413,242 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 
 ============================= SPOR ====================================================================================================================
 
+#EXTINF:-1 group-title="SPOR" , BeinSPR
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0  // AtomsporTV
+https://ladyboy.taylandpattaya.cfd//beintv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPOR" , BeinSPR 1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0  // SaRAYDORF
+https://yayinlarfidanafidanlaragaca.xyz/hls/8.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="SPOR"  ,BeN
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
+
+#EXTINF:-1 group-title="SPOR"  ,BeN 2
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253737.m3u8
+
+
+#EXTINF:-1 group-title="SPOR" , BeinSPR
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0   //  Atomspor
+https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
+https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+
+#EXTINF:-1 group-title="SPOR" , BeinSPR 1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0  //  warstv/tr3
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
+https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
+
+#EXTINF:-1 group-title="SPOR" , BeinSPR (2)
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0  //  warstv/tr3
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253737.m3u8
+
+
+#EXTINF:-1 group-title="SPOR" , BeinSPR (3)
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0  //  wasTv/tr3
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
+
+#EXTINF:-1 group-title="SPOR" , BeinSPR (4)
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0  //  
+
+
+
+#EXTINF:-1 group-title="SPOR" , BeinSPR (5)
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0  //  
+
+
+#EXTINF:-1 group-title="SPOR" , BeinSPR (6)
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0  // 
+
+
+#EXTINF:-1 group-title="SPOR" , BeinSPR (a)
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0   //  
+
+
+#EXTINF:-1 group-title="SPOR" , BeinSPR (b)
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0   // 
+
+
+#EXTINF:-1 group-title="SPOR" , BeinSPR (c)
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0   //  
+
+
+#EXTINF:-1 group-title="SPOR" , BeinSPR (d)
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0   // 
+
+
+#EXTINF:-1 group-title="SPOR" , BeinSPR (e)
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0   // 
+
+#EXTINF:-1 group-title="SPOR" , BeinSPR (f)
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0   //  
+
+
+#EXTINF:-1 group-title="SPOR" ,BeinS HABER
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+
+
+#EXTINF:-1 group-title="SPOR" ,BeinS 2
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://cdn.codenet.work/streamgo/stremgo123/4865.m3u8
+https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,BeinS 3
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://cdn.codenet.work/streamgo/stremgo123/4866.m3u8
+https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,BeinS 4
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://cdn.codenet.work/streamgo/stremgo123/4867.m3u8
+https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,BeinS 5
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://cdn.codenet.work/streamgo/stremgo123/4868.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,Ssport 1
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000  //  kool UHD .b
+https://taraftarium.alimirzayev0414.workers.dev/?url=https%3A%2F%2Fladyboy.taylandpattaya.cfd%2F%2Fs-sport%2Ftracks-v1a1%2Fmono.m3u8
+
+
+#EXTINF:-1 group-title="SPOR" ,Ssport 2
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000  //  SaRAYDORF
+https://ladyboy.taylandpattaya.cfd//s-sport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,TABi TV
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+
+
+#EXTINF:-1 group-title="SPOR" ,TABi SPOR
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000  //
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/276408.m3u8
+
+
+#EXTINF:-1 group-title="SPOR" ,TABi SPOR 1
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000  //  kool  4K .b
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/t-YTNg3CKTvKZ3WoFXOj3k4rENsKAlRFb3f8V9yOA6zEqZ42pGSDS14Q6w2-zoUuBovR9e_aOh0KgdaVgNLjao7b8Ghps6PAzxgZzUcEokUQ_BxUL8YV4XM-jQQA4GREQdU5Z2wjVn3BPN3pFZiVZW_Im_m7Ttfe2qxBl5D4RnbHvmMQfjho4bPvTuu12D-AJW2SkxB6KAm9KDIYH32YRKkoWYJjF22uPY0FWcg_BAv3Y_V2gVBInnx5Apss5_V1/hls/index.m3u8
+https://cdn.codenet.work/streamgo/stremgo123/4886.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,TABi SPOR 2
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000  //  kool .c
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/lC8wijDCmlhenxcE6A_shQ41SosjgF6JTZGFLk6Lo2_kHPgJiz0B6haGjvXz6QVYEgEH2FbmLF6Ah2S9Ynjj4xzBBTplvTPHMtbDwcU8LMRy3j5kt_M1lMTTfhlnHuifCVpurUOuCGbKh9EqeFZl5PG3QeoyF6x9_tg_FdBulV8-15FNfDT0pcG3btKjP5cBn-Kv81J7KrbckEbjd203cpbTsdG8mIdNtjyDud--YFIJpL6NvtaKGJ_Ec3kfOR_0/hls/index.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,TABi SPOR 3
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000  //  kool UHD .b
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/TWnpFnVd7CJHYOatWN2w02FxJgRs5nZrIHyYiwJ4lvNQPO-H5s_lKMq2EpLQNrWv1GcCwrm66gsb_AYDQVP375oXV0HytHlLnrIPgyGDlAvo7Z94tz1Cbe3uMox1DrxbSWlu3b7OtIqVbGLx4rgZWKcVfLXjchWo1ub4VJX9rTc-nqDZQ6AjvesI6aEuQdS-qMTsnTPib6ufnWUMTb_DYAhcIc_Cn9Nk48s3m4-mGxkWPNQmsH0NjNAo8czHeZkT/hls/index.m3u8
+
+
+#EXTINF:-1 group-title="SPOR" ,Tivibu Spor
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000  //  SaRAYDORF
+https://cdn.codenet.work/streamgo/stremgo123/4892.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,Tivibu Spor 1
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000  //  SaRAYDORF
+https://andro.evrenesoglu99.click/checklist/androstreamlivets.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,Tivibu Spor 2
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://vavoo.to/play/1465680660/index.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,Tivibu Spor 3
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://vavoo.to/play/568442751/index.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,Tivibu Spor 4
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000
+https://vavoo.to/play/3307062704/index.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="SPOR" ,BEiN HABER
-https://cdn.codenet.best/streamgo/stremgo123/4864.m3u8
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253743.m3u8
 
 #EXTINF:-1 group-title="SPOR" ,TRT SPOR
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253769.m3u8
@@ -438,63 +663,12 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:-1 group-title="SPOR" ,A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 
-#EXTINF:-1, BeinSPR
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // AtomsporTV
-https://ladyboy.taylandpattaya.cfd//beintv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPOR" ,cayTv
+http://beytepemanav.tk//sey/back/v2/parser/new_parser_unob_safe.js?1790021600487
 
-#EXTINF:-1, BeinSPR 1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // SaRAYDORF
-https://yayinlarfidanafidanlaragaca.xyz/hls/8.m3u8
+#EXTINF:-1 group-title="SPOR" ,Krdnz
+http://beytepemanav.tk//sey/back/v2/parser/new_parser_unob_safe.js?1790021718305
 
-#EXTINF:-1,BeinS 2
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-https://corestream.siteyaptim.live//bein2/tracks-v1a1/mono.m3u8
-https://cdn.codenet.work/streamgo/stremgo123/4865.m3u8
-
-#EXTINF:-1,BeinS 3
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-https://corestream.siteyaptim.live//bein3/tracks-v1a1/mono.m3u8
-https://cdn.codenet.work/streamgo/stremgo123/4866.m3u8
-
-#EXTINF:-1,BeinS 4
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-https://corestream.siteyaptim.live//bein4/tracks-v1a1/mono.m3u8
-https://cdn.codenet.work/streamgo/stremgo123/4867.m3u8
-
-#EXTINF:-1,BeinS 5
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-https://cdn.codenet.work/streamgo/stremgo123/4868.m3u8
-
-#EXTINF:-1,S-Sport 1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-https://corestream.siteyaptim.live/s-sport/index.m3u8
-
-#EXTINF:-1,S-Sport 2
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-https://corestream.siteyaptim.live/s-sport2/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="SPOR" ,24
+http://beytepemanav.tk//sey/back/v2/parser/new_parser_unob_safe.js?1790021883160
 
