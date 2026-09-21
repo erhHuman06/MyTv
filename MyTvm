@@ -1,5 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="SiNEMA" ,FX
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/111480.m3u8
+
+
 #EXTINF:-1 group-title="SiNEMA" ,Sinema
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/111460.m3u8
 http://65.108.239.207/sinema/index.m3u8
 
 
@@ -49,7 +54,7 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/95601.m3u8
 
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES TüRK
-https://nord.ayakkabiparti.lol/bsturk/index.m3u8
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/95602.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN SERiES 1
 http://65.108.239.207/bsseries1/index.m3u8
@@ -80,11 +85,6 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/3366.m3u8
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/3365.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,MOON STAR
-
-
-
-#EXTINF:-1 group-title="SiNEMA" ,iSViÇRE TV
-https://i41.ozelip.com:3269/hybrid/play.m3u8
 
 
 
@@ -194,6 +194,9 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/248085.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Eno ViZYON 1
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/183304.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,iSViÇRE TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
 
 
 #EXTINF:-1 group-title="SiNEMA" ,RiZE TüRK
@@ -663,12 +666,20 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:-1 group-title="SPOR" ,A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 
-#EXTINF:-1 group-title="SPOR" ,cayTv
-http://beytepemanav.tk//sey/back/v2/parser/new_parser_unob_safe.js?1790021600487
 
-#EXTINF:-1 group-title="SPOR" ,Krdnz
-http://beytepemanav.tk//sey/back/v2/parser/new_parser_unob_safe.js?1790021718305
 
-#EXTINF:-1 group-title="SPOR" ,24
-http://beytepemanav.tk//sey/back/v2/parser/new_parser_unob_safe.js?1790021883160
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
