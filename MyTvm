@@ -53,7 +53,7 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/265512.m3u8
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/95601.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES ACTiON
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/111476.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES TüRK
 https://nord.ayakkabiparti.lol/bsturk/index.m3u8
@@ -71,10 +71,6 @@ http://65.108.239.207/bsseries3/index.m3u8
 http://65.108.239.207/bsseries4/index.m3u8
 
 
-#EXTINF:-1 group-title="SiNEMA" ,BEiN MOViES TüRK
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/111476.m3u8
-
-
 #EXTINF:-1 group-title="SiNEMA" ,Bein Movies PREMiERE
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/95600.m3u8
 
@@ -82,13 +78,13 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/95600.m3u8
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/95599.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN BOX 1
-http://65.108.239.207/box1/index.m3u8
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/3367.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN BOX 2
-http://65.108.239.207/box2/index.m3u8
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/3366.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,BEiN BOX 3
-http://65.108.239.207/box3/index.m3u8
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/3365.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,MOON STAR
 
@@ -134,11 +130,6 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110851.m3u8
 #EXTINF:-1 group-title="SiNEMA" ,EM PREMiERE 2
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110852.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,EM FESTiVAL
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110853.m3u8
-
-#EXTINF:-1 group-title="SiNEMA" ,EM FAMiLiY
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110854.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,EM KEMAL SUNAL
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110859.m3u8
@@ -146,23 +137,15 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110859.m3u8
 #EXTINF:-1 group-title="SiNEMA" ,Şaban TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,E Animasyon
+#EXTINF:-1 group-title="SiNEMA" ,ELT Animasyon
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110863.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,E Animasyon 2
+#EXTINF:-1 group-title="SiNEMA" ,ELT Animasyon 2
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110862.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,E Animasyon 3
+#EXTINF:-1 group-title="SiNEMA" ,ELT Animasyon 3
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110861.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,Cntm YEŞiLÇAM 1
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/248060.m3u8
-
-#EXTINF:-1 group-title="SiNEMA" ,Cntm YEŞiLÇAM 2
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/248059.m3u8
-
-#EXTINF:-1 group-title="SiNEMA" ,Cntm YEŞiLÇAM 3
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/248058.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Cntm TüRK 1
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/248066.m3u8
@@ -215,11 +198,6 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/248086.m3u8
 #EXTINF:-1 group-title="SiNEMA" ,Cntm AKSiYON 3
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/248085.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,Cntm AiLE 1
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/248089.m3u8
-
-#EXTINF:-1 group-title="SiNEMA" ,Cntm AiLE 2
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/248088.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" ,Eno ViZYON 1
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/183304.m3u8
