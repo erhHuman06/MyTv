@@ -88,44 +88,48 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/3365.m3u8
 
 
 
-#EXTINF:-1 group-title="SiNEMA" ,ES TüRK
+#EXTINF:-1 group-title="SiNEMA" ,ELT TüRK
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110822.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,ES AKSiYON
+#EXTINF:-1 group-title="SiNEMA" ,ELT AKSiYON
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110828.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,ES CLASSiC
+#EXTINF:-1 group-title="SiNEMA" ,ELT CLASSiC
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110829.m3u8
 
 
-#EXTINF:-1 group-title="SiNEMA" ,ES YERLi
+#EXTINF:-1 group-title="SiNEMA" ,ELT YERLi
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110832.m3u8
 
 
-#EXTINF:-1 group-title="SiNEMA" ,ES YERLi 2
+#EXTINF:-1 group-title="SiNEMA" ,ELT YERLi 2
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110833.m3u8
 
 
-#EXTINF:-1 group-title="SiNEMA" ,ES KOMEDi 2
+#EXTINF:-1 group-title="SiNEMA" ,ELT KOMEDi 2
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110837.m3u8
 
 
-#EXTINF:-1 group-title="SiNEMA" ,ES AiLE
+#EXTINF:-1 group-title="SiNEMA" ,ELT AiLE
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110840.m3u8
 
 
-#EXTINF:-1 group-title="SiNEMA" ,ES AiLE 2
+#EXTINF:-1 group-title="SiNEMA" ,ELT AiLE 2
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110841.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,EM PREMiERE
+#EXTINF:-1 group-title="SiNEMA" ,ELT PREMiERE
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110851.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,EM PREMiERE 2
+#EXTINF:-1 group-title="SiNEMA" ,ELT PREMiERE 2
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110852.m3u8
 
 
-#EXTINF:-1 group-title="SiNEMA" ,EM KEMAL SUNAL
+#EXTINF:-1 group-title="SiNEMA" ,ELT KEMAL SUNAL
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110859.m3u8
+
+#EXTINF:-1 group-title="SiNEMA" ,Redbox KEMAL SUNAL
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/46550.m3u8
+
 
 #EXTINF:-1 group-title="SiNEMA" ,Şaban TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
@@ -599,21 +603,45 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/276408.m3u8
 #EXTINF:-1 group-title="SPOR" ,TABi SPOR 1
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  //  kool  4K .b
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/t-YTNg3CKTvKZ3WoFXOj3k4rENsKAlRFb3f8V9yOA6zEqZ42pGSDS14Q6w2-zoUuBovR9e_aOh0KgdaVgNLjao7b8Ghps6PAzxgZzUcEokUQ_BxUL8YV4XM-jQQA4GREQdU5Z2wjVn3BPN3pFZiVZW_Im_m7Ttfe2qxBl5D4RnbHvmMQfjho4bPvTuu12D-AJW2SkxB6KAm9KDIYH32YRKkoWYJjF22uPY0FWcg_BAv3Y_V2gVBInnx5Apss5_V1/hls/index.m3u8
-https://cdn.codenet.work/streamgo/stremgo123/4886.m3u8
+#EXTVLCOPT:live-caching=4000  //  WarsTV/tr3
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/276409.m3u8
+
 
 #EXTINF:-1 group-title="SPOR" ,TABi SPOR 2
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  //  kool .c
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/lC8wijDCmlhenxcE6A_shQ41SosjgF6JTZGFLk6Lo2_kHPgJiz0B6haGjvXz6QVYEgEH2FbmLF6Ah2S9Ynjj4xzBBTplvTPHMtbDwcU8LMRy3j5kt_M1lMTTfhlnHuifCVpurUOuCGbKh9EqeFZl5PG3QeoyF6x9_tg_FdBulV8-15FNfDT0pcG3btKjP5cBn-Kv81J7KrbckEbjd203cpbTsdG8mIdNtjyDud--YFIJpL6NvtaKGJ_Ec3kfOR_0/hls/index.m3u8
+#EXTVLCOPT:live-caching=4000  //  WarsTV/tr3
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/276410.m3u8
+
 
 #EXTINF:-1 group-title="SPOR" ,TABi SPOR 3
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  //  kool UHD .b
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/TWnpFnVd7CJHYOatWN2w02FxJgRs5nZrIHyYiwJ4lvNQPO-H5s_lKMq2EpLQNrWv1GcCwrm66gsb_AYDQVP375oXV0HytHlLnrIPgyGDlAvo7Z94tz1Cbe3uMox1DrxbSWlu3b7OtIqVbGLx4rgZWKcVfLXjchWo1ub4VJX9rTc-nqDZQ6AjvesI6aEuQdS-qMTsnTPib6ufnWUMTb_DYAhcIc_Cn9Nk48s3m4-mGxkWPNQmsH0NjNAo8czHeZkT/hls/index.m3u8
+#EXTVLCOPT:live-caching=4000  //  WarsTV/tr3
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/276411.m3u8
+
+
+#EXTINF:-1 group-title="SPOR" ,TABi SPOR 4
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000  //  WarsTV/tr3
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/276412.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,TABi SPOR 5
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000  //  WarsTV/tr3
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/276413.m3u8
+
+
+#EXTINF:-1 group-title="SPOR" ,TABi SPOR 6
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:live-caching=4000  //  WarsTV/tr3
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/276414.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="SPOR" ,Tivibu Spor
@@ -666,8 +694,8 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:-1 group-title="SPOR" ,A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 
-
-
+#EXTINF:-1 group-title="SPOR" ,BBs
+https://andro.evrenesoglu121.click/checklist/androstreamlivekral.m3u8
 
 
 
