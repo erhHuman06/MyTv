@@ -325,7 +325,10 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_720p.m3u8
 
 
 #EXTINF:-1 group-title="ULUSAL" ,TV 8 INT
-//  https://tr.canlitv.watch/
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0  //  https://tr.canlitv.watch/
 https://tgn.bozztv.com/gin-dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8?nimblesessionid=1844038492&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI2IDY6MDg6MDYgUE0maGFzaF92YWx1ZT03V2FlanFIVlh4UWo2ekNIbHlQQUtRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
 
 #EXTINF:-1 group-title="ULUSAL" ,KANAL 7
@@ -675,7 +678,10 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253747.m3u8
 
 
 #EXTINF:-1 group-title="SPOR" ,BEiN HABER
-//  https://tr.canlitv.watch/
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0  //  https://tr.canlitv.watch/
 https://tgn.bozztv.com/gin-dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8?nimblesessionid=1844028266&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI2IDY6MDM6MzAgUE0maGFzaF92YWx1ZT1SMldBL3RvaFprYVlUK3pzeFdrcTl3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MzE=
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253743.m3u8
 
