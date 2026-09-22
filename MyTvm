@@ -142,15 +142,6 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd8763
 #EXTINF:-1 group-title="SiNEMA" ,Yansıma Nostalji
 http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
 
-#EXTINF:-1 group-title="SiNEMA" ,ELT Animasyon
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110863.m3u8
-
-#EXTINF:-1 group-title="SiNEMA" ,ELT Animasyon 2
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110862.m3u8
-
-#EXTINF:-1 group-title="SiNEMA" ,ELT Animasyon 3
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/110861.m3u8
-
 
 #EXTINF:-1 group-title="SiNEMA" ,Cntm TüRK 1
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/248066.m3u8
@@ -342,8 +333,8 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_720p.m3u8
 
 
 #EXTINF:-1 group-title="ULUSAL" ,TV 8 INT
-http://live.mobi-tv.workers.dev/?ID=806
-http://tv.devtv.nl/live/Trexx/Trex1fhgd2z/5962.m3u8
+//  https://tr.canlitv.watch/
+https://tgn.bozztv.com/gin-dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8?nimblesessionid=1844038492&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI2IDY6MDg6MDYgUE0maGFzaF92YWx1ZT03V2FlanFIVlh4UWo2ekNIbHlQQUtRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
 
 #EXTINF:-1 group-title="ULUSAL" ,KANAL 7
 https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
@@ -587,6 +578,7 @@ https://cdn.codenet.work/streamgo/stremgo123/4868.m3u8
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000  //  
+https://ladyboy.yedektv.cfd//s-sport/tracks-v1a1/mono.m3u8
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/257427.m3u8
 
 
@@ -594,6 +586,7 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/257427.m3u8
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000  //  
+https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/257428.m3u8
 
 #EXTINF:-1 group-title="SPOR" ,TABi TV
@@ -690,11 +683,12 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253747.m3u8
 
 
 #EXTINF:-1 group-title="SPOR" ,BEiN HABER
+//  https://tr.canlitv.watch/
+https://tgn.bozztv.com/gin-dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8?nimblesessionid=1844028266&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI2IDY6MDM6MzAgUE0maGFzaF92YWx1ZT1SMldBL3RvaFprYVlUK3pzeFdrcTl3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MzE=
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253743.m3u8
 
 #EXTINF:-1 group-title="SPOR" ,TRT SPOR
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/265521.m3u8
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253769.m3u8
+https://ladyboy.yedektv.cfd//trt-spor/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPOR" ,TRT SPOR YILDIZ
 https://cdn.codenet.best/streamgo/stremgo123/4875.m3u8
