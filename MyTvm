@@ -400,17 +400,11 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER" ,ULUSAL TV
-https://tgn.bozztv.com/gin-dvrfl05/gin-ulusalkanal/tracks-v1a1/mono.m3u8?nimblesessionid=1490049444&wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjYgMjo0NDozMSBQTSZoYXNoX3ZhbHVlPU1QMmg2TGN2bk1ockVkOHFBTnlONVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNw==
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/3479.m3u8
 
 #EXTINF:-1 group-title="HABER" ,ON Medya
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
 
-#EXTINF:-1 group-title="HABER" ,LİDER HABER
-https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/chunklist_w1365725416.m3u8
-https://dsmartgo-live.ercdn.net/liderhaber/liderhaber.m3u8
-
-#EXTINF:-1 group-title="HABER" ,Line Haber
-https://edge.taksimbilisim.com/linetv/bant1/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER" ,BengüTürk
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
@@ -441,7 +435,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  // AtomsporTV
-https://ladyboy.taylandpattaya.cfd//beintv/tracks-v1a1/mono.m3u8
+https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPOR" , BeinSPR 1
 #EXTVLCOPT:network-caching=10000
@@ -592,15 +586,15 @@ https://cdn.codenet.work/streamgo/stremgo123/4868.m3u8
 #EXTINF:-1 group-title="SPOR" ,Ssport 1
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  //  kool UHD .b
-https://taraftarium.alimirzayev0414.workers.dev/?url=https%3A%2F%2Fladyboy.taylandpattaya.cfd%2F%2Fs-sport%2Ftracks-v1a1%2Fmono.m3u8
+#EXTVLCOPT:live-caching=4000  //  
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/257427.m3u8
 
 
 #EXTINF:-1 group-title="SPOR" ,Ssport 2
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000  //  SaRAYDORF
-https://ladyboy.taylandpattaya.cfd//s-sport2/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:live-caching=4000  //  
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/257428.m3u8
 
 #EXTINF:-1 group-title="SPOR" ,TABi TV
 #EXTVLCOPT:network-caching=4000
@@ -699,6 +693,7 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253747.m3u8
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253743.m3u8
 
 #EXTINF:-1 group-title="SPOR" ,TRT SPOR
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/265521.m3u8
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253769.m3u8
 
 #EXTINF:-1 group-title="SPOR" ,TRT SPOR YILDIZ
@@ -715,8 +710,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 https://andro.evrenesoglu121.click/checklist/androstreamlivekral.m3u8
 
 
-#EXTINF:-1 group-title="SPOR" ,BBs 2
-https://andro.evrenesoglu121.click/checklist/batutest.m3u8
+
 
 
 
