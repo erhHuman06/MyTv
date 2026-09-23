@@ -408,8 +408,6 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/tracks-v1a1/mono.m3u8
 https://kool.to/play/1840643644/index.m3u8
 
-#EXTINF:-1 group-title="HABER" ,Trabzon BB TV
-https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8
 
 #EXTINF:-1 group-title="HABER" ,Bloomberght
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
@@ -435,8 +433,8 @@ https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // SaRAYDORF
-https://yayinlarfidanafidanlaragaca.xyz/hls/8.m3u8
+#EXTVLCOPT:clock-jitter=0  //  vavoo HD (TURKEY) (1)
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/28XkStoLC8V6ZlzbSVMUKT-XHmbbc9Ak5c9O1xktMoL6x4PDTFenGwmS1-WdK43URxGXtAoQ3UqkHI6OeDppHjSnSNvHHQVZDiZArl3qfWN8vPINQT0MYB-f1B4zlXw63dEtTAfU4-csrcu3N_P-crmeCjQ7bnvJ8TKMdDPrGspUbZvYhZhaOdbNM9pE85ToDQDWWDfy_NrcCxaHuyMgnKNEumZLNiFKIZ7Gc8tZMxjgMLYB5PGCVfhfQM5fxVQPhyhDQDBenqPvQNzNdilQTVtIvbFgS3QOY-o3hOJYbSLbM0jNlmCyxjxTfKFutz29eU-wniAaLw3awYSoinR9uxY08QHSSEGIFO1mf5p1PrY/hls/index.m3u8
 
 
 
@@ -485,15 +483,17 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  //  
+#EXTVLCOPT:clock-jitter=0  //  vavoo H265 (1)
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/1kQayycoHgFx_Qh0MYJlHe6XQGrEJ4Ta8CJ-XbGbSpPc2a6pQKmrlal8-Gdq79AnapNEBcIXOKMG0soVr94R5eAGrjEWclgKVLdn4mx_I1fEtIAiKXozRvcpgAsOLbBXNmRCpdP4E8bcn4SZ6JSDNU9ozlDqcS4Gjg2zY2iSXyABpZXnN-39ffO0cIA04WnHD2yjkO7g7QAXdpzp2ENybWv9DYLq6E81S-3JqvgNNE7BT7CVyWFG3b3a_t-u0h6OiVk_qqU5Jblt-4n32ZayoOv0aKo1QLeCaV7pQzqMBcm0QqdjF0kBVvU8c69FxuBmqlQy4q4e43RquCv53lAq_5qSZJXoX7bC5uqwsQ-nxPA/hls/index.m3u8
 
 
 
-#EXTINF:-1 group-title="SPOR" , BeinSPR (5)
+#EXTINF:-1 group-title="SPOR" , BeinSPR TURL
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  //  
+https://tinyurl.com/Bspor0101
 
 
 #EXTINF:-1 group-title="SPOR" , BeinSPR (6)
