@@ -419,7 +419,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 
 ============================= SPOR ====================================================================================================================
 
-#EXTINF:-1 group-title="SPOR" , BeinSPR
+#EXTINF:-1 group-title="SPOR" , BeinSPR 1 (a)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
@@ -427,54 +427,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="SPOR" , BeinSPR 1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  //  https://kralsportshd.com/
-https://andro.evrenesoglu121.click/checklist/androstreamlivekral.m3u8
-
-
-
-#EXTINF:-1 group-title="SPOR"  ,BeN
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
-
-#EXTINF:-1 group-title="SPOR"  ,BeN 2
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253737.m3u8
-
-
-#EXTINF:-1 group-title="SPOR" , BeinSPR
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  Atomspor
-https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="SPOR" , BeinSPR 1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  //  warstv/tr3
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
-
-
-#EXTINF:-1 group-title="SPOR" , BeinSPR (2)
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  //  warstv/tr3
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253737.m3u8
-
-
-#EXTINF:-1 group-title="SPOR" , BeinSPR (3)
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  //  wasTv/tr3
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
-
-#EXTINF:-1 group-title="SPOR" , BeinSPR (4)
+#EXTINF:-1 group-title="SPOR" , BeinSPR 1 (b)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
@@ -482,66 +435,24 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
 https://ladyboy.yedektv.cfd//hls/bein1.m3u8
 
 
-#EXTINF:-1 group-title="SPOR" , BeinSPR (5)
+#EXTINF:-1 group-title="SPOR"  ,BeinSPR 1 (c)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  //  
+#EXTVLCOPT:clock-jitter=0  //  warstv/tr3
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
+#EXTINF:-1 group-title="SPOR"  ,BeinSPR 1 (d)
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253737.m3u8
+
+
+#EXTINF:-1 group-title="SPOR" , BeinSPR 1 (d)
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0   //  
 https://andro.evrenesoglu121.click/checklist/androstreamlivekral.m3u8
 
 
-#EXTINF:-1 group-title="SPOR" , BeinSPR (6)
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // 
-
-
-#EXTINF:-1 group-title="SPOR" , BeinSPR (a)
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  
-
-
-#EXTINF:-1 group-title="SPOR" , BeinSPR (b)
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // 
-
-
-#EXTINF:-1 group-title="SPOR" , BeinSPR (c)
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  
-
-
-#EXTINF:-1 group-title="SPOR" , BeinSPR (d)
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // 
-
-
-#EXTINF:-1 group-title="SPOR" , BeinSPR (e)
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   // 
-
-#EXTINF:-1 group-title="SPOR" , BeinSPR (f)
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:live-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  
-
-
-#EXTINF:-1 group-title="SPOR" ,BeinS HABER
-#EXTVLCOPT:network-caching=4000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:live-caching=4000
 
 
 #EXTINF:-1 group-title="SPOR" ,BeinS 2
