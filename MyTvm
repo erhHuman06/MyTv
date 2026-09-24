@@ -426,7 +426,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 #EXTVLCOPT:clock-jitter=0  // AtomsporTV
 https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 group-title="SPOR" , BeinSPR 1 (b)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
@@ -445,7 +444,7 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253737.m3u8
 
 
-#EXTINF:-1 group-title="SPOR" , BeinSPR 1 (d)
+#EXTINF:-1 group-title="SPOR" , BeinSPR 1 (e)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
