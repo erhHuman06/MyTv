@@ -419,12 +419,20 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 
 ============================= SPOR ====================================================================================================================
 
+#EXTINF:-1 group-title="SPOR" , BeinSPR 1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0  // İzleGo
+http://izlego.minikirppis-com.workers.dev/ID=5934938605e361d7e0ff0
+
+
 #EXTINF:-1 group-title="SPOR" , BeinSPR 1 (a)
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // AtomsporTV
-http://izlego.minikirppis-com.workers.dev/ID=5934938605e361d7e0ff0
+#EXTVLCOPT:clock-jitter=0  // İzleGo 4k feed(kutu).b
+http://izlego.minikirppis-com.workers.dev/ID=267105889a25a483e5e80
 
 #EXTINF:-1 group-title="SPOR" , BeinSPR 1 (b)
 #EXTVLCOPT:network-caching=10000
