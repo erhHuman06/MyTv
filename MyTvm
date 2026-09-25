@@ -3,6 +3,9 @@
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/265470.m3u8
 
 
+#EXTINF:-1 group-title="Canlı" ,SPR SuPERTV
+http://izlego.minikirppis-com.workers.dev/ID=1363827223a1c98515d612
+
 #EXTINF:-1 group-title="Canlı" ,Sinema
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/111460.m3u8
 
@@ -135,7 +138,47 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/46550.m3u8
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
 
 #EXTINF:-1 group-title="Canlı" ,Max TüRK
-https://saraydorf.de/cors/code_proxy.php?url=http://65.108.239.207/bsturk/index.m3u8
+http://izlego.minikirppis-com.workers.dev/ID=12222724817c6557a8a82e
+
+#EXTINF:-1 group-title="Canlı" ,Max GOLD
+http://izlego.minikirppis-com.workers.dev/ID=3268174995a93718bba188
+
+#EXTINF:-1 group-title="Canlı" ,Global BOX YERLi
+http://izlego.minikirppis-com.workers.dev/ID=23222622101ba7812517d7
+
+#EXTINF:-1 group-title="Canlı" ,Global BOX AKSiYON
+http://izlego.minikirppis-com.workers.dev/ID=2456232539a0f9283d418b
+
+
+#EXTINF:-1 group-title="Canlı" ,FIX YEŞiLÇAM
+http://izlego.minikirppis-com.workers.dev/ID=411086166261597686dd33
+
+#EXTINF:-1 group-title="Canlı" ,FIX Netflx
+http://izlego.minikirppis-com.workers.dev/ID=32169858008c38299c49bf
+
+#EXTINF:-1 group-title="Canlı" ,FIX BiLiM-KURGU
+http://izlego.minikirppis-com.workers.dev/ID=2480231926f2f22c708b52
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="Canlı" ,Yansıma SiNEMA
