@@ -464,7 +464,7 @@ https://cdn.codenet.work/streamgo/stremgo123/4865.m3u8
 #EXTVLCOPT:live-caching=4000
 https://cdn.codenet.work/streamgo/stremgo123/4866.m3u8
 
-#EXTINF:-1 group-title="SPOR" ,BeinS 4
+#EXTINF:-1 group-title="SPOR" ,SporTV 4
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
 https://cdn.codenet.work/streamgo/stremgo123/4867.m3u8
