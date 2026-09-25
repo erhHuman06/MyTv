@@ -424,7 +424,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 #EXTVLCOPT:live-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  // İzleGo
-http://izlego.minikirppis-com.workers.dev/ID=5934938605e361d7e0ff0
+http://izlego.minikirppis-com.workers.dev/ID=3989995533d0efea1c8696
 
 
 #EXTINF:-1 group-title="SPOR" , BeinSPR 1 (a)
