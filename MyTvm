@@ -3,9 +3,6 @@
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/265470.m3u8
 
 
-#EXTINF:-1 group-title="Canlı" ,SuPERTV
-http://izlego.minikirppis-com.workers.dev/ID=22330664333ebb4acbb6ab
-
 #EXTINF:-1 group-title="Canlı" ,Sinema
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/111460.m3u8
 
@@ -484,12 +481,32 @@ https://andro.evrenesoglu121.click/checklist/androstreamlivekral.m3u8
 
 
 #EXTINF:-1 group-title="SPOR"  ,SporTV 1 (e)
+#EXTVLCOPT:http-reconnect=true  // SuperTV Vavoo  H265.b
+http://izlego.minikirppis-com.workers.dev/ID=24034250314fd9aa349685
 
 
-
-#EXTINF:-1 group-title="SPOR" , SporTV 1 (f)
+#EXTINF:-1 group-title="SPOR" , SporTV 1 (1)
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  
+#EXTVLCOPT:clock-jitter=0   //  SuperTV Vavoo HD(TURKEY).b
+http://izlego.minikirppis-com.workers.dev/ID=5934938605e361d7e0ff0
+
+#EXTINF:-1 group-title="SPOR" , SporTV 1 (2)
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0   //  SuperTV Vavoo 4K feed(kutu).b
+http://izlego.minikirppis-com.workers.dev/ID=267105889a25a483e5e80
+
+#EXTINF:-1 group-title="SPOR" , SporTV 1 (3)
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0   //  SuperTV Vavoo 4K feed(uydu).b
+http://izlego.minikirppis-com.workers.dev/ID=1536730627bbf8f95ca477
+
+#EXTINF:-1 group-title="SPOR" , SporTV 1 (4)
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0   //  SuperTV Vavoo 8K feed.b
+http://izlego.minikirppis-com.workers.dev/ID=2113462398d8dd57a8ea73
+
+
+
 
 
 
@@ -609,7 +626,8 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253747.m3u8
 #EXTINF:-1 group-title="SPOR" ,BEiN HABER
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  //  vavoo (6)
-https://tinyurl.com/BsporHBR0101
+http://izlego.minikirppis-com.workers.dev/ID=3989995533d0efea1c8696
+http://izlego.minikirppis-com.workers.dev/ID=1197336000e1b7dd01506d
 
 
 #EXTINF:-1 group-title="SPOR" ,TRT SPOR
