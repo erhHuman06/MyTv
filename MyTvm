@@ -491,27 +491,29 @@ https://andro.evrenesoglu121.click/checklist/androstreamlivekral.m3u8
 
 #EXTINF:-1 group-title="SPOR"  ,SporTV 1 (e)
 #EXTVLCOPT:http-reconnect=true  // 
-http://117.55.202.236:8008/sunshine/zYUhJMo_rLOR1s58DBd9nEn9U6RhMavYmVaRSKMKbt0-4gBm7vnWYuBPDlZUVr9JQiXIMApoQ2Kq9uf9Ac4ntjhmuQCJKM1h9s3IrBIvTAByYEcxqpwB2l84HfLMFE5YnP8gNjR2xMo5audKuWeWACCfpZT4t-Y7A4rd0HVaOWXlv1m9lc7
+https://qldtgxziwdu7poz.fu8oefd4v2dvlmaarur6crfp.com/sunshine/YZNKx6V8TvOUvCaRmLT1p7F_s4PgehNN9O4Eibir91TC0s7zNvl_Gm5-3JSDWh5g__-xpsMPueblv3Iep0pdkL1cmOlZBvv6bgewCPOF4OZxtRsYaMWYjIGUda-wc8N0Iz63zZfcwDdXG1CSlOjyUTax5izcv6ZqzG8tjLbFTuWodEvU9Fw2bWVR3r-BxXR3z9AYIumHJAfiQPZVuk6H5a0rp6ViPoyLyoX-GYoQkAlH-EYR_cxGz1eEVxxhkyZid5l-Z6alARXnQTxRDvBYhsFVQ7YCj0K_D9ql8DgrBW9jr8m-evkSPtOqhcM7r_VDnKMIPMu8b0SmiSNvVbEYOUin2U7n_rG9_3IiW_2GMeg/hls/index.m3u8
 
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (1)
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  SuperTV Vavoo HD(TURKEY).b
-http://109.205.187.150:8008/sunshine/ufxeuXpxbDzJyjleZgOZ0R5AMA_i-0mtEpfLFAqt2vNcyyV-GWojHETGsyrgzK-Tnu0TfUmxr4Ov2cA3sZGQq0eblbS80H34rM3hOzCtRn1W0efUsK9FwuGQ1KqXOfSp5PtOGgTNA9eSunowsd2kWbsTNlE37gQ5X2TAgyIWVOhBEKzFNw
+#EXTVLCOPT:clock-jitter=0   //  
+https://qldtgxziwdu7poz.fu8oefd4v2dvlmaarur6crfp.com/sunshine/xZK5NPIjEnKfSN2epiRxsQoZtxCnn6F26A10GfPRKkW7m7fYwMgJBOL7WMBsHbB6dqXkfbunGerjrqtSpCP2HoC3lbN5UZdxgiNr7sc43j-X_Ay0EfqAxOr6SnjwX9BNvtKi5wOKxrCzNK-2oKpLRHRSKS8fN3od_oSn9o9-ROLa5GJao4SCc6o3D82tDbjKtOOu4Tj5dUCOLP3JQp5oIvKFEB4QfkUwpJo3MbFdGPbu04H0N86J8rzCncBL7MDEL89KQW_4slRKV8seVllgCpvJL1tWqFZtzbEITWyUiCvUnWcT9nHmrti3meQ4YAPn4TET8W33OTH_L3mvrqy7Vt4SdYmUYsnZ7CSB3FjOwZ4/hls/index.m3u8
+
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (2)
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  SuperTV Vavoo 4K feed(kutu).b
-http://izlego.minikirppis-com.workers.dev/ID=267105889a25a483e5e80
+#EXTVLCOPT:clock-jitter=0   //  
+https://7jep2q6xee5pjrv.fu8oefd4v2dvlmaarur6crfp.com/sunshine/kjoV-qNaGJoG58vaIrOxXK1pgpbAZEa7xQ0QG-ewmeySg8gXgPtXOUnshZg2JOVgFVUHLgIUdFLSGejdIIyabg5oqItffSer9ohUqTOhEXYFyqrcOTE69a4dTrO6vTeHBUrVk4Tl_h5h255b1nVc0X-ToD--KTImDD7gXFS7olCqHoJkusFl7L1ScW6bm1LpxHDmhtWouROZJzHz6vHAxkiduRH3fSPbkeu6fhLigmB4Kn8GCyGBKEfJ1h0EfzhHKjiLdSPXvdql0NyeOOdgQiM8nDQon5bd6D2rf2ybjcKERIK1b1Tugi8uV0Vjiog-me5c-XwOoCsPaRxbOGXazDnleWssuegN0w2bLpw4U4E/hls/index.m3u8
+
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (3)
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  SuperTV Vavoo 4K feed(uydu).b
+#EXTVLCOPT:clock-jitter=0   //  
 http://izlego.minikirppis-com.workers.dev/ID=1536730627bbf8f95ca477
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (4)
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  SuperTV Vavoo 8K feed.b
+#EXTVLCOPT:clock-jitter=0   //  
 http://izlego.minikirppis-com.workers.dev/ID=2113462398d8dd57a8ea73
 
 
@@ -519,14 +521,6 @@ http://izlego.minikirppis-com.workers.dev/ID=2113462398d8dd57a8ea73
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   //  taraftarium24.cc
 https://taraftarium.alimirzayev0414.workers.dev/?url=https%3A%2F%2Fladyboy.yedektv.cfd%2F%2Fhls%2Fbein1.m3u8
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="SPOR" ,SporTV 2
@@ -548,6 +542,28 @@ https://cdn.codenet.work/streamgo/stremgo123/4867.m3u8
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:live-caching=4000
 https://cdn.codenet.work/streamgo/stremgo123/4868.m3u8
+
+
+#EXTINF:-1 group-title="SPOR" ,BEiN HABER
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0  //  
+https://qldtgxziwdu7poz.fu8oefd4v2dvlmaarur6crfp.com/sunshine/exe7bu4HkPETgiqQgXpmwAEJdHdiAvDmxG1dmhJFtgKa60P0TX5IVkX3xgY9WFQrDWj0aXjKVhpND16csGtgblwi8QoQYcBrSDwHdEXpYi6X6rqWldSuJz7OVRG_ZQ4UpgX0JcLB4IcxBHgcmglSzOPjUIdFMwzeOXSEV7B9Eb8o10u9JSt9spNInOTZO1KH0kWU-b5kOe0hh5C5RcNFfwn1LIdlwMoPLRpf5VSijNpyomKr1H6WXMkhHTada2kLO2idAnFt-9TRhyfXifE_4AT94J6MYXoZXQ8kDS6EH5m5n3-15M2onRdTzdrn47nWfs5L6XAOoFDmOWFdAibtN_SfdRA1ewubtjc9LXsJdC4/hls/index.m3u8
+
+
+#EXTINF:-1 group-title="SPOR" ,TRT SPOR
+https://ladyboy.yedektv.cfd//trt-spor/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,TRT SPOR YILDIZ
+https://cdn.codenet.best/streamgo/stremgo123/4875.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,HT SPOR
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor_720p.m3u8
+
+#EXTINF:-1 group-title="SPOR" ,A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+
+
+
 
 #EXTINF:-1 group-title="SPOR" ,S-sport 1
 #EXTVLCOPT:http-reconnect=true
@@ -640,24 +656,7 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253747.m3u8
 
 
 
-#EXTINF:-1 group-title="SPOR" ,BEiN HABER
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  //  vavoo (6)
-http://izlego.minikirppis-com.workers.dev/ID=3989995533d0efea1c8696
-http://izlego.minikirppis-com.workers.dev/ID=1197336000e1b7dd01506d
 
-
-#EXTINF:-1 group-title="SPOR" ,TRT SPOR
-https://ladyboy.yedektv.cfd//trt-spor/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SPOR" ,TRT SPOR YILDIZ
-https://cdn.codenet.best/streamgo/stremgo123/4875.m3u8
-
-#EXTINF:-1 group-title="SPOR" ,HT SPOR
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor_720p.m3u8
-
-#EXTINF:-1 group-title="SPOR" ,A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 
 
 
