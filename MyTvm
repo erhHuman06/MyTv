@@ -24,7 +24,7 @@ https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=h
 
 
 #EXTINF:-1 group-title="Canlı" ,Sinema Aile
-https://saraydorf.de/cors/code_proxy.php?url=https://65.108.239.207/sinemaaile/index.m3u8
+https://65.108.239.207/sinemaaile/index.m3u8
 
 
 #EXTINF:-1 group-title="Canlı" ,Sinema Aile 2
