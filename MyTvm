@@ -4,6 +4,7 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/265470.m3u8
 
 
 #EXTINF:-1 group-title="Canlı" ,Sinema
+https://saraydorf.de/cors/code_proxy.php?url=http://65.108.239.207/sinema/index.m3u8
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/111460.m3u8
 
 
@@ -16,11 +17,11 @@ https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=h
 
 
 #EXTINF:-1 group-title="Canlı" ,Sinema Aksiyon 2
-http://izlego.minikirppis-com.workers.dev/ID=344071158009740df4a222
+https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=http://65.108.239.207/sinemaaksiyon2/index.m3u8
 
 
 #EXTINF:-1 group-title="Canlı" ,Sinema Aile
-http://65.108.239.207/sinemaaile/index.m3u8
+https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=http://65.108.239.207/sinemaaile/index.m3u8
 
 #EXTINF:-1 group-title="Canlı" ,Sinema Aile 2
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/265506.m3u8
@@ -34,7 +35,7 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/242872.m3u8
 
 
 #EXTINF:-1 group-title="Canlı" ,Sinema Komedi
-http://65.108.239.207/sinemakomedi/index.m3u8
+https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=http://65.108.239.207/sinemakomedi/index.m3u8
 
 #EXTINF:-1 group-title="Canlı" ,Sinema Komedi 2
 
@@ -188,6 +189,7 @@ http://izlego.minikirppis-com.workers.dev/ID=140294889322f1c6411b3
 
 
 #EXTINF:-1 group-title="Canlı" ,Yansıma SiNEMA
+https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37f/79adcbd0516d923757328a7ce9d0f37f.m3u8
 http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
 
 #EXTINF:-1 group-title="Canlı" ,Yansıma Nostalji
@@ -513,11 +515,22 @@ https://taraftarium.alimirzayev0414.workers.dev/?url=https%3A%2F%2Fladyboy.yedek
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (4)
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  
-http://izlego.minikirppis-com.workers.dev/ID=2113462398d8dd57a8ea73
+#EXTVLCOPT:clock-jitter=0   //  saraydorf
+https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (5)
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0   //  saraydorf
+https://corestream.siteyaptim.live//bein1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPOR" , SporTV 1 (6)
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0   //  saraydorf
+https://saraydorf.de/spor/player/webplayer/?s=https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
+
+
+#EXTINF:-1 group-title="SPOR" , SporTV 1 (7)
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   //  taraftarium24.cc
 https://taraftarium.alimirzayev0414.workers.dev/?url=https%3A%2F%2Fladyboy.yedektv.cfd%2F%2Fhls%2Fbein1.m3u8
