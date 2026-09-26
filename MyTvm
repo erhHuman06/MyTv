@@ -17,7 +17,6 @@ https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=h
 
 #EXTINF:-1 group-title="Canlı" ,Sinema Aksiyon 2
 http://izlego.minikirppis-com.workers.dev/ID=344071158009740df4a222
-http://65.108.239.207/sinemaaksiyon2/index.m3u8
 
 
 #EXTINF:-1 group-title="Canlı" ,Sinema Aile
@@ -51,6 +50,10 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/265512.m3u8
 
 #EXTINF:-1 group-title="Canlı" ,BEiN MOViES STARS
 http://izlego.minikirppis-com.workers.dev/ID=250091316466da3ef72786
+
+#EXTINF:-1 group-title="Canlı" ,BEiN MOViES AKSiYON
+http://izlego.minikirppis-com.workers.dev/ID=18734781311354b28a35dd
+
 
 
 #EXTINF:-1 group-title="Canlı" ,Bein Movies PREMiERE
@@ -130,6 +133,8 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/293565.m3u8
 #EXTINF:-1 group-title="Canlı" ,Redbox KEMAL SUNAL
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/46550.m3u8
 
+#EXTINF:-1 group-title="Canlı" ,Global BOX KEMAL SUNAL
+http://izlego.minikirppis-com.workers.dev/ID=4275446197442fb43a2e5e
 
 #EXTINF:-1 group-title="Canlı" ,Şaban TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
@@ -139,6 +144,9 @@ http://izlego.minikirppis-com.workers.dev/ID=12222724817c6557a8a82e
 
 #EXTINF:-1 group-title="Canlı" ,Max GOLD
 http://izlego.minikirppis-com.workers.dev/ID=3268174995a93718bba188
+
+#EXTINF:-1 group-title="Canlı" ,Max AKSiYON
+http://izlego.minikirppis-com.workers.dev/ID=37218055905af42d5ff2b
 
 #EXTINF:-1 group-title="Canlı" ,Global BOX YERLi
 http://izlego.minikirppis-com.workers.dev/ID=23222622101ba7812517d7
@@ -156,7 +164,8 @@ http://izlego.minikirppis-com.workers.dev/ID=32169858008c38299c49bf
 #EXTINF:-1 group-title="Canlı" ,FIX BiLiM-KURGU
 http://izlego.minikirppis-com.workers.dev/ID=2480231926f2f22c708b52
 
-
+#EXTINF:-1 group-title="Canlı" ,FIX AKSiYON
+http://izlego.minikirppis-com.workers.dev/ID=140294889322f1c6411b3
 
 
 
