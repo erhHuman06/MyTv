@@ -490,14 +490,14 @@ https://andro.evrenesoglu121.click/checklist/androstreamlivekral.m3u8
 
 
 #EXTINF:-1 group-title="SPOR"  ,SporTV 1 (e)
-#EXTVLCOPT:http-reconnect=true  // SuperTV Vavoo  H265.b
-http://izlego.minikirppis-com.workers.dev/ID=24034250314fd9aa349685
+#EXTVLCOPT:http-reconnect=true  // 
+http://117.55.202.236:8008/sunshine/zYUhJMo_rLOR1s58DBd9nEn9U6RhMavYmVaRSKMKbt0-4gBm7vnWYuBPDlZUVr9JQiXIMApoQ2Kq9uf9Ac4ntjhmuQCJKM1h9s3IrBIvTAByYEcxqpwB2l84HfLMFE5YnP8gNjR2xMo5audKuWeWACCfpZT4t-Y7A4rd0HVaOWXlv1m9lc7
 
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (1)
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   //  SuperTV Vavoo HD(TURKEY).b
-http://izlego.minikirppis-com.workers.dev/ID=5934938605e361d7e0ff0
+http://109.205.187.150:8008/sunshine/ufxeuXpxbDzJyjleZgOZ0R5AMA_i-0mtEpfLFAqt2vNcyyV-GWojHETGsyrgzK-Tnu0TfUmxr4Ov2cA3sZGQq0eblbS80H34rM3hOzCtRn1W0efUsK9FwuGQ1KqXOfSp5PtOGgTNA9eSunowsd2kWbsTNlE37gQ5X2TAgyIWVOhBEKzFNw
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (2)
 #EXTVLCOPT:http-reconnect=true
@@ -515,7 +515,7 @@ http://izlego.minikirppis-com.workers.dev/ID=1536730627bbf8f95ca477
 http://izlego.minikirppis-com.workers.dev/ID=2113462398d8dd57a8ea73
 
 
-#EXTINF:-1 group-title="SPOR" , SporTV 1 (4)
+#EXTINF:-1 group-title="SPOR" , SporTV 1 (5)
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   //  taraftarium24.cc
 https://taraftarium.alimirzayev0414.workers.dev/?url=https%3A%2F%2Fladyboy.yedektv.cfd%2F%2Fhls%2Fbein1.m3u8
