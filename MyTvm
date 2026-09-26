@@ -4,22 +4,22 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/265470.m3u8
 
 
 #EXTINF:-1 group-title="Canlı" ,Sinema
-https://saraydorf.de/cors/code_proxy.php?url=https://65.108.239.207/sinema/index.m3u8
+https://65.108.239.207/sinema/index.m3u8
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/111460.m3u8
 
 
 #EXTINF:-1 group-title="Canlı" ,Sinema 2
-https://saraydorf.de/cors/code_proxy.php?url=https://65.108.239.207/sinema2/index.m3u8
+https://65.108.239.207/sinema2/index.m3u8
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/265505.m3u8
 
 
 #EXTINF:-1 group-title="Canlı" ,Sinema Aksiyon
-https://saraydorf.de/cors/code_proxy.php?url=https://65.108.239.207/sinemaaksiyon/index.m3u8
+https://65.108.239.207/sinemaaksiyon/index.m3u8
 https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=http://65.108.239.207/bsaction1/index.m3u8
 
 
 #EXTINF:-1 group-title="Canlı" ,Sinema Aksiyon 2
-https://saraydorf.de/cors/code_proxy.php?url=https://65.108.239.207/sinemaaksiyon2/index.m3u8
+https://65.108.239.207/sinemaaksiyon2/index.m3u8
 https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=http://65.108.239.207/sinemaaksiyon2/index.m3u8
 
 
@@ -31,11 +31,11 @@ https://saraydorf.de/cors/code_proxy.php?url=https://65.108.239.207/sinemaaile/i
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/265506.m3u8
 
 #EXTINF:-1 group-title="Canlı" ,Sinema 1001
-https://saraydorf.de/cors/code_proxy.php?url=https://65.108.239.207/sinema1001/index.m3u8
+https://65.108.239.207/sinema1001/index.m3u8
 http://65.108.239.207/sinema1001/index.m3u8
 
 #EXTINF:-1 group-title="Canlı" ,Sinema 1002
-https://saraydorf.de/cors/code_proxy.php?url=https://65.108.239.207/sinema1002/index.m3u8
+https://65.108.239.207/sinema1002/index.m3u8
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/242872.m3u8
 
 
