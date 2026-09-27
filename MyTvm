@@ -388,13 +388,13 @@ https://taraftarium.alimirzayev0414.workers.dev/?url=https%3A%2F%2Fladyboy.yedek
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (4)
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  
-
+#EXTVLCOPT:clock-jitter=0   //  saraydorf
+https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (5)
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   //  
-
+https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (6)
 #EXTVLCOPT:http-reconnect=true
