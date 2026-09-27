@@ -39,7 +39,7 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/242872.m3u8
 
 
 #EXTINF:-1 group-title="Canlı" ,Sinema Komedi
-https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=http://65.108.239.207/sinemakomedi/index.m3u8
+http://65.108.239.207/sinemakomedi/index.m3u8
 
 #EXTINF:-1 group-title="Canlı" ,Sinema Komedi 2
 
