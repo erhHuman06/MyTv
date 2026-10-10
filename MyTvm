@@ -335,62 +335,57 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 #EXTINF:-1 group-title="SPOR" , SporTV 1
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  // Atomspor
-https://ladyboy.yedektv.cfd//hls/bein1.m3u8
 https://ladyboy.yedektv.cfd//s-sport/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (a)
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // 
-https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:clock-jitter=0  //  warstv/tr3
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
 
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (b)
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  //  warstv/tr3
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253737.m3u8
+
 
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (c)
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  //  warstv/tr3
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253737.m3u8
+#EXTVLCOPT:clock-jitter=0  //  saraydorf
+https://proxy.codenet.lol/live/A9A74EDC2AC55530B4D98B43C56B7908/1.m3u8
 
 
 #EXTINF:-1 group-title="SPOR"  ,SporTV 1 (d)
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  //  
-https://taraftarium.alimirzayev0414.workers.dev/?url=https%3A%2F%2Fladyboy.yedektv.cfd%2F%2Fhls%2Fbein1.m3u8
 
 
 #EXTINF:-1 group-title="SPOR"  ,SporTV 1 (e)
 #EXTVLCOPT:http-reconnect=true  // saraydorf
-https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
+
 
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (1)
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  saraydorf
-https://corestream.siteyaptim.live//bein1/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:clock-jitter=0   //  
 
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (2)
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  taraftarium24.cc
-https://taraftarium.alimirzayev0414.workers.dev/?url=https%3A%2F%2Fladyboy.yedektv.cfd%2F%2Fhls%2Fbein1.m3u8
+#EXTVLCOPT:clock-jitter=0   //  
 
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (3)
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0   //  saraydorf
-https://proxy.codenet.lol/live/A9A74EDC2AC55530B4D98B43C56B7908/1.m3u8
+#EXTVLCOPT:clock-jitter=0   //  
 
 
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (4)
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0   //  
-https://andro.evrenesoglu121.click/checklist/androstreamlivekral.m3u8
 
 
 
