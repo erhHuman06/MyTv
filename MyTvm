@@ -334,8 +334,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-jitter=0  // Atomspor
-https://ladyboy.yedektv.cfd//s-sport/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:clock-jitter=0  //  
+https://ladyboy.ardastream2.cfd//beintv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="SPOR" , SporTV 1 (a)
@@ -360,6 +360,7 @@ https://proxy.codenet.lol/live/A9A74EDC2AC55530B4D98B43C56B7908/1.m3u8
 #EXTINF:-1 group-title="SPOR"  ,SporTV 1 (d)
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:clock-jitter=0  //  
+
 
 
 #EXTINF:-1 group-title="SPOR"  ,SporTV 1 (e)
