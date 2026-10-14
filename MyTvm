@@ -110,8 +110,6 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd8763
 #EXTINF:-1 group-title="Canlı" ,FIX YEŞiLÇAM
 http://izlego.minikirppis-com.workers.dev/ID=411086166261597686dd33
 
-#EXTINF:-1 group-title="Canlı" ,FIX Netflx
-http://izlego.minikirppis-com.workers.dev/ID=32169858008c38299c49bf
 
 #EXTINF:-1 group-title="Canlı" ,FIX BiLiM-KURGU
 http://izlego.minikirppis-com.workers.dev/ID=2480231926f2f22c708b52
